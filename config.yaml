@@ -1,0 +1,73 @@
+# Media Signal Radar — configuration
+# Topic: "Tekoäly Suomessa" — AI in Finnish public discourse
+
+topic:
+  name: "Tekoäly Suomessa"
+  description: >
+    AI in Finnish public discourse: launches, regulation, research, opinion,
+    and business signals as covered by major Finnish media.
+
+# Keyword prefilter (recall-oriented — the LLM classifier handles precision).
+# substrings: case-insensitive substring match against title + lead.
+#   Finnish is agglutinative, so stems match inflected forms
+#   ("tekoäly" also hits "tekoälyn", "tekoälyä", "tekoäly-yhtiö", ...).
+# patterns: regular expressions; use for short tokens that need word
+#   boundaries. (?-i:...) keeps a pattern case-sensitive.
+keywords:
+  substrings:
+    - tekoäly
+    - generatiivi      # generatiivinen tekoäly
+    - kielimalli       # (suuri) kielimalli = LLM
+    - koneoppimi       # koneoppiminen/koneoppimisen
+    - syväoppimi       # syväoppiminen
+    - neuroverk        # neuroverkko/neuroverkot
+    - chatgpt
+    - openai
+    - anthropic
+    - copilot
+    - deepseek
+    - "gpt-"
+  patterns:
+    - '\bAI\b'         # AI-malli, AI:n — uppercase only, see code
+    - '\bLLM\b'
+
+# Verified 12.7.2026 — see feeds-verified.md in the planning folder.
+feeds:
+  - outlet: Yle
+    name: Pääuutiset
+    url: https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss
+  - outlet: Yle
+    name: Tuoreimmat
+    url: https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET
+  - outlet: Helsingin Sanomat
+    name: Tuoreimmat
+    url: https://www.hs.fi/rss/tuoreimmat.xml
+  - outlet: Helsingin Sanomat
+    name: Teknologia
+    url: https://www.hs.fi/rss/teknologia.xml
+  - outlet: Kauppalehti
+    name: Pääuutiset
+    url: https://feeds.kauppalehti.fi/rss/main
+  - outlet: Tekniikka&Talous
+    name: Uutiset
+    url: https://www.tekniikkatalous.fi/api/feed/v2/rss/tt
+  - outlet: MTV Uutiset
+    name: Uusimmat
+    url: https://www.mtvuutiset.fi/api/feed/rss/uutiset_uusimmat
+  - outlet: Iltalehti
+    name: Uutiset
+    url: https://www.iltalehti.fi/rss/uutiset.xml
+  - outlet: Iltalehti
+    name: Digiuutiset
+    url: https://www.iltalehti.fi/rss/digiuutiset.xml
+  - outlet: Ilta-Sanomat
+    name: Tuoreimmat
+    url: https://www.is.fi/rss/tuoreimmat.xml
+  - outlet: Ilta-Sanomat
+    name: Digitoday
+    url: https://www.is.fi/rss/digitoday.xml
+
+dedupe:
+  # Two items are the same story if their title-stem Jaccard similarity
+  # meets this threshold (or their canonical links match).
+  similarity_threshold: 0.5
