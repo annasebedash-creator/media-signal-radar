@@ -77,3 +77,9 @@ dedupe:
   # Two items are the same story if their title-stem Jaccard similarity
   # meets this threshold (or their canonical links match).
   similarity_threshold: 0.5
+
+classifier:
+  # Default per plan; final choice is made by the eval step (hand-labeled
+  # test set). Known edge: gpt-4o-mini refuses to score AI-infrastructure
+  # stories as in-topic (0/5 runs) where gpt-4o is stable (5/5) — see EVALS.md.
+  model: gpt-4o-mini
