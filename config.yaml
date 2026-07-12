@@ -27,6 +27,12 @@ keywords:
     - copilot
     - deepseek
     - "gpt-"
+    - claude
+    - gemini
+    - grok
+    - mistral
+    - nvidia
+    - datakeskus     # data centers — core of Finnish AI discourse (energy, investments)
   patterns:
     - '\bAI\b'         # AI-malli, AI:n — uppercase only, see code
     - '\bLLM\b'

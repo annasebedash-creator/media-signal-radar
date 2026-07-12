@@ -1,6 +1,6 @@
 {
   "date": "2026-07-12",
-  "fetched_at": "2026-07-12T20:47:45+03:00",
+  "fetched_at": "2026-07-12T20:50:07+03:00",
   "topic": "Tekoäly Suomessa",
   "feeds": {
     "Yle / Pääuutiset": {
@@ -50,8 +50,8 @@
   },
   "totals": {
     "items_fetched": 520,
-    "items_matched": 16,
-    "signals": 16
+    "items_matched": 17,
+    "signals": 17
   },
   "signals": [
     {
@@ -120,6 +120,20 @@
       "keyword": "tekoäly",
       "outlets": [
         "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Iltalehti",
+      "feed": "Digiuutiset",
+      "title": "Datakeskus saastutti kaupungin vedet vaarallisella bakteerilla Yhdysvalloissa",
+      "lead": "",
+      "link": "https://www.iltalehti.fi/digiuutiset/a/9417bd7e-aecb-4279-a51a-61298dd6b663?utm_source=rss",
+      "published": "2026-07-12T15:46:08Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Iltalehti"
       ],
       "outlet_count": 1,
       "duplicates": []
