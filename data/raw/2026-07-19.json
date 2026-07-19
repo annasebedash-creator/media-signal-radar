@@ -1,0 +1,282 @@
+{
+  "date": "2026-07-19",
+  "fetched_at": "2026-07-19T09:05:42+03:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 15
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 30
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 98
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 523,
+    "items_matched": 16,
+    "signals": 16
+  },
+  "signals": [
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | HS Visio listasi: Tässä ovat Suomen 10 kiinnostavinta tekoälyn startupia",
+      "lead": "HS Visio listaa kymmenen lupaavaa suomalaista tekoäly-startupia, joita kannattaa seurata. Suomi jäi Ruotsista jälkeen, mutta vielä ei ole myöhäistä päästä mukaan aaltoon.",
+      "link": "https://www.hs.fi/visio/art-2000011998547.html",
+      "published": "2026-07-18T23:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Mielenterveys | Tekoälyterapia vähensi mielen­terveys­oireita ja lisäsi työkykyä",
+      "lead": "Terapiaan koulitun sovelluksen käyttö paransi kokeessa unta ja vähensi poissaoloja työpaikalta.",
+      "link": "https://www.hs.fi/tiede/art-2000012099570.html",
+      "published": "2026-07-18T17:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "San Francisco | Tältä näyttää hysteriaan vajonnut asuntomarkkina",
+      "lead": "San Franciscon tekoäly­buumin ytimessä asuntokauppaa käydään jo firmojen osakkeilla, ja hinnat räjähtävät. ”Monet ovat hyvin nuoria ja rikastuneet erittäin nopeasti”, välittäjä sanoo ostajista.",
+      "link": "https://www.hs.fi/visio/art-2000012138026.html",
+      "published": "2026-07-18T12:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Uusi tekoälyriski nousi esiin – Olli Rehn: ”Tämä on uusi vaihe”",
+      "lead": "Tekoälyyn liittyvät varoitukset kovenevat Euroopassa. Nyt nostetaan esiin myös kyberuhat ja rahoitusvakaus. \"Jos tekoäly ylittää odotukset, se vaikuttaa rahoitusvakauteen. Jos tekoäly alittaa odotukset, se vaikuttaa rahoitusvakauteen\", pääekonomisti Torsten Sløk kuvailee.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/ec99b067-5052-4f61-bf50-ec18d0991d63?utm_source=rss",
+      "published": "2026-07-19T05:44:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Tekoäly- ja puolijohdeosakkeet laskusuunnassa – Nordean Antti Saari kertoo, onko markkinalla tapahtunut käänne",
+      "lead": "Nordean päästrategi Antti Saari tulkitsee, että viime aikoina nähdyt tekoäly- ja puolijohdeosakkeiden laskut ovat tavallinen korjausliike, ei suunnanmuutos. Nyt hän kertoo näkemyksensä siitä, milloin korjausliikkeen suuntaviivat nähdään ja voiko siruyhtiöiden voittokulku jatkua vielä.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/82fbcc46-8ae1-4aed-a04f-65b8a7f37116?utm_source=rss",
+      "published": "2026-07-18T13:06:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Nvidiasta uutisoineen Nokian osake heiluu rajusti – Analyytikot näkevät 19 %:n nousuvaran",
+      "lead": "Voimakkaasti heiluneen Nokian osakkeessa nähdään vaihteeksi nousuvaraa. Uusi askel Nvidia-yhteistyössä voi auttaa Nokiaa käsittelemään verkkoalan syklisyyttä.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/b5af99a9-d58a-4926-9ba2-1796f0fbded6?utm_source=rss",
+      "published": "2026-07-18T08:00:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "Tekoäly luo uuden jakolinjan työmarkkinoille – Näin se muuttaa palkkoja ja työpaikkoja",
+      "lead": "PwC:n tuoreen AI Jobs Barometer -raportin mukaan tekoäly jakaa työmarkkinoita kahteen kehityssuuntaan.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/8b5d331e-ec12-409e-be0b-a53e92cf116e?utm_source=rss",
+      "published": "2026-07-19T01:01:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Iltalehti",
+      "feed": "Digiuutiset",
+      "title": "Analyysi: Tekoäly-yhtiöiden ja musiikin­tekijöiden oikeuskiista on loppusuoralla - Vaikuttaa koko ihmiskuntaan",
+      "lead": "",
+      "link": "https://www.iltalehti.fi/digiuutiset/a/041e8dc7-221f-453b-8246-159cdbebc05c?utm_source=rss",
+      "published": "2026-07-13T10:51:49Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Iltalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Meta peruu rankasti kritisoidun uudistuksen",
+      "lead": "Meta peruu jo toisen tekoälyominaisuuden tänä vuonna.",
+      "link": "https://www.is.fi/digitoday/art-2000012135409.html",
+      "published": "2026-07-11T08:18:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Apple haastoi Open AI:n oikeuteen – syyttää törkeistä tempuista",
+      "lead": "Tekoäly-yhtiössä työskentelee satoja Applen entisiä työntekijöitä, laitevalmistaja sanoo.",
+      "link": "https://www.is.fi/digitoday/art-2000012135233.html",
+      "published": "2026-07-10T23:32:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Instagramissa julkaistuille kuville voi pian käydä karusti",
+      "lead": "Käyttäjät voivat hyödyntää muiden kuvia Metan tekoälytyökalulla.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012130402.html",
+      "published": "2026-07-09T16:06:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Asiakkaat valittivat raa'asta kanasta ja kuolleista hiiristä – suosikki­palvelu väitti ihan muuta",
+      "lead": "Tekoäly johti pahasti harhaan, kertoo kuluttajajärjestön selvitys.",
+      "link": "https://www.is.fi/digitoday/art-2000012124149.html",
+      "published": "2026-07-06T16:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Tekoälyintoilulle tuli kallis loppu – Ford otti lusikan kauniiseen käteen ja otti ihmisiä tilalle",
+      "lead": "Autovalmistaja on kamppaillut viime vuosina mittavien laadunvalvontaongelmien kanssa.",
+      "link": "https://www.is.fi/digitoday/art-2000012113094.html",
+      "published": "2026-07-01T11:13:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "USA poistaa vientirajoitukset Anthropicin tehokkaimmilta tekoälymalleilta",
+      "lead": "Eurooppa säikähti kesäkuussa, kun Yhdysvallat veti ”tappokytkimestä”.",
+      "link": "https://www.is.fi/digitoday/art-2000012112661.html",
+      "published": "2026-07-01T01:44:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    }
+  ]
+}
