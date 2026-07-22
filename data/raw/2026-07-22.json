@@ -1,0 +1,282 @@
+{
+  "date": "2026-07-22",
+  "fetched_at": "2026-07-22T08:56:13+03:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 14
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 30
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 98
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 522,
+    "items_matched": 16,
+    "signals": 16
+  },
+  "signals": [
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Televisioarvio | Kun tanskalainen perheenisä Stephan kuolee, tekoäly-Stephan ottaa hänen paikkansa",
+      "lead": "Syöpään kuolevasta miehestä tehdään avatar.",
+      "link": "https://www.hs.fi/popkulttuuri/art-2000012154905.html",
+      "published": "2026-07-21T15:15:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Ura | Juhani Mykkänen sai työn Open AI:n säätiöstä – ”Tuntuu ehdottomasti unelmatyöltä”",
+      "lead": "Juhani Mykkäsen uusi työpaikka on poikkeuksellinen näköalapaikka tekoälyn ytimessä: Open AI Foundationissa kohtaavat raha, valta ja lupaus turvallisemmasta tekoälystä.",
+      "link": "https://www.hs.fi/visio/art-2000012155335.html",
+      "published": "2026-07-21T11:56:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Musiikkipalvelun väitetään kouluttaneen tekoälyään ilman lupaa suomalaisella metallilla",
+      "lead": "Sony arvioi, että Udio-palvelun toiminta on voinut aiheuttaa yhtiölle jopa 4,5 miljardin dollarin vahingot.",
+      "link": "https://www.hs.fi/visio/art-2000012154841.html",
+      "published": "2026-07-21T08:43:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Euroopan suurimman teknologiayhtiön johtaja: Odotamme täyttä näyttöä, kun pitäisi ottaa riskejä",
+      "lead": "Yhdysvallat on tekoälyssä Eurooppaa edellä, mutta SAP:n johtajan Thomas Saueressigin mukaan peli ei ole menetetty. Euroopan vahvuus voi löytyä yritysten tarpeisiin kehitetystä tekoälystä.",
+      "link": "https://www.hs.fi/visio/art-2000012080368.html",
+      "published": "2026-07-21T07:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tulokset | Wärtsilälle kaikkien aikojen korkein tilauskertymä",
+      "lead": "Datakeskusten buumi kasvattaa Wärtsilää entisestään. Yhtiö kertoi jälleen mainiosta tuloksesta.",
+      "link": "https://www.hs.fi/visio/art-2000012154509.html",
+      "published": "2026-07-21T06:47:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Jobilla leikkasi tuotantokustannuksensa alle promilleen tekoälyn avulla",
+      "lead": "Rekrytointimarkkinoinnissa aiemmin käsin tehdyt työvaiheet voidaan nyt hoitaa tekoälyn avulla. Ihmistä tarvitaan edelleen lopullisessa työntekijävalinnassa.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/df2b367f-d6a0-4443-94ee-b20f9c1762ef?utm_source=rss",
+      "published": "2026-07-22T04:15:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Alphabet pumppaa miljardeja tekoälyyn - Tulos kertoo, oliko se sen arvoista",
+      "lead": "Alphabet julkistaa keskiviikkona toisen vuosineljänneksen tuloksensa. Markkinoita kiinnostaa erityisesti, miten yhtiö perustelee miljardien dollarien tekoälyinvestointinsa ja niiden jatkumisen.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/0ea4aa7b-9f87-4d93-9c6b-5879a47106fd?utm_source=rss",
+      "published": "2026-07-22T03:15:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Suomalaisyritykset tekevät tekoälyllä yhden virheen – ”Ajatellaan liian pienesti”",
+      "lead": "Google Cloudin maajohtaja Markus Hongisto ja Codenton toimitusjohtaja Anthony Gyursanszky esittelivät, miltä näyttää organisaatiollinen agenttiryhmä ja selittivät, miten yritysten tulisi pysyä tekoälykehityksen kelkassa.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/0675bc53-4e21-49fe-a488-78ff9bec75ce?utm_source=rss",
+      "published": "2026-07-22T04:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Meta peruu rankasti kritisoidun uudistuksen",
+      "lead": "Meta peruu jo toisen tekoälyominaisuuden tänä vuonna.",
+      "link": "https://www.is.fi/digitoday/art-2000012135409.html",
+      "published": "2026-07-11T08:18:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Apple haastoi Open AI:n oikeuteen – syyttää törkeistä tempuista",
+      "lead": "Tekoäly-yhtiössä työskentelee satoja Applen entisiä työntekijöitä, laitevalmistaja sanoo.",
+      "link": "https://www.is.fi/digitoday/art-2000012135233.html",
+      "published": "2026-07-10T23:32:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Instagramissa julkaistuille kuville voi pian käydä karusti",
+      "lead": "Käyttäjät voivat hyödyntää muiden kuvia Metan tekoälytyökalulla.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012130402.html",
+      "published": "2026-07-09T16:06:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Asiakkaat valittivat raa'asta kanasta ja kuolleista hiiristä – suosikki­palvelu väitti ihan muuta",
+      "lead": "Tekoäly johti pahasti harhaan, kertoo kuluttajajärjestön selvitys.",
+      "link": "https://www.is.fi/digitoday/art-2000012124149.html",
+      "published": "2026-07-06T16:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Tekoälyintoilulle tuli kallis loppu – Ford otti lusikan kauniiseen käteen ja otti ihmisiä tilalle",
+      "lead": "Autovalmistaja on kamppaillut viime vuosina mittavien laadunvalvontaongelmien kanssa.",
+      "link": "https://www.is.fi/digitoday/art-2000012113094.html",
+      "published": "2026-07-01T11:13:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "USA poistaa vientirajoitukset Anthropicin tehokkaimmilta tekoälymalleilta",
+      "lead": "Eurooppa säikähti kesäkuussa, kun Yhdysvallat veti ”tappokytkimestä”.",
+      "link": "https://www.is.fi/digitoday/art-2000012112661.html",
+      "published": "2026-07-01T01:44:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    }
+  ]
+}

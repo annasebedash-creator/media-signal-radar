@@ -1,0 +1,310 @@
+{
+  "date": "2026-07-22",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Sony ja Udio kohtaavat oikeudellisia haasteita, kun musiikkipalvelun väitetään kouluttaneen tekoälyään ilman lupaa suomalaisella metallimusiikilla.",
+    "Helsingin yliopiston suosituin kurssi laajenee, tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä, mikä voi vaikuttaa työmarkkinoihin.",
+    "Suomalaisyritykset kohtaavat haasteita tekoälykehityksessä, sillä niiden ajatellaan ajattelevan liian pienesti, mikä korostaa tarvetta laajentaa ajattelua."
+  ],
+  "top_signals": [
+    {
+      "title": "Tekoäly | Musiikkipalvelun väitetään kouluttaneen tekoälyään ilman lupaa suomalaisella metallilla",
+      "lead": "Sony arvioi, että Udio-palvelun toiminta on voinut aiheuttaa yhtiölle jopa 4,5 miljardin dollarin vahingot.",
+      "link": "https://www.hs.fi/visio/art-2000012154841.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 3,
+      "finland_link": true,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "Sony",
+        "Udio"
+      ],
+      "why_care": "Tuo esiin merkittävän oikeudellisen riskin ja taloudelliset vaikutukset, jotka liittyvät tekoälyn kouluttamiseen ilman lupaa."
+    },
+    {
+      "title": "USA poistaa vientirajoitukset Anthropicin tehokkaimmilta tekoälymalleilta",
+      "lead": "Eurooppa säikähti kesäkuussa, kun Yhdysvallat veti ”tappokytkimestä”.",
+      "link": "https://www.is.fi/digitoday/art-2000012112661.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 3,
+      "finland_link": false,
+      "signal_type": "regulation",
+      "tone": "neutral",
+      "stakeholders": [
+        "USA",
+        "Anthropic"
+      ],
+      "why_care": "Yhdysvaltojen vientirajoitusten poistaminen voi vaikuttaa merkittävästi tekoälymarkkinoiden kilpailutilanteeseen ja innovaatioihin."
+    },
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    },
+    {
+      "title": "Jobilla leikkasi tuotantokustannuksensa alle promilleen tekoälyn avulla",
+      "lead": "Rekrytointimarkkinoinnissa aiemmin käsin tehdyt työvaiheet voidaan nyt hoitaa tekoälyn avulla. Ihmistä tarvitaan edelleen lopullisessa työntekijävalinnassa.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/df2b367f-d6a0-4443-94ee-b20f9c1762ef?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Jobilla"
+      ],
+      "why_care": "Korostaa tekoälyn hyötyjä rekrytointiprosessien tehostamisessa."
+    },
+    {
+      "title": "Asiakkaat valittivat raa'asta kanasta ja kuolleista hiiristä – suosikki­palvelu väitti ihan muuta",
+      "lead": "Tekoäly johti pahasti harhaan, kertoo kuluttajajärjestön selvitys.",
+      "link": "https://www.is.fi/digitoday/art-2000012124149.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "critical",
+      "stakeholders": [
+        "kuluttajajärjestö"
+      ],
+      "why_care": "Tuo esiin tekoälyn mahdolliset maineriskit ja virheelliset tiedot kuluttajapalveluissa."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Ura | Juhani Mykkänen sai työn Open AI:n säätiöstä – ”Tuntuu ehdottomasti unelmatyöltä”",
+      "lead": "Juhani Mykkäsen uusi työpaikka on poikkeuksellinen näköalapaikka tekoälyn ytimessä: Open AI Foundationissa kohtaavat raha, valta ja lupaus turvallisemmasta tekoälystä.",
+      "link": "https://www.hs.fi/visio/art-2000012155335.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "positive",
+      "stakeholders": [
+        "Juhani Mykkänen",
+        "Open AI Foundation"
+      ],
+      "why_care": "Korostaa suomalaisten asiantuntijoiden roolia kansainvälisessä tekoälykeskustelussa."
+    },
+    {
+      "title": "Tulokset | Wärtsilälle kaikkien aikojen korkein tilauskertymä",
+      "lead": "Datakeskusten buumi kasvattaa Wärtsilää entisestään. Yhtiö kertoi jälleen mainiosta tuloksesta.",
+      "link": "https://www.hs.fi/visio/art-2000012154509.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "positive",
+      "stakeholders": [
+        "Wärtsilä"
+      ],
+      "why_care": "Datakeskusten kasvava kysyntä voi vaikuttaa merkittävästi Wärtsilän liiketoimintaan ja tekoälyinfrastruktuurin kehitykseen Suomessa."
+    },
+    {
+      "title": "Suomalaisyritykset tekevät tekoälyllä yhden virheen – ”Ajatellaan liian pienesti”",
+      "lead": "Google Cloudin maajohtaja Markus Hongisto ja Codenton toimitusjohtaja Anthony Gyursanszky esittelivät, miltä näyttää organisaatiollinen agenttiryhmä ja selittivät, miten yritysten tulisi pysyä tekoälykehityksen kelkassa.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/0675bc53-4e21-49fe-a488-78ff9bec75ce?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Google Cloud",
+        "Markus Hongisto",
+        "Codento",
+        "Anthony Gyursanszky"
+      ],
+      "why_care": "Korostaa suomalaisten yritysten haasteita tekoälykehityksessä ja tarpeen laajentaa ajattelua."
+    },
+    {
+      "title": "Televisioarvio | Kun tanskalainen perheenisä Stephan kuolee, tekoäly-Stephan ottaa hänen paikkansa",
+      "lead": "Syöpään kuolevasta miehestä tehdään avatar.",
+      "link": "https://www.hs.fi/popkulttuuri/art-2000012154905.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Herättää keskustelua tekoälyn käytöstä henkilökohtaisissa ja eettisissä kysymyksissä."
+    },
+    {
+      "title": "Tekoäly | Euroopan suurimman teknologiayhtiön johtaja: Odotamme täyttä näyttöä, kun pitäisi ottaa riskejä",
+      "lead": "Yhdysvallat on tekoälyssä Eurooppaa edellä, mutta SAP:n johtajan Thomas Saueressigin mukaan peli ei ole menetetty. Euroopan vahvuus voi löytyä yritysten tarpeisiin kehitetystä tekoälystä.",
+      "link": "https://www.hs.fi/visio/art-2000012080368.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "SAP",
+        "Thomas Saueressig"
+      ],
+      "why_care": "Korostaa Euroopan kilpailukyvyn haasteita tekoälyssä ja yritysten tarpeiden huomioimisen merkitystä."
+    },
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyn matkia musiikillisia ääniä, mikä voi vaikuttaa musiikkiteollisuuden tulevaisuuteen."
+    },
+    {
+      "title": "Alphabet pumppaa miljardeja tekoälyyn - Tulos kertoo, oliko se sen arvoista",
+      "lead": "Alphabet julkistaa keskiviikkona toisen vuosineljänneksen tuloksensa. Markkinoita kiinnostaa erityisesti, miten yhtiö perustelee miljardien dollarien tekoälyinvestointinsa ja niiden jatkumisen.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/0ea4aa7b-9f87-4d93-9c6b-5879a47106fd?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Alphabet"
+      ],
+      "why_care": "Tuo esiin suurten tekoälyinvestointien vaikutuksen markkinoihin ja yhtiöiden taloudelliseen suorituskykyyn."
+    },
+    {
+      "title": "Meta peruu rankasti kritisoidun uudistuksen",
+      "lead": "Meta peruu jo toisen tekoälyominaisuuden tänä vuonna.",
+      "link": "https://www.is.fi/digitoday/art-2000012135409.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn kehityksen haasteet ja käyttäjäpalautteen merkityksen."
+    },
+    {
+      "title": "Apple haastoi Open AI:n oikeuteen – syyttää törkeistä tempuista",
+      "lead": "Tekoäly-yhtiössä työskentelee satoja Applen entisiä työntekijöitä, laitevalmistaja sanoo.",
+      "link": "https://www.is.fi/digitoday/art-2000012135233.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "Apple",
+        "Open AI"
+      ],
+      "why_care": "Oikeusjuttu nostaa esiin kilpailun ja eettisten kysymysten merkityksen tekoälyalalla."
+    },
+    {
+      "title": "Instagramissa julkaistuille kuville voi pian käydä karusti",
+      "lead": "Käyttäjät voivat hyödyntää muiden kuvia Metan tekoälytyökalulla.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012130402.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "Meta"
+      ],
+      "why_care": "Herättää huolta käyttäjien yksityisyydestä ja kuvien käytön eettisyydestä tekoälyratkaisuissa."
+    },
+    {
+      "title": "Tekoälyintoilulle tuli kallis loppu – Ford otti lusikan kauniiseen käteen ja otti ihmisiä tilalle",
+      "lead": "Autovalmistaja on kamppaillut viime vuosina mittavien laadunvalvontaongelmien kanssa.",
+      "link": "https://www.is.fi/digitoday/art-2000012113094.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "Ford"
+      ],
+      "why_care": "Tuo esiin tekoälyn käytön haasteet ja riskit autoteollisuudessa."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 522,
+    "signals": 16,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
