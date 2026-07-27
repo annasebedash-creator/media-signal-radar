@@ -1,0 +1,205 @@
+{
+  "date": "2026-07-27",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Historiallinen päätös tekoälyjätin miljardilaskusta voi muuttaa merkittävästi alan taloudellisia rakenteita ja investointeja Suomessa.",
+    "Helsingin yliopiston suosittu tekoälykurssi jatkuu, tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä, mikä voi vaikuttaa työmarkkinoihin.",
+    "Apple haastoi Open AI:n oikeuteen, mikä nostaa esiin kilpailun ja eettisten kysymysten merkityksen tekoälyalalla."
+  ],
+  "top_signals": [
+    {
+      "title": "Historiallinen päätös: Tekoälyjätille miljardilasku",
+      "lead": "",
+      "link": "https://www.iltalehti.fi/digiuutiset/a/6b68fd5d-836f-44d1-9fa9-4d3116876d87?utm_source=rss",
+      "outlet": "Iltalehti",
+      "outlets": [
+        "Iltalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 3,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tämä päätös voi vaikuttaa merkittävästi tekoälyalan taloudellisiin rakenteisiin ja investointeihin."
+    },
+    {
+      "title": "Tekoäly karkasi turvatestistä – Seuraukset järkyttivät",
+      "lead": "",
+      "link": "https://www.iltalehti.fi/digiuutiset/a/6b557cd5-e91b-497b-aafb-69bb358a3edf?utm_source=rss",
+      "outlet": "Iltalehti",
+      "outlets": [
+        "Iltalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 3,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn mahdolliset riskit ja haasteet turvallisuudessa, mikä voi vaikuttaa laajasti julkiseen keskusteluun ja sääntelyyn."
+    },
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    },
+    {
+      "title": "Tekoäly | Tekoäly on vain lisännyt resurssien kulutusta",
+      "lead": "Tekoälystä aiheutuva suora energiankulutuksen kasvu ylittää selvästi ne mahdolliset hyödyt, joita tekoälyllä on saavutettu energiatehokkuuden optimoinnissa.",
+      "link": "https://www.hs.fi/mielipide/art-2000012161565.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Korostaa tekoälyn ympäristövaikutuksia ja energiankulutuksen haasteita, mikä voi vaikuttaa julkiseen keskusteluun ja sääntelyyn."
+    },
+    {
+      "title": "Tekoäly | Euroopan tulee panostaa pitkäjänteiseen tekoälykoulutukseen",
+      "lead": "Pelkkä promptien laatimisen opettelu ei kehitä tekoälyaikakaudella tarvittavaa osaamista eikä tee Euroopasta tekoälykehityksen edelläkävijää.",
+      "link": "https://www.hs.fi/mielipide/art-2000012146315.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Korostaa koulutuksen merkitystä tekoälyosaamisen kehittämisessä Euroopassa."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+    },
+    {
+      "title": "Donald Trump latasi 41 tekoälykuvaa parissa tunnissa",
+      "lead": "Yhdysvaltain presidentti julkaisi ryppään tekoälyllä tehtyjä kuvia.",
+      "link": "https://www.is.fi/ulkomaat/art-2000012165806.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "launch",
+      "tone": "neutral",
+      "stakeholders": [
+        "Donald Trump"
+      ],
+      "why_care": "Herättää keskustelua tekoälyn käytöstä julkisessa viestinnässä."
+    },
+    {
+      "title": "Meta peruu rankasti kritisoidun uudistuksen",
+      "lead": "Meta peruu jo toisen tekoälyominaisuuden tänä vuonna.",
+      "link": "https://www.is.fi/digitoday/art-2000012135409.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Meta on keskeinen toimija tekoälymarkkinoilla, ja sen päätökset voivat vaikuttaa laajemmin alan kehitykseen ja käyttäjien luottamukseen."
+    },
+    {
+      "title": "Apple haastoi Open AI:n oikeuteen – syyttää törkeistä tempuista",
+      "lead": "Tekoäly-yhtiössä työskentelee satoja Applen entisiä työntekijöitä, laitevalmistaja sanoo.",
+      "link": "https://www.is.fi/digitoday/art-2000012135233.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "Apple",
+        "Open AI"
+      ],
+      "why_care": "Oikeusriita nostaa esiin kilpailun ja eettisten kysymysten merkityksen tekoälyalalla."
+    },
+    {
+      "title": "Instagramissa julkaistuille kuville voi pian käydä karusti",
+      "lead": "Käyttäjät voivat hyödyntää muiden kuvia Metan tekoälytyökalulla.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012130402.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "Meta"
+      ],
+      "why_care": "Herättää huolta käyttäjien yksityisyydestä ja kuvien käytön eettisyydestä tekoälyratkaisuissa."
+    },
+    {
+      "title": "Asiakkaat valittivat raa'asta kanasta ja kuolleista hiiristä – suosikki­palvelu väitti ihan muuta",
+      "lead": "Tekoäly johti pahasti harhaan, kertoo kuluttajajärjestön selvitys.",
+      "link": "https://www.is.fi/digitoday/art-2000012124149.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "research",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn mahdolliset virheet ja niiden vaikutukset kuluttajapalveluissa."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 525,
+    "signals": 11,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
