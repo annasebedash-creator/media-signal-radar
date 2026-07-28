@@ -1,0 +1,230 @@
+{
+  "date": "2026-07-28",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Cerebras Systemsin suunnitelma laajentaa Suomeen voi vahvistaa paikallista tekoälyinfrastruktuuria ja datakeskusten kehitystä.",
+    "Helsingin yliopiston suosittu tekoälykurssi saa jatkoa, mikä edistää tekoälyosaamista ja voi vaikuttaa tulevaisuuden työmarkkinoihin.",
+    "Apple ja Open AI:n välinen oikeusriita korostaa kilpailun ja eettisten kysymysten merkitystä tekoälyalalla."
+  ],
+  "top_signals": [
+    {
+      "title": "Turvallisuus | WSJ: Tekoäly tarjoaa edelleen neuvoja biologisten aseiden kehittämiseen",
+      "lead": "Tekoälytyökalut ovat tarjoilleet käyttäjilleen muun muassa ohjeita, miten myrkkyjä voidaan luoda ja levittää. Ohjeet eivät ole vaatineet kuin lukiotason biologian osaamisen.",
+      "link": "https://www.hs.fi/maailma/art-2000012167655.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 3,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn mahdolliset riskit ja väärinkäytön mahdollisuudet, mikä voi vaikuttaa sääntelykeskusteluun."
+    },
+    {
+      "title": "Historiallinen päätös: Tekoälyjätille miljardilasku",
+      "lead": "",
+      "link": "https://www.iltalehti.fi/digiuutiset/a/6b68fd5d-836f-44d1-9fa9-4d3116876d87?utm_source=rss",
+      "outlet": "Iltalehti",
+      "outlets": [
+        "Iltalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 3,
+      "finland_link": false,
+      "signal_type": "regulation",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Päätös voi vaikuttaa merkittävästi tekoälyn sääntelyyn ja taloudellisiin investointeihin alalla."
+    },
+    {
+      "title": "Datakeskukset | Jättisiruja tekevä tekoäly-yhtiö aikoo laajentaa Suomeen",
+      "lead": "Amerikkalainen Cerebras Systems kasvattaa toimintaansa Euroopassa. Yhtiö hakee paraikaa johtajaa datakeskukseen Mikkelissä.",
+      "link": "https://www.hs.fi/visio/art-2000012140185.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "neutral",
+      "stakeholders": [
+        "Cerebras Systems"
+      ],
+      "why_care": "Cerebras Systemsin laajentuminen Suomeen voi vahvistaa paikallista tekoälyinfrastruktuuria ja datakeskusten kehitystä."
+    },
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    },
+    {
+      "title": "Asiakkaat valittivat raa'asta kanasta ja kuolleista hiiristä – suosikki­palvelu väitti ihan muuta",
+      "lead": "Tekoäly johti pahasti harhaan, kertoo kuluttajajärjestön selvitys.",
+      "link": "https://www.is.fi/digitoday/art-2000012124149.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "kuluttajajärjestö"
+      ],
+      "why_care": "Tuo esiin tekoälyn mahdolliset maineriskit kuluttajapalveluissa."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "tutkijat",
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+    },
+    {
+      "title": "It-jättien osakkeet sukeltavat – ”Nyt se alkaa näkyä”, sanoo tekoälystä Ville Houttu, jonka perustama firma palvelee Googlea ja Microsoftia",
+      "lead": "Tekoäly muuttaa ohjelmistobisneksen logiikkaa perustavanlaatuisesti, uskoo sarjayrittäjä Ville Houttu. Muutos sai hänet perustamaan kolmannen yrityksensä Yhdysvaltoihin.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/d28ff2d5-c5b4-49c5-b4d2-7f7f1e697448?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Ville Houttu",
+        "Google",
+        "Microsoft"
+      ],
+      "why_care": "Tuo esiin tekoälyn vaikutukset ohjelmistobisnekseen ja sen liiketoimintamalleihin."
+    },
+    {
+      "title": "Tekoäly | Kiina sai yhdessä päivässä uuden teknojätin",
+      "lead": "Monelle täysin tuntematon teknologiayhtiö CXMT kipusi yhdessä päivässä Kiinan pörssin arvokkaimmaksi yhtiöksi. Asiantuntija arvioi, miksi puolikohdevalmistaja raketoi.",
+      "link": "https://www.hs.fi/visio/art-2000012166203.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tuo esiin kansainvälisen kilpailun ja kehityksen tekoälyteknologian alalla."
+    },
+    {
+      "title": "MARKKINAT: Aasialaisessa pörssissä jättimäinen romahdus – Kaupankäynti keskeytettiin",
+      "lead": "Aasian osakemarkkinat laskivat tiistaina jyrkästi tekoälyinvestointien tuottoihin liittyvien huolten painaessa puolijohdeyhtiöitä. Markkinoiden hermostuneisuutta lisäävät tällä viikolla julkistettavat Yhdysvaltain teknologiajättien tulokset.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/bf8ee197-7491-4a94-9b12-85ed47fa998c?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyinvestointien vaikutukset markkinoiden kehitykseen ja puolijohdeyhtiöiden haasteet."
+    },
+    {
+      "title": "Meta peruu rankasti kritisoidun uudistuksen",
+      "lead": "Meta peruu jo toisen tekoälyominaisuuden tänä vuonna.",
+      "link": "https://www.is.fi/digitoday/art-2000012135409.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn käyttöön liittyvät haasteet ja kuluttajien huolenaiheet."
+    },
+    {
+      "title": "Apple haastoi Open AI:n oikeuteen – syyttää törkeistä tempuista",
+      "lead": "Tekoäly-yhtiössä työskentelee satoja Applen entisiä työntekijöitä, laitevalmistaja sanoo.",
+      "link": "https://www.is.fi/digitoday/art-2000012135233.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "Apple",
+        "Open AI"
+      ],
+      "why_care": "Oikeusriita nostaa esiin kilpailun ja eettisten kysymysten merkityksen tekoälyalalla."
+    },
+    {
+      "title": "Instagramissa julkaistuille kuville voi pian käydä karusti",
+      "lead": "Käyttäjät voivat hyödyntää muiden kuvia Metan tekoälytyökalulla.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012130402.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "Meta"
+      ],
+      "why_care": "Herättää huolta käyttäjien yksityisyydestä ja kuvien käytön eettisyydestä tekoälyratkaisuissa."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 523,
+    "signals": 12,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
