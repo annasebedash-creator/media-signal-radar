@@ -1,0 +1,357 @@
+{
+  "date": "2026-07-30",
+  "fetched_at": "2026-07-30T08:50:15+03:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 17
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 30
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 99
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 526,
+    "items_matched": 14,
+    "signals": 12
+  },
+  "signals": [
+    {
+      "outlet": "Yle",
+      "feed": "Pääuutiset",
+      "title": "Korvaako tekoäly julkisen sektorin työntekijät? Viron tekoäly­neuvonantaja: Voi käydä jopa päinvastoin",
+      "lead": "Viron tekoäly­neuvonantaja Luukas Ilves arvioi, että tekoälyn yleistyminen ei välttämättä vähennä työpaikkoja Virossa, vaikka muualla maailmassa näin kävisikin.",
+      "link": "https://yle.fi/a/74-20227212?origin=rss",
+      "published": "2026-07-30T02:30:35Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "duplicates": [
+        {
+          "outlet": "Yle",
+          "title": "Korvaako tekoäly julkisen sektorin työntekijät? Viron tekoäly­neuvonantaja: Voi käydä jopa päinvastoin",
+          "link": "https://yle.fi/a/74-20227212?origin=rss"
+        }
+      ],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "neutral",
+        "stakeholders": [
+          "Luukas Ilves"
+        ],
+        "why_care": "Keskustelu tekoälyn vaikutuksista työmarkkinoihin on ajankohtaista ja herättää huolta työntekijöiden tulevaisuudesta."
+      }
+    },
+    {
+      "outlet": "MTV Uutiset",
+      "feed": "Uusimmat",
+      "title": "Mittavat tekoälykustannukset painoivat Metan tulosta",
+      "lead": "Metan alkukesän tulos alitti odotukset.",
+      "link": "https://www.mtvuutiset.fi/artikkeli/mittavat-tekoalykustannukset-painoivat-metan-tulosta/9371990",
+      "published": "2026-07-29T20:55:32Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "MTV Uutiset",
+        "Yle"
+      ],
+      "outlet_count": 2,
+      "duplicates": [
+        {
+          "outlet": "Yle",
+          "title": "Mittavat tekoälykustannukset painoivat Metan tulosta",
+          "link": "https://yle.fi/a/74-20238568?origin=rss"
+        }
+      ],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "neutral",
+        "stakeholders": [
+          "Meta"
+        ],
+        "why_care": "Tekoälyn kustannusten vaikutus suuryritysten taloudellisiin tuloksiin voi herättää huolta sijoittajien keskuudessa."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tietoturva | Clauden keskusteluja löytyi helposti verkosta – Näin suojaat omasi",
+      "lead": "Anthropicin Claude-työkalu ei joutunut verkkohyökkäyksen kohteeksi. Kyse on tavasta, jolla hakukoneet haravoivat sivustoja.",
+      "link": "https://www.hs.fi/maailma/art-2000012170716.html",
+      "published": "2026-07-29T12:54:00Z",
+      "keyword": "anthropic",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Keskustelu tietoturvasta on ajankohtaista, kun tekoälytyökalujen käyttö yleistyy."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "launch",
+        "tone": "positive",
+        "stakeholders": [
+          "Helsingin yliopisto"
+        ],
+        "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "research",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Tutkimus tuo esiin tekoälyn kyvyn matkia musiikillisia ääniä, mikä voi vaikuttaa musiikkiteollisuuden tulevaisuuteen."
+      }
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Fedin korkopäätös syynissä, jatkuuko tekoälyhermoilu? Katso Talousaamu kello 9.30",
+      "lead": "Kauppalehden Talousaamu tarttuu päivän kiinnostavimpiin talous- ja pörssiuutisiin. Talousaamun vieraana on Danske Bankin seniorianalyytikko Antti Ilvonen.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/d6b72d9f-7e67-4e9d-b3b1-cbd80be125c0?utm_source=rss",
+      "published": "2026-07-30T05:15:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [
+          "Danske Bank",
+          "Antti Ilvonen"
+        ],
+        "why_care": "Keskustelu tekoälyn vaikutuksista talouteen ja pörssiin on ajankohtaista ja voi vaikuttaa sijoittajien päätöksiin."
+      }
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "Jopa 95 % generatiivisen tekoälyn pilottihankkeista epäonnistuu – Asiantuntija kertoo, miksi",
+      "lead": "Nitro AIM:n tekoälyjohtajan Jukka Niittymaan mielestä yritysten kannattaa ottaa tekoälykokeiluissaan myös riskejä, jotta teknologiasta saataisiin täysi hyöty irti.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/378ef44b-d248-4898-ac2b-995f864b0d77?utm_source=rss",
+      "published": "2026-07-30T03:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "opinion",
+        "tone": "neutral",
+        "stakeholders": [
+          "Nitro AIM",
+          "Jukka Niittymaa"
+        ],
+        "why_care": "Korostaa generatiivisen tekoälyn kokeilujen haasteita ja riskejä yrityksille."
+      }
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "Open AI:n tekoäly karkasi ja hakkeroi tietokannan – Nyt paljastui toinenkin uhri",
+      "lead": "Modal Labsin toimitusjohtajan mukaan Open AI:n agentti hyödynsi yhtiön asiakkaan haavoittuvuutta.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/170ee5e6-f6e8-47db-ab6e-1c12754af72e?utm_source=rss",
+      "published": "2026-07-29T15:02:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [
+          "Open AI",
+          "Modal Labs"
+        ],
+        "why_care": "Tuo esiin tekoälyn mahdolliset turvallisuusuhat ja niiden vaikutukset yrityksiin."
+      }
+    },
+    {
+      "outlet": "Iltalehti",
+      "feed": "Digiuutiset",
+      "title": "Linux-legendalta täys­laidallinen tekoälystä: ”La la la, en kuule teitä”",
+      "lead": "",
+      "link": "https://www.iltalehti.fi/digiuutiset/a/57713199-a040-47fd-8a49-96210a14bb05?utm_source=rss",
+      "published": "2026-07-27T04:30:02Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Iltalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 0,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Tuo esiin kriittisen näkökulman tekoälyn kehityksestä ja sen vastaanotosta."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Meta peruu rankasti kritisoidun uudistuksen",
+      "lead": "Meta peruu jo toisen tekoälyominaisuuden tänä vuonna.",
+      "link": "https://www.is.fi/digitoday/art-2000012135409.html",
+      "published": "2026-07-11T08:18:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Tuo esiin tekoälyn kehityksen haasteet ja käyttäjäpalautteen merkityksen."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Apple haastoi Open AI:n oikeuteen – syyttää törkeistä tempuista",
+      "lead": "Tekoäly-yhtiössä työskentelee satoja Applen entisiä työntekijöitä, laitevalmistaja sanoo.",
+      "link": "https://www.is.fi/digitoday/art-2000012135233.html",
+      "published": "2026-07-10T23:32:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [
+          "Apple",
+          "Open AI"
+        ],
+        "why_care": "Oikeusjuttu nostaa esiin kilpailun ja immateriaalioikeuksien kysymyksiä tekoälyalalla."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Instagramissa julkaistuille kuville voi pian käydä karusti",
+      "lead": "Käyttäjät voivat hyödyntää muiden kuvia Metan tekoälytyökalulla.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012130402.html",
+      "published": "2026-07-09T16:06:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [
+          "Meta"
+        ],
+        "why_care": "Herättää huolta käyttäjien yksityisyydestä ja kuvien käytön eettisyydestä."
+      }
+    }
+  ],
+  "classified_at": "2026-07-30T08:50:31+03:00",
+  "model": "gpt-4o-mini"
+}
