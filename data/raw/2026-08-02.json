@@ -1,0 +1,204 @@
+{
+  "date": "2026-08-02",
+  "fetched_at": "2026-08-02T09:08:58+03:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 13
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 30
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 97
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 520,
+    "items_matched": 11,
+    "signals": 10
+  },
+  "signals": [
+    {
+      "outlet": "Yle",
+      "feed": "Pääuutiset",
+      "title": "Professori kritisoi päättäjiä: Tekoälystä kerrotaan tarinaa, joka ei ole totta",
+      "lead": "Professori Minna Ruckenstein kritisoi teknologia-alaa naisten vähättelystä: ”Me miehet ollaan tässä hoidettu nämä kovat koodi- ja raha-asiat”.",
+      "link": "https://yle.fi/a/74-20238112?origin=rss",
+      "published": "2026-08-02T04:00:39Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "duplicates": [
+        {
+          "outlet": "Yle",
+          "title": "Professori kritisoi päättäjiä: Tekoälystä kerrotaan tarinaa, joka ei ole totta",
+          "link": "https://yle.fi/a/74-20238112?origin=rss"
+        }
+      ]
+    },
+    {
+      "outlet": "Yle",
+      "feed": "Tuoreimmat",
+      "title": "EU:n uudet tekoälysäännöt astuvat voimaan",
+      "lead": "",
+      "link": "https://yle.fi/a/74-20239003?origin=rss",
+      "published": "2026-08-02T01:31:47Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Tekoälyn tuoma yksityisyyden murros on ennen kaikkea länsimainen kriisi",
+      "lead": "Yksi tekoälymurroksen suurimmista seurauksista koskee yksityisyyttä. Länsimaisessa ajattelussa yksityisyys on ollut yksilönvapauden, demokratian ja itsemääräämisoikeuden perusta.",
+      "link": "https://www.hs.fi/mielipide/art-2000012176104.html",
+      "published": "2026-08-01T13:45:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "”Ehdottomasti vaaran paikka” – Tekoäly muuttaa lakialalla paljon muutakin kuin tavan laskuttaa",
+      "lead": "Suomen vanhimman liikejuridiikan lakitoimiston toimitusjohtaja ja osakas Jarno Tanhuanpää kertoo Kauppalehden haastattelussa, miten tekoäly muuttaa lakialaa ja miten hän pitää oman ajattelunsa ryhdikkäänä.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/c768dd52-2dd7-4fa9-8c23-d1b12bfe2814?utm_source=rss",
+      "published": "2026-08-02T03:30:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Datakeskusten rakentamatta jättäminen voi tulla kalliiksi – Tutkijat nostavat esiin ”epämukavan totuuden”",
+      "lead": "Tutkijoiden mukaan lainsäätäjien tulisi vastustaa teknologian pysäyttämistä ja keskittyä sen sijaan enemmän vastuullisten rajoitusten toteuttamiseen.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/01e977ca-40d8-4f27-ba38-025b83cbe53c?utm_source=rss",
+      "published": "2026-08-01T11:52:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "Suomalainen 13,6 M€ liikevaihdon kauppa rakensi 40 000 tuotekohtaista agenttia – Ei jäänyt odottamaan tekoälyjättejä",
+      "lead": "Virtasenkauppa yhdisti tekoälyavusteisen keskustelubotin ja maksamisen yhteen kokonaisuuteen. Suuret tekoälypalvelut eivät ole vielä tuoneet vastaavia ratkaisuja Eurooppaan.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/f57d857c-d182-46c7-a851-9a4ec46eacc5?utm_source=rss",
+      "published": "2026-08-02T01:30:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "MTV Uutiset",
+      "feed": "Uusimmat",
+      "title": "Tekoälysisällön tunnistaminen helpottuu tänään",
+      "lead": "Tästä päivästä lähtien tekoälyllä tuotettu sisältö tulee merkitä erikseen.",
+      "link": "https://www.mtvuutiset.fi/artikkeli/tekoalysisallon-tunnistaminen-helpottuu-tanaan/9373102",
+      "published": "2026-08-02T03:51:08Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "MTV Uutiset"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Suomi täyttyy datakeskus­suunnitelmista – Supolta tyly varoitus",
+      "lead": "Asiantuntijat kertovat IS:lle, miten datakeskusten vyöry vaikuttaa sähkön hintaan. Suojelupoliisi näkee joissakin keskuksissa turvallisuusuhkia.",
+      "link": "https://www.is.fi/politiikka/art-2000012168800.html",
+      "published": "2026-08-02T03:45:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    }
+  ]
+}

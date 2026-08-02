@@ -1,0 +1,193 @@
+{
+  "date": "2026-08-02",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "EU:n uudet tekoälysäännöt astuvat voimaan, mikä voi vaikuttaa merkittävästi tekoälyn kehitykseen ja käyttöön Euroopassa.",
+    "Helsingin yliopiston suosittu tekoälykurssi saa jatkoa, tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä.",
+    "Suomessa datakeskussuunnitelmat lisääntyvät, mutta Supo varoittaa niiden mahdollisista turvallisuusuhkista ja vaikutuksista sähkön hintaan."
+  ],
+  "top_signals": [
+    {
+      "title": "EU:n uudet tekoälysäännöt astuvat voimaan",
+      "lead": "",
+      "link": "https://yle.fi/a/74-20239003?origin=rss",
+      "outlet": "Yle",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "relevance": 3,
+      "finland_link": false,
+      "signal_type": "regulation",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "EU:n uudet sääntelytoimet voivat vaikuttaa merkittävästi tekoälyn kehitykseen ja käyttöön Euroopassa."
+    },
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    },
+    {
+      "title": "”Ehdottomasti vaaran paikka” – Tekoäly muuttaa lakialalla paljon muutakin kuin tavan laskuttaa",
+      "lead": "Suomen vanhimman liikejuridiikan lakitoimiston toimitusjohtaja ja osakas Jarno Tanhuanpää kertoo Kauppalehden haastattelussa, miten tekoäly muuttaa lakialaa ja miten hän pitää oman ajattelunsa ryhdikkäänä.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/c768dd52-2dd7-4fa9-8c23-d1b12bfe2814?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Jarno Tanhuanpää"
+      ],
+      "why_care": "Tuo esiin tekoälyn vaikutukset lakialan käytäntöihin ja hinnoittelumalleihin."
+    },
+    {
+      "title": "Suomalainen 13,6 M€ liikevaihdon kauppa rakensi 40 000 tuotekohtaista agenttia – Ei jäänyt odottamaan tekoälyjättejä",
+      "lead": "Virtasenkauppa yhdisti tekoälyavusteisen keskustelubotin ja maksamisen yhteen kokonaisuuteen. Suuret tekoälypalvelut eivät ole vielä tuoneet vastaavia ratkaisuja Eurooppaan.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/f57d857c-d182-46c7-a851-9a4ec46eacc5?utm_source=rss",
+      "outlet": "Tekniikka&Talous",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Virtasenkauppa"
+      ],
+      "why_care": "Korostaa suomalaisten yritysten kykyä innovoida ja kehittää tekoälyratkaisuja itsenäisesti."
+    },
+    {
+      "title": "Suomi täyttyy datakeskus­suunnitelmista – Supolta tyly varoitus",
+      "lead": "Asiantuntijat kertovat IS:lle, miten datakeskusten vyöry vaikuttaa sähkön hintaan. Suojelupoliisi näkee joissakin keskuksissa turvallisuusuhkia.",
+      "link": "https://www.is.fi/politiikka/art-2000012168800.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "critical",
+      "stakeholders": [
+        "Suomi",
+        "Supolle"
+      ],
+      "why_care": "Datakeskusten kasvava määrä voi nostaa sähkön hintaa ja aiheuttaa turvallisuusuhkia, mikä vaikuttaa laajasti yhteiskuntaan."
+    },
+    {
+      "title": "Tekoäly | Tekoälyn tuoma yksityisyyden murros on ennen kaikkea länsimainen kriisi",
+      "lead": "Yksi tekoälymurroksen suurimmista seurauksista koskee yksityisyyttä. Länsimaisessa ajattelussa yksityisyys on ollut yksilönvapauden, demokratian ja itsemääräämisoikeuden perusta.",
+      "link": "https://www.hs.fi/mielipide/art-2000012176104.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Korostaa tekoälyn vaikutuksia yksityisyyteen ja sen merkitystä länsimaisessa yhteiskunnassa."
+    },
+    {
+      "title": "Datakeskusten rakentamatta jättäminen voi tulla kalliiksi – Tutkijat nostavat esiin ”epämukavan totuuden”",
+      "lead": "Tutkijoiden mukaan lainsäätäjien tulisi vastustaa teknologian pysäyttämistä ja keskittyä sen sijaan enemmän vastuullisten rajoitusten toteuttamiseen.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/01e977ca-40d8-4f27-ba38-025b83cbe53c?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Korostaa vastuullisten rajoitusten merkitystä tekoälyn ja datakeskusten kehityksessä."
+    },
+    {
+      "title": "Tekoälysisällön tunnistaminen helpottuu tänään",
+      "lead": "Tästä päivästä lähtien tekoälyllä tuotettu sisältö tulee merkitä erikseen.",
+      "link": "https://www.mtvuutiset.fi/artikkeli/tekoalysisallon-tunnistaminen-helpottuu-tanaan/9373102",
+      "outlet": "MTV Uutiset",
+      "outlets": [
+        "MTV Uutiset"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "regulation",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tuo esiin sääntelyn vaikutuksen tekoälyllä tuotetun sisällön läpinäkyvyyteen."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Professori kritisoi päättäjiä: Tekoälystä kerrotaan tarinaa, joka ei ole totta",
+      "lead": "Professori Minna Ruckenstein kritisoi teknologia-alaa naisten vähättelystä: ”Me miehet ollaan tässä hoidettu nämä kovat koodi- ja raha-asiat”.",
+      "link": "https://yle.fi/a/74-20238112?origin=rss",
+      "outlet": "Yle",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "Minna Ruckenstein"
+      ],
+      "why_care": "Kritiikki nostaa esiin sukupuolten tasa-arvon ja representaatio-ongelmat tekoälyalalla."
+    },
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 520,
+    "signals": 10,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
