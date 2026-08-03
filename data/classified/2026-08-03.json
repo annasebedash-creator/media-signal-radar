@@ -1,0 +1,205 @@
+{
+  "date": "2026-08-03",
+  "fetched_at": "2026-08-03T09:31:03+03:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 18
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 30
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 98
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 526,
+    "items_matched": 6,
+    "signals": 6
+  },
+  "signals": [
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Ooppera | Perinteinen festivaali käytti tekoälyä lavasteissa: Anteeksi ei anna kukaan, sanoo festivaalilla käynyt Panu Eskola Saaristo",
+      "lead": "Saksassa Bayreuthin oopperajuhlien 150-vuotis­juhla­vuoden Ring-sykli päättyi oopperaan, jonka tekoäly­pohjaiset lavastus­projektiot eivät vakuuttaneet.",
+      "link": "https://www.hs.fi/popkulttuuri/art-2000012178140.html",
+      "published": "2026-08-02T15:45:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [
+          "Panu Eskola",
+          "Bayreuthin oopperajuhlat"
+        ],
+        "why_care": "Tuo esiin tekoälyn mahdolliset haasteet ja rajoitukset kulttuurialalla."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "launch",
+        "tone": "positive",
+        "stakeholders": [
+          "Helsingin yliopisto"
+        ],
+        "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "research",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikin tuotannossa ja sen mahdolliset vaikutukset instrumenttien käyttöön."
+      }
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Kiina ja Yhdysvallat taistelevat nyt maailman vaarallisimmasta aseesta",
+      "lead": "Yhdysvallat ja Kiina ovat tehneet tekoälystä geopolitiikan vaarallisimman aseen. Oikeustieteen professori Anu Bradford, tutkijatohtori Markus Holmgren ja päästrategi Valtteri Ahti arvioivat, miten suurvaltakamppailu muuttaa maailmantaloutta ja millainen asema Euroopalle siinä jää.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/21ae0485-aff9-4c29-b372-a62f6833d26f?utm_source=rss",
+      "published": "2026-08-03T05:02:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [
+          "Yhdysvallat",
+          "Kiina",
+          "Anu Bradford",
+          "Markus Holmgren",
+          "Valtteri Ahti"
+        ],
+        "why_care": "Kuvastaa tekoälyn roolia kansainvälisessä politiikassa ja taloudessa, mikä voi vaikuttaa Suomen asemaan globaalissa kilpailussa."
+      }
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Tekoälyn ihmelapsesta tuli varoittava esimerkki: rahasto ajautui pakkomyynteihin",
+      "lead": "Parikymppinen Leopold Aschenbrenner rakensi tekoälybuumin ympärille jättimäisen hedge-rahaston, jonka tuotot olivat häikäiseviä. Sitten markkinat kääntyivät. Muutamassa päivässä hän joutui myymään miljardien dollarien osakesalkkuaan, ja ostajaksi saapui yksi Wall Streetin kovimmista pelureista. Miten tekoälyn ”kultapojan” käy?",
+      "link": "https://www.kauppalehti.fi/uutiset/a/e3ffeaf9-934c-4c41-9493-95f377a5ea91?utm_source=rss",
+      "published": "2026-08-03T05:14:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [
+          "Leopold Aschenbrenner"
+        ],
+        "why_care": "Tuo esiin tekoälyn taloudelliset riskit ja markkinahäiriöt, jotka voivat vaikuttaa sijoittajiin."
+      }
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "Clauden kanssa käytyjä keskusteluja löytyi suoraan Google-hausta",
+      "lead": "Clauden chatit ja sen tuotokset löytyivät Googlen hakukoneesta.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/e0943552-20f8-407b-90a8-421c16cb6c81?utm_source=rss",
+      "published": "2026-08-02T17:04:00Z",
+      "keyword": "claude",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 0,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Tuo esiin tekoälyn mahdolliset tietoturvaongelmat ja yksityisyydensuojan haasteet."
+      }
+    }
+  ],
+  "classified_at": "2026-08-03T09:31:14+03:00",
+  "model": "gpt-4o-mini"
+}
