@@ -1,0 +1,146 @@
+{
+  "date": "2026-08-05",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Helsingin yliopiston suosittu tekoälykurssi jatkuu, tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä, mikä voi vaikuttaa työmarkkinoihin.",
+    "Suomeen on tulossa yli 100 datakeskusta, mikä korostaa maan houkuttelevuutta uusiutuvan energian ja sijoituspaikan kannalta.",
+    "Huoli teknologiajättien satojen miljardien veloista nostaa esiin tekoälyteollisuuden taloudelliset riskit ja niiden vaikutukset alan tulevaisuuteen."
+  ],
+  "top_signals": [
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    },
+    {
+      "title": "Yli 100 datakeskusta tulossa Suomeen – Ei ihme: 4 mittarilla Suomi on erinomainen paikka niille",
+      "lead": "Maailmalla on käynnissä poikkeuksellinen datakeskusinvestointien aalto. Suomi on datakeskuksille ihanteellinen sijoituspaikka, koska tarjolla on uusiutuvaa ja edullista sähköä. Viileä ilmastomme on etu jäähdytyksessä ja hukkalämpö voidaan ohjata kaukolämpöverkkoon.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/5edcf622-d6e5-42f5-a556-ad5f9861e638?utm_source=rss",
+      "outlet": "Tekniikka&Talous",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Suomi"
+      ],
+      "why_care": "Korostaa Suomen houkuttelevuutta datakeskusten sijoituspaikkana ja uusiutuvan energian merkitystä."
+    },
+    {
+      "title": "Huoli heräsi – Teknojäteillä on satojen miljardien velat, joista ei tiedetä juuri mitään",
+      "lead": "Tekoälykilpa ajaa teknologiajätit valtaviin investointeihin, joita tehdään enenevissä määrin velkarahalla. Osa taakasta jää piiloon yhtiön taseiden ulkopuolelle.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/2f044420-8e27-4c0a-9170-c91da0f5e0dc?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Kuvaa tekoälyteollisuuden taloudellisia riskejä ja velkaantumista, mikä voi vaikuttaa alan tulevaisuuteen."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+    },
+    {
+      "title": "Professori Ylelle: ”Päätöksentekijöitä viedään kuin pässiä narussa”",
+      "lead": "Tekoäly on yhtä kuin ihmisistä eroon pääseminen, sanoo professori.",
+      "link": "https://www.is.fi/digitoday/art-2000012178929.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "professori"
+      ],
+      "why_care": "Korostaa huolta tekoälyn vaikutuksesta päätöksentekoon ja ihmisten rooliin."
+    },
+    {
+      "title": "HS-analyysi | Kiinalaiset panivat tekoälyalan sekaisin",
+      "lead": "Tekoälyala on jakautumassa kahteen leiriin. Yhdysvaltalaiset teknologiajätit ovat kääntyneet rintamaksi Anthropicia vastaan, kirjoittaa HS Vision toimittaja Niclas Storås analyysissaan.",
+      "link": "https://www.hs.fi/visio/art-2000012183055.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Yhdysvaltalaiset teknologiajätit",
+        "Anthropic",
+        "Niclas Storås"
+      ],
+      "why_care": "Analyysi tuo esiin kansainvälisen kilpailun ja jakautumisen tekoälymarkkinoilla."
+    },
+    {
+      "title": "SpaceX:n liikevaihto kirkkaasti yli odotusten − Tekoälyinvestoinnit kasvussa",
+      "lead": "Avaruusyhtiö SpaceX:n liikevaihto kasvoi 92 prosenttia ja tappiot olivat paljon pienemmät mitä analyytikot odottivat.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/2f262e0a-2c45-4a16-bb1f-26a0c8ca19d5?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "SpaceX"
+      ],
+      "why_care": "Tuo esiin tekoälyinvestointien kasvun merkityksen avaruusteollisuudessa."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 525,
+    "signals": 7,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
