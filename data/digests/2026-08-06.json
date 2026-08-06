@@ -1,0 +1,109 @@
+{
+  "date": "2026-08-06",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Helsingin yliopiston suosittu tekoälykurssi laajenee tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä, mikä voi vaikuttaa työmarkkinoihin.",
+    "Tekoälyä käytetään yhä enemmän organisaatioiden turvallisuustesteissä, mikä korostaa tekoälyturvallisuuden kehittämisen merkitystä.",
+    "Anthropic on skannannut ja tuhonnut vanhoja kirjoja tekoälyn koulutusdataksi, mikä herättää huolta kulttuuriperinnön säilymisestä."
+  ],
+  "top_signals": [
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    },
+    {
+      "title": "Näin turvallisuustestit syvenevät: Oikeita ihmisiä ja organisaatioita hakkeroidaan nyt huipputekoälyillä",
+      "lead": "Tekoälyturvallisuutta kehitetään testien perusteella.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/da23c292-1ef0-4a4b-aafb-f562bc8639b1?utm_source=rss",
+      "outlet": "Tekniikka&Talous",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Korostaa tekoälyturvallisuuden kehittämisen merkitystä ja sen vaikutuksia organisaatioiden suojaamiseen."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "tutkijat",
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+    },
+    {
+      "title": "Professori Ylelle: ”Päätöksentekijöitä viedään kuin pässiä narussa”",
+      "lead": "Tekoäly on yhtä kuin ihmisistä eroon pääseminen, sanoo professori.",
+      "link": "https://www.is.fi/digitoday/art-2000012178929.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "professori"
+      ],
+      "why_care": "Korostaa huolta tekoälyn vaikutuksesta päätöksentekoon ja ihmisten rooliin."
+    },
+    {
+      "title": "Tekoäly | Anthropic skannasi vanhat kirjat ja sitten tuhosi ne: tekoälyn kirjahimon pelätään leviävän",
+      "lead": "Tekoäly-yhtiöt kaipaavat koulutusdataa vanhoista fyysisistä opuksista. Kansainvälisessä mediassa puhuttanut ilmiö ei näytä vielä rantautuneen Suomeen.",
+      "link": "https://www.hs.fi/suomi/art-2000012180325.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Anthropic"
+      ],
+      "why_care": "Kuvastaa kansainvälisiä trendejä tekoälyn koulutusdatatarpeissa ja niiden mahdollisia vaikutuksia kulttuuriperintöön."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 522,
+    "signals": 5,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}

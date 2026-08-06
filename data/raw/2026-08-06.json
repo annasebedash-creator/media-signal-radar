@@ -1,0 +1,148 @@
+{
+  "date": "2026-08-06",
+  "fetched_at": "2026-08-06T08:56:33+03:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 15
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 30
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 97
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 522,
+    "items_matched": 7,
+    "signals": 6
+  },
+  "signals": [
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Anthropic skannasi vanhat kirjat ja sitten tuhosi ne: tekoälyn kirjahimon pelätään leviävän",
+      "lead": "Tekoäly-yhtiöt kaipaavat koulutusdataa vanhoista fyysisistä opuksista. Kansainvälisessä mediassa puhuttanut ilmiö ei näytä vielä rantautuneen Suomeen.",
+      "link": "https://www.hs.fi/suomi/art-2000012180325.html",
+      "published": "2026-08-05T13:33:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "Näin turvallisuustestit syvenevät: Oikeita ihmisiä ja organisaatioita hakkeroidaan nyt huipputekoälyillä",
+      "lead": "Tekoälyturvallisuutta kehitetään testien perusteella.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/da23c292-1ef0-4a4b-aafb-f562bc8639b1?utm_source=rss",
+      "published": "2026-08-06T03:33:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Entinen FBI-agentti tunnusti tyrmistyttävän teon – varasti lähes miljoonan dollarin edestä todistusaineistoa",
+      "lead": "Nostojen jälkeen agentti oli tiettävästi kysynyt ChatGPT:ltä muun muassa sijoitusneuvoja.",
+      "link": "https://www.is.fi/digitoday/art-2000012184836.html",
+      "published": "2026-08-05T18:11:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [
+        {
+          "outlet": "Ilta-Sanomat",
+          "title": "Entinen FBI-agentti tunnusti tyrmistyttävän teon – varasti lähes miljoonan dollarin edestä todistusaineistoa",
+          "link": "https://www.is.fi/digitoday/art-2000012184836.html"
+        }
+      ]
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Professori Ylelle: ”Päätöksentekijöitä viedään kuin pässiä narussa”",
+      "lead": "Tekoäly on yhtä kuin ihmisistä eroon pääseminen, sanoo professori.",
+      "link": "https://www.is.fi/digitoday/art-2000012178929.html",
+      "published": "2026-08-03T15:55:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    }
+  ]
+}
