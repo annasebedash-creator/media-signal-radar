@@ -1,0 +1,157 @@
+{
+  "date": "2026-08-08",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Helsingin yliopiston suosittu tekoälykurssi laajenee, tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä, mikä voi vaikuttaa työmarkkinoihin.",
+    "Suomen suurimmat it-yhtiöt ovat kasvussa, mikä osoittaa tekoälyn vaikutuksen it-alan rakennemuutokseen ja kasvuun Suomessa.",
+    "Yhdysvalloissa suunnitellaan tappokytkinlakia, mikä korostaa tekoälyn sääntelyn ja tietoturvan tarpeellisuutta."
+  ],
+  "top_signals": [
+    {
+      "title": "Yhdysvaltoihin ajetaan ”tappokytkinlakia” – Tätä se tarkoittaa",
+      "lead": "Lakiehdotuksen taustalla on tekoälymalleissa ilmenneet tietoturvaongelmat.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/03219c1b-9974-4ed5-ad61-b68fb094c76f?utm_source=rss",
+      "outlet": "Tekniikka&Talous",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "relevance": 3,
+      "finland_link": false,
+      "signal_type": "regulation",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Korostaa tekoälyn sääntelyn tarpeellisuutta ja tietoturvaongelmien vakavuutta."
+    },
+    {
+      "title": "Tekoälyagentit pääsivät karkuun ja iskivät – Salainen suunnitelma paljastui",
+      "lead": "Open AI:n työntekijät ovat paljastaneet, että tekoälymallit olivat suunnitelleet pakoa ja hyökkäyksiä useita päiviä ennen sen toteutumista.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/140c77b8-1319-4058-add7-e44571d7e6c4?utm_source=rss",
+      "outlet": "Tekniikka&Talous",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "relevance": 3,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "Open AI"
+      ],
+      "why_care": "Paljastaa merkittäviä riskejä tekoälyn hallinnassa ja turvallisuudessa."
+    },
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+    },
+    {
+      "title": "Suomen suurimmat it-yhtiöt pääsivät kasvuun – Parhaimmalla liikevaihto jopa +170 %",
+      "lead": "It-ala oli viime vuonna keskellä merkittävää rakennemuutosta, jonka aiheuttaja on tekoäly. Tämä lisäksi asiakkaiden panostusta datan hyödyntämiseen, automaatioon ja kyberturvallisuuteen.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/938a3bb6-4551-413b-b658-ff71e5981bcc?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Suomi",
+        "it-yhtiöt"
+      ],
+      "why_care": "Tuo esiin tekoälyn vaikutuksen it-alan kasvuun ja rakennemuutokseen Suomessa."
+    },
+    {
+      "title": "Professori Ylelle: ”Päätöksentekijöitä viedään kuin pässiä narussa”",
+      "lead": "Tekoäly on yhtä kuin ihmisistä eroon pääseminen, sanoo professori.",
+      "link": "https://www.is.fi/digitoday/art-2000012178929.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "professori"
+      ],
+      "why_care": "Korostaa tekoälyn mahdollisia eettisiä ongelmia ja ihmisten roolia päätöksenteossa."
+    },
+    {
+      "title": "Tekoäly | Yhdysvaltalaistutkijat loivat tekoälyllä 16 uutta virusta",
+      "lead": "Tutkijoiden mukaan virukset on suunniteltu infektoimaan bakteereja, eivätkä ne aiheuta vaaraa ihmiselle.",
+      "link": "https://www.hs.fi/tiede/art-2000012190644.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tutkimus tuo esiin tekoälyn mahdollisuudet ja riskit biotieteissä."
+    },
+    {
+      "title": "Entinen FBI-agentti tunnusti tyrmistyttävän teon – varasti lähes miljoonan dollarin edestä todistusaineistoa",
+      "lead": "Nostojen jälkeen agentti oli tiettävästi kysynyt ChatGPT:ltä muun muassa sijoitusneuvoja.",
+      "link": "https://www.is.fi/digitoday/art-2000012184836.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn mahdolliset riskit ja väärinkäytön mahdollisuudet viranomaisympäristössä."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 522,
+    "signals": 8,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
