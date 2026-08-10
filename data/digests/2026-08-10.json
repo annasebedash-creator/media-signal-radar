@@ -1,0 +1,140 @@
+{
+  "date": "2026-08-10",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Helsingin yliopiston suosittu tekoälykurssi laajenee, tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä, mikä voi vaikuttaa merkittävästi tulevaisuuden työmarkkinoihin.",
+    "Tekoälyn kyvyt musiikkiteollisuudessa kehittyvät, kun tutkijat opettivat tekoälyn matkimaan kitaran säröääniä, mutta eron aitoon ääneen voi yhä havaita.",
+    "Kulttuurialalla herää huolia tekoälyn vaikutuksista, kun suomalaiset taiteilijat, kuten Camilla Nylund, kohtaavat tekoälyskandaaleja ja niiden vaikutuksia työskentelyyn."
+  ],
+  "top_signals": [],
+  "other_signals": [
+    {
+      "title": "Ooppera | Suomalaistähdille ylistystä tekoälyskandaalin varjossa – ”Se on tämmöistä tänä kesänä”, sanoo tähtisopraano Camilla Nylund",
+      "lead": "Camilla Nylund närkästyi Bayreuthin Wagner-juhlien tekoälyratkaisusta, Mika Kares uskoo teknologian kehittyvän.",
+      "link": "https://www.hs.fi/kulttuuri/art-2000012192790.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "Camilla Nylund",
+        "Mika Kares"
+      ],
+      "why_care": "Tuo esiin tekoälyn herättämiä huolia kulttuurialalla ja sen vaikutuksia taiteilijoiden työskentelyyn."
+    },
+    {
+      "title": "Ura | Entinen jalkapalloilija Tuomas Haapala muutti vaimon työn perässä Kaliforniaan ja jäi sille tielle",
+      "lead": "Entinen jalkapalloilija Tuomas Haapala työskentelee tekoälyn parissa San Franciscossa.",
+      "link": "https://www.hs.fi/urheilu/art-2000012190907.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Tuomas Haapala"
+      ],
+      "why_care": "Tuo esiin suomalaisen osaamisen ja urapolut tekoälyn alalla kansainvälisesti."
+    },
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    },
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+    },
+    {
+      "title": "Professori Ylelle: ”Päätöksentekijöitä viedään kuin pässiä narussa”",
+      "lead": "Tekoäly on yhtä kuin ihmisistä eroon pääseminen, sanoo professori.",
+      "link": "https://www.is.fi/digitoday/art-2000012178929.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "professori"
+      ],
+      "why_care": "Korostaa huolta tekoälyn vaikutuksesta päätöksentekoon ja ihmisten rooliin."
+    },
+    {
+      "title": "Tekoäly | Tekoälyyn ei pidä luottaa sokeasti",
+      "lead": "Käyttäjän on tunnistettava tekoälyn vahvuudet ja rajat sekä säilytettävä vastuu omasta harkinnastaan.",
+      "link": "https://www.hs.fi/mielipide/art-2000012185394.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Korostaa tekoälyn käytön vastuullisuutta ja käyttäjän harkintakyvyn merkitystä."
+    },
+    {
+      "title": "Entinen FBI-agentti tunnusti tyrmistyttävän teon – varasti lähes miljoonan dollarin edestä todistusaineistoa",
+      "lead": "Nostojen jälkeen agentti oli tiettävästi kysynyt ChatGPT:ltä muun muassa sijoitusneuvoja.",
+      "link": "https://www.is.fi/digitoday/art-2000012184836.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn mahdolliset riskit ja väärinkäytön mahdollisuudet viranomaisympäristössä."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 520,
+    "signals": 7,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
