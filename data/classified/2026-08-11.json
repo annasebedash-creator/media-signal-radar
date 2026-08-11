@@ -1,0 +1,201 @@
+{
+  "date": "2026-08-11",
+  "fetched_at": "2026-08-11T07:26:25+03:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 16
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 30
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 98
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 524,
+    "items_matched": 6,
+    "signals": 6
+  },
+  "signals": [
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tietoturva | Helsingissä liikkuu nyt Nvidian kamera-autoja, jotka kuvaavat myös kasvoja ja rekisterikilpiä",
+      "lead": "Tietosuojavaltuutetun toimistoon on tullut kuvausautoista jo muutamia yhteydenottoja, ja ilmiön arvioidaan olevan yleistymässä.",
+      "link": "https://www.hs.fi/helsinki/art-2000012184961.html",
+      "published": "2026-08-10T14:19:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [
+          "Nvidia",
+          "Tietosuojavaltuutetun toimisto"
+        ],
+        "why_care": "Herättää huolta tietosuojasta ja yksityisyydestä tekoälyn käytön yleistyessä."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Tulevat sukupolvet häpeävät suhtautumistamme tekoälyyn",
+      "lead": "Jotkut tässä kolumnissa esitetyistä mielipiteistä ovat ennen pitkää häpeällisiä. En vain tiedä, mitkä.",
+      "link": "https://www.hs.fi/nakemys/art-2000012188122.html",
+      "published": "2026-08-10T08:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Herättää keskustelua tekoälyn eettisistä kysymyksistä ja tulevaisuuden näkökulmista."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "launch",
+        "tone": "positive",
+        "stakeholders": [
+          "Helsingin yliopisto"
+        ],
+        "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "research",
+        "tone": "neutral",
+        "stakeholders": [
+          "Helsingin Sanomat"
+        ],
+        "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Entinen FBI-agentti tunnusti tyrmistyttävän teon – varasti lähes miljoonan dollarin edestä todistusaineistoa",
+      "lead": "Nostojen jälkeen agentti oli tiettävästi kysynyt ChatGPT:ltä muun muassa sijoitusneuvoja.",
+      "link": "https://www.is.fi/digitoday/art-2000012184836.html",
+      "published": "2026-08-05T18:11:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Tuo esiin tekoälyn mahdolliset riskit ja väärinkäytön mahdollisuudet viranomaisympäristössä."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Professori Ylelle: ”Päätöksentekijöitä viedään kuin pässiä narussa”",
+      "lead": "Tekoäly on yhtä kuin ihmisistä eroon pääseminen, sanoo professori.",
+      "link": "https://www.is.fi/digitoday/art-2000012178929.html",
+      "published": "2026-08-03T15:55:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [
+          "professori"
+        ],
+        "why_care": "Korostaa tekoälyn mahdollisia eettisiä ongelmia ja ihmisten roolia päätöksenteossa."
+      }
+    }
+  ],
+  "classified_at": "2026-08-11T07:26:36+03:00",
+  "model": "gpt-4o-mini"
+}
