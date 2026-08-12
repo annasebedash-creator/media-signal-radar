@@ -1,0 +1,180 @@
+{
+  "date": "2026-08-12",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Suomalaisyritykset tekevät strategisia virheitä tekoälyn hyödyntämisessä, mikä voi johtaa kalliisiin seurauksiin liiketoiminnassa.",
+    "Helsingin yliopiston suosittu tekoälykurssi laajenee, tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä.",
+    "Tekoälyn luotettavuusongelmat koulutuksessa korostuvat, kun yliopiston pääsykokeen valvonta epäonnistui, ja 58 000 hakijaa joutuu uusintakokeeseen."
+  ],
+  "top_signals": [
+    {
+      "title": "Suomalaisyritykset tekevät tekoälyn kanssa kalliin virheen, kun strateginen näkemys puuttuu",
+      "lead": "Pelkkä tekoälylisenssien hankkiminen ei vielä kasvata liiketoimintaa. Asiantuntijan mukaan yritysten pitäisi miettiä ensin strategiaa ja vasta sitten teknologiaa.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/34e7306a-9089-4a3f-9902-39096b106b67?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "suomalaisyritykset",
+        "asiantuntija"
+      ],
+      "why_care": "Korostaa strategisen ajattelun merkitystä tekoälyn hyödyntämisessä liiketoiminnassa."
+    },
+    {
+      "title": "Pääsykokeen valvominen meni tekoälyltä täysin mönkään – 58 000 hakijaa uusintakokeeseen",
+      "lead": "Yliopisto pyysi anteeksi rehellisiltä hakijoilta, sillä kaikki korkeat pisteet saaneet testataan nyt uudelleen.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/566b6c17-be44-4c6c-a228-9bb00c36f285?utm_source=rss",
+      "outlet": "Tekniikka&Talous",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "yliopisto"
+      ],
+      "why_care": "Tuo esiin tekoälyn luotettavuusongelmat koulutuksessa ja niiden vaikutukset hakijoihin."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Teknologia | Naiset ovat syystäkin kriittisiä tekoälyä kohtaan",
+      "lead": "Teknologia-alan toimijat haluavat epäilemättä saada naiset käyttämään tekoälytyökaluja nykyistä enemmän.",
+      "link": "https://www.hs.fi/visio/art-2000012197745.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Korostaa naisten kriittistä suhtautumista tekoälyyn ja sen käyttöön teknologia-alalla."
+    },
+    {
+      "title": "Totuus | Tekoäly muuttaa käsityksen totuudesta, sanoo Paavo Ritala",
+      "lead": "Professori näkee, kuinka tekoäly hämärtää kriittistä ajattelukykyä ja tekee totuuden selvittämisen vaikeaksi.",
+      "link": "https://www.hs.fi/tiede/art-2000012152889.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "Paavo Ritala"
+      ],
+      "why_care": "Korostaa tekoälyn vaikutusta kriittiseen ajatteluun ja totuuden käsitykseen, mikä voi herättää huolta yhteiskunnassa."
+    },
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    },
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "tutkijat",
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+    },
+    {
+      "title": "Professori Ylelle: ”Päätöksentekijöitä viedään kuin pässiä narussa”",
+      "lead": "Tekoäly on yhtä kuin ihmisistä eroon pääseminen, sanoo professori.",
+      "link": "https://www.is.fi/digitoday/art-2000012178929.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "professori"
+      ],
+      "why_care": "Korostaa tekoälyn mahdollisia eettisiä ongelmia ja ihmisten roolia päätöksenteossa."
+    },
+    {
+      "title": "Musiikki | Spotify ottaa tekoäly­musiikille käyttöön oman merkin",
+      "lead": "Taustalla on käyttäjien antama palaute artistiprofiileista, jotka vaikuttavat aitojen ihmisten profiileilta mutta paljastuvat lopulta tekoälyn luomiksi.",
+      "link": "https://www.hs.fi/popkulttuuri/art-2000012198812.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn roolin musiikkialalla ja sen vaikutuksen käyttäjäkokemukseen."
+    },
+    {
+      "title": "HS-analyysi | Tekoäly­buumi teki esseistä seksikkäitä rahanteko­koneita",
+      "lead": "Piilaakson johtajat ovat alkaneet kirjoittaa mammuttimaisia esseitä. Viimeisimpänä Mark Zuckerberg julkaisi oman pohdintansa siitä, miten tekoäly muuttaa maailmaa, kirjoittaa HS Vision toimittaja Niclas Storås.",
+      "link": "https://www.hs.fi/visio/art-2000012196923.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Mark Zuckerberg"
+      ],
+      "why_care": "Tuo esiin tekoälyn vaikutuksen liiketoimintaan ja sen roolin ajankohtaisessa keskustelussa."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 513,
+    "signals": 9,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}

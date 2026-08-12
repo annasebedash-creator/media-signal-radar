@@ -1,0 +1,212 @@
+{
+  "date": "2026-08-12",
+  "fetched_at": "2026-08-12T07:54:31+03:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 15
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 98
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 513,
+    "items_matched": 11,
+    "signals": 11
+  },
+  "signals": [
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Teknologia | Naiset ovat syystäkin kriittisiä tekoälyä kohtaan",
+      "lead": "Teknologia-alan toimijat haluavat epäilemättä saada naiset käyttämään tekoälytyökaluja nykyistä enemmän.",
+      "link": "https://www.hs.fi/visio/art-2000012197745.html",
+      "published": "2026-08-11T23:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Musiikki | Spotify ottaa tekoäly­musiikille käyttöön oman merkin",
+      "lead": "Taustalla on käyttäjien antama palaute artistiprofiileista, jotka vaikuttavat aitojen ihmisten profiileilta mutta paljastuvat lopulta tekoälyn luomiksi.",
+      "link": "https://www.hs.fi/popkulttuuri/art-2000012198812.html",
+      "published": "2026-08-11T17:24:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Totuus | Tekoäly muuttaa käsityksen totuudesta, sanoo Paavo Ritala",
+      "lead": "Professori näkee, kuinka tekoäly hämärtää kriittistä ajattelukykyä ja tekee totuuden selvittämisen vaikeaksi.",
+      "link": "https://www.hs.fi/tiede/art-2000012152889.html",
+      "published": "2026-08-11T15:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Kirja-arvio | Painostava tekoäly asettaa rakkaudelle verisiä esteitä hitti­kirja­sarjassa",
+      "lead": "Iranilais-yhdysvaltalaisen Tahereh Mafin romaani Katso minua aloittaa uuden sarjan.",
+      "link": "https://www.hs.fi/kulttuuri/art-2000012153619.html",
+      "published": "2026-08-11T14:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "HS-analyysi | Tekoäly­buumi teki esseistä seksikkäitä rahanteko­koneita",
+      "lead": "Piilaakson johtajat ovat alkaneet kirjoittaa mammuttimaisia esseitä. Viimeisimpänä Mark Zuckerberg julkaisi oman pohdintansa siitä, miten tekoäly muuttaa maailmaa, kirjoittaa HS Vision toimittaja Niclas Storås.",
+      "link": "https://www.hs.fi/visio/art-2000012196923.html",
+      "published": "2026-08-11T12:39:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Suomalaisyritykset tekevät tekoälyn kanssa kalliin virheen, kun strateginen näkemys puuttuu",
+      "lead": "Pelkkä tekoälylisenssien hankkiminen ei vielä kasvata liiketoimintaa. Asiantuntijan mukaan yritysten pitäisi miettiä ensin strategiaa ja vasta sitten teknologiaa.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/34e7306a-9089-4a3f-9902-39096b106b67?utm_source=rss",
+      "published": "2026-08-12T04:15:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "Pääsykokeen valvominen meni tekoälyltä täysin mönkään – 58 000 hakijaa uusintakokeeseen",
+      "lead": "Yliopisto pyysi anteeksi rehellisiltä hakijoilta, sillä kaikki korkeat pisteet saaneet testataan nyt uudelleen.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/566b6c17-be44-4c6c-a228-9bb00c36f285?utm_source=rss",
+      "published": "2026-08-11T17:03:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Entinen FBI-agentti tunnusti tyrmistyttävän teon – varasti lähes miljoonan dollarin edestä todistusaineistoa",
+      "lead": "Nostojen jälkeen agentti oli tiettävästi kysynyt ChatGPT:ltä muun muassa sijoitusneuvoja.",
+      "link": "https://www.is.fi/digitoday/art-2000012184836.html",
+      "published": "2026-08-05T18:11:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Professori Ylelle: ”Päätöksentekijöitä viedään kuin pässiä narussa”",
+      "lead": "Tekoäly on yhtä kuin ihmisistä eroon pääseminen, sanoo professori.",
+      "link": "https://www.is.fi/digitoday/art-2000012178929.html",
+      "published": "2026-08-03T15:55:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    }
+  ]
+}
