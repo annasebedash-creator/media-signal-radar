@@ -1,0 +1,198 @@
+{
+  "date": "2026-08-14",
+  "fetched_at": "2026-08-14T07:55:39+03:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 13
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 98
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 511,
+    "items_matched": 10,
+    "signals": 10
+  },
+  "signals": [
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Sijoittajat kaatoivat miljardeja Piilaakson ihmenuorelle, joka menetti ne kesken häävalmistelujen",
+      "lead": "Piilaakson ihmenuorena pidetty Leopold Aschenbrenner keräsi parissa vuodessa kymmenien miljardien tekoälyrahaston. Se joutui kesällä pahoihin ongelmiin. Kertooko kriisi jotain tekoälyalan ylikuumenemisesta?",
+      "link": "https://www.hs.fi/visio/art-2000012195379.html",
+      "published": "2026-08-13T17:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Ihmissuhteet | Tilitin tekoälylle satoja ahdistuneita viestejä ja näytin keskustelut psykologille",
+      "lead": "Tekoälystä on tullut miljoonille ihmisille terapeutti: joku, joka kuuntelee vaikka keskellä yötä, kun itkettää ja ahdistaa. Psykologi Jan-Henry Stenbergin mukaan siinä piilee myös sen vaara.",
+      "link": "https://www.hs.fi/elama/art-2000011985830.html",
+      "published": "2026-08-13T13:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Rakentaminen | Datakeskusten luvut hämäävät, sanoo niitä tutkinut professori",
+      "lead": "Suuret lupaukset eivät toteudu ehkä koskaan, sanoo professori Jussi Kangasharju. Hän on tutkinut konesalihankkeita 15 vuoden ajan.",
+      "link": "https://www.hs.fi/visio/art-2000012183002.html",
+      "published": "2026-08-13T10:41:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Puolustus ja tekoäly vetävät nyt pörssiin – Suomessa paras listautumisjakso viiteen vuoteen",
+      "lead": "Suomessa nähtiin vuoden ensimmäisellä puoliskolla kuusi pörssitulokasta, mikä on korkein määrä sitten vuoden 2021. Maailmalla listautumismarkkinaa vauhditti etenkin Elon Muskin avaruusyhtiö SpaceX:n jättimäinen listautuminen.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/44da62ea-d1c8-45cd-9b7a-59ee299d6995?utm_source=rss",
+      "published": "2026-08-14T04:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "Venäjän Suhoi Su-57 -häivehävittäjä ampuu nyt tekoälyohjuksia – Jopa 275 biljoonaa operaatiota sekunnissa",
+      "lead": "Huolena on, että aseistus kykenee entistä itsenäisempään ja häirintäresistentimpään toimintaan.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/b6fee416-c15a-407d-9e46-40d58f416c8f?utm_source=rss",
+      "published": "2026-08-13T12:03:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Lehti: Moskovan poliisi hakkasi 15-vuotiaan – syynä tekoäly",
+      "lead": "Tekoäly löysi pojasta 85–90 prosentin vastaavuuden etsintäkuulutetun kanssa, Moskovan poliisi väittää.",
+      "link": "https://www.is.fi/ulkomaat/art-2000012200729.html",
+      "published": "2026-08-13T17:45:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Entinen FBI-agentti tunnusti tyrmistyttävän teon – varasti lähes miljoonan dollarin edestä todistusaineistoa",
+      "lead": "Nostojen jälkeen agentti oli tiettävästi kysynyt ChatGPT:ltä muun muassa sijoitusneuvoja.",
+      "link": "https://www.is.fi/digitoday/art-2000012184836.html",
+      "published": "2026-08-05T18:11:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Professori Ylelle: ”Päätöksentekijöitä viedään kuin pässiä narussa”",
+      "lead": "Tekoäly on yhtä kuin ihmisistä eroon pääseminen, sanoo professori.",
+      "link": "https://www.is.fi/digitoday/art-2000012178929.html",
+      "published": "2026-08-03T15:55:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-14",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Helsingin yliopiston suosittu tekoälykurssi laajenee, tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä, mikä voi vaikuttaa tulevaisuuden työmarkkinoihin.",
+    "Datakeskusten rakentamisen haasteet ja lupaukset herättävät kriittistä keskustelua, mikä voi vaikuttaa investointipäätöksiin Suomessa.",
+    "Tekoälyn ja puolustusteollisuuden merkitys sijoitusmarkkinoilla kasvaa, mikä näkyy Suomen parhaana listautumisjaksona viiteen vuoteen."
+  ],
+  "top_signals": [
+    {
+      "title": "Rakentaminen | Datakeskusten luvut hämäävät, sanoo niitä tutkinut professori",
+      "lead": "Suuret lupaukset eivät toteudu ehkä koskaan, sanoo professori Jussi Kangasharju. Hän on tutkinut konesalihankkeita 15 vuoden ajan.",
+      "link": "https://www.hs.fi/visio/art-2000012183002.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "Jussi Kangasharju"
+      ],
+      "why_care": "Korostaa datakeskusten rakentamisen haasteita ja lupauksia, mikä voi vaikuttaa investointipäätöksiin."
+    },
+    {
+      "title": "Tekoäly | Sijoittajat kaatoivat miljardeja Piilaakson ihmenuorelle, joka menetti ne kesken häävalmistelujen",
+      "lead": "Piilaakson ihmenuorena pidetty Leopold Aschenbrenner keräsi parissa vuodessa kymmenien miljardien tekoälyrahaston. Se joutui kesällä pahoihin ongelmiin. Kertooko kriisi jotain tekoälyalan ylikuumenemisesta?",
+      "link": "https://www.hs.fi/visio/art-2000012195379.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "neutral",
+      "stakeholders": [
+        "Leopold Aschenbrenner"
+      ],
+      "why_care": "Kuvaa tekoälyalan mahdollisia ylikuumenemisen merkkejä ja sijoittajien huolia."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Ihmissuhteet | Tilitin tekoälylle satoja ahdistuneita viestejä ja näytin keskustelut psykologille",
+      "lead": "Tekoälystä on tullut miljoonille ihmisille terapeutti: joku, joka kuuntelee vaikka keskellä yötä, kun itkettää ja ahdistaa. Psykologi Jan-Henry Stenbergin mukaan siinä piilee myös sen vaara.",
+      "link": "https://www.hs.fi/elama/art-2000011985830.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "Jan-Henry Stenberg"
+      ],
+      "why_care": "Keskustelu tekoälyn roolista ihmisten mielenterveydessä nostaa esiin sen mahdolliset riskit ja eettiset kysymykset."
+    },
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    },
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "tutkijat",
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+    },
+    {
+      "title": "Puolustus ja tekoäly vetävät nyt pörssiin – Suomessa paras listautumisjakso viiteen vuoteen",
+      "lead": "Suomessa nähtiin vuoden ensimmäisellä puoliskolla kuusi pörssitulokasta, mikä on korkein määrä sitten vuoden 2021. Maailmalla listautumismarkkinaa vauhditti etenkin Elon Muskin avaruusyhtiö SpaceX:n jättimäinen listautuminen.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/44da62ea-d1c8-45cd-9b7a-59ee299d6995?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Elon Musk",
+        "SpaceX"
+      ],
+      "why_care": "Tuo esiin tekoälyn ja puolustusteollisuuden kasvavan merkityksen sijoitusmarkkinoilla."
+    },
+    {
+      "title": "Professori Ylelle: ”Päätöksentekijöitä viedään kuin pässiä narussa”",
+      "lead": "Tekoäly on yhtä kuin ihmisistä eroon pääseminen, sanoo professori.",
+      "link": "https://www.is.fi/digitoday/art-2000012178929.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "professori"
+      ],
+      "why_care": "Korostaa tekoälyn mahdollisia eettisiä ongelmia ja ihmisten roolia päätöksenteossa."
+    },
+    {
+      "title": "Venäjän Suhoi Su-57 -häivehävittäjä ampuu nyt tekoälyohjuksia – Jopa 275 biljoonaa operaatiota sekunnissa",
+      "lead": "Huolena on, että aseistus kykenee entistä itsenäisempään ja häirintäresistentimpään toimintaan.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/b6fee416-c15a-407d-9e46-40d58f416c8f?utm_source=rss",
+      "outlet": "Tekniikka&Talous",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Herättää huolta tekoälyn käytöstä aseistuksessa ja sen mahdollisista seurauksista kansainväliselle turvallisuudelle."
+    },
+    {
+      "title": "Lehti: Moskovan poliisi hakkasi 15-vuotiaan – syynä tekoäly",
+      "lead": "Tekoäly löysi pojasta 85–90 prosentin vastaavuuden etsintäkuulutetun kanssa, Moskovan poliisi väittää.",
+      "link": "https://www.is.fi/ulkomaat/art-2000012200729.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn mahdolliset väärinkäytöt ja virheelliset tulkinnat lainvalvonnassa."
+    },
+    {
+      "title": "Entinen FBI-agentti tunnusti tyrmistyttävän teon – varasti lähes miljoonan dollarin edestä todistusaineistoa",
+      "lead": "Nostojen jälkeen agentti oli tiettävästi kysynyt ChatGPT:ltä muun muassa sijoitusneuvoja.",
+      "link": "https://www.is.fi/digitoday/art-2000012184836.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn mahdolliset riskit ja väärinkäytön mahdollisuudet viranomaisympäristössä."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 511,
+    "signals": 10,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
