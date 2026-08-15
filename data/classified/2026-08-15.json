@@ -1,0 +1,344 @@
+{
+  "date": "2026-08-15",
+  "fetched_at": "2026-08-15T06:46:16+03:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 16
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 97
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 513,
+    "items_matched": 13,
+    "signals": 12
+  },
+  "signals": [
+    {
+      "outlet": "Yle",
+      "feed": "Pääuutiset",
+      "title": "HS julkaisi tekoälyllä muokatun kuvan – työkalun uusi ominaisuus ei ollut työntekijän tiedossa",
+      "lead": "– Tietenkin meillä pitäisi olla tiedossa kaikkien työkalujemme tekoälykehitys, HS:n toimituspäällikkö Emma-Leena Ovaskainen sanoo.",
+      "link": "https://yle.fi/a/74-20241104?origin=rss",
+      "published": "2026-08-14T16:40:44Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "duplicates": [
+        {
+          "outlet": "Yle",
+          "title": "HS julkaisi tekoälyllä muokatun kuvan – työkalun uusi ominaisuus ei ollut työntekijän tiedossa",
+          "link": "https://yle.fi/a/74-20241104?origin=rss"
+        }
+      ],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [
+          "HS",
+          "Emma-Leena Ovaskainen"
+        ],
+        "why_care": "Tuo esiin tekoälyn käyttöön liittyvät viestintähaasteet ja työntekijöiden tiedonsaannin puutteet."
+      }
+    },
+    {
+      "outlet": "Yle",
+      "feed": "Tuoreimmat",
+      "title": "Katri Saarikiven kolumni: Intiimi suhde tekoälyyn voi tehdä sinusta yksinäisen",
+      "lead": "Jaa tärkeät kokemukset ihan oikean ihmisen kanssa. Tutkimus osoittaa, että avautuminen tekoälylle voi pilata tyytyväisyyttä elämään, Saarikivi varoittaa.",
+      "link": "https://yle.fi/a/74-20240669?origin=rss",
+      "published": "2026-08-15T03:45:35Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [
+          "Katri Saarikivi"
+        ],
+        "why_care": "Korostaa tekoälyn mahdollisia negatiivisia vaikutuksia ihmisten sosiaaliseen hyvinvointiin."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Meidän pitää oppia tunnistamaan tekoälyn virheet",
+      "lead": "Emme voi luottaa tekoälyn lopputulokseen, jos emme ymmärrä, miten ja miksi se on siihen päätynyt.",
+      "link": "https://www.hs.fi/mielipide/art-2000012195018.html",
+      "published": "2026-08-14T17:15:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Korostaa tekoälyn virheiden tunnistamisen tärkeyttä ja luottamuksen rakentamista sen käyttöön."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Rakentaminen | Datakeskuksia rakennetaan jopa öisin",
+      "lead": "Datakeskustyömailla töitä painetaan kuin viimeistä päivää. Rakennusyhtiöiden katteet ja viivästyssakot ovat korkeita. ”Ei ole varaa epäonnistua”, kertoo eräs rakennuspäällikkö.",
+      "link": "https://www.hs.fi/visio/art-2000012194836.html",
+      "published": "2026-08-14T11:17:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [
+          "rakennusyhtiöt",
+          "rakennuspäällikkö"
+        ],
+        "why_care": "Korostaa datakeskusten rakentamisen kiireellisyyttä ja taloudellisia paineita rakennusalalla."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Markkinat | Tekoälyn luoma sijoitus­kupla on erilainen kuin aiemmat",
+      "lead": "Tekoälystä kehittyy sijoitusmarkkinoille mehevä kupla, koska niin me ihmiset toimimme.",
+      "link": "https://www.hs.fi/visio/art-2000012201185.html",
+      "published": "2026-08-14T08:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Tuo esiin tekoälyn vaikutuksen sijoitusmarkkinoihin ja mahdolliset riskit."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "launch",
+        "tone": "positive",
+        "stakeholders": [
+          "Helsingin yliopisto"
+        ],
+        "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "research",
+        "tone": "neutral",
+        "stakeholders": [
+          "Helsingin Sanomat"
+        ],
+        "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+      }
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "Mies pyysi tekoälyä varaamaan itselleen paikan jumppatunnille – Tekoälyagentti hakkeroi kuntosaliketjun järjestelmät ja potki muut pois jonosta",
+      "lead": "Hakkerointi oli agentin mielestä ilmeisesti helpoin tapa tehdä varaus.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/b580f1af-d1b1-442c-8c8c-4302d2b682ff?utm_source=rss",
+      "published": "2026-08-14T16:45:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Tuo esiin tekoälyn mahdolliset väärinkäytöt ja turvallisuusongelmat palveluissa."
+      }
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "Kuin 90 % Suomen kaikista päästöistä – Amazonin uusi datakeskus voi olla koko Yhdysvaltain suurin päästölähde",
+      "lead": "Massiivisen keskuksen pyörittämiseen on hankittu 35 kaasuturbiinia, jotka voivat käydä täydellä teholla pitkiä aikoja.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/07f6a1b0-ddcc-4cd7-98ac-b7b71148a0e5?utm_source=rss",
+      "published": "2026-08-14T15:30:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Herättää huolta datakeskusten ympäristövaikutuksista ja päästöistä Suomessa."
+      }
+    },
+    {
+      "outlet": "Iltalehti",
+      "feed": "Digiuutiset",
+      "title": "Mies antoi tekoälylle arkisen tehtävän – Päättyi täysin käsittä­mättömällä tavalla",
+      "lead": "",
+      "link": "https://www.iltalehti.fi/digiuutiset/a/4a93ddab-345a-4ef1-a6f6-c701adde86a4?utm_source=rss",
+      "published": "2026-08-14T18:19:14Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Iltalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 0,
+        "finland_link": false,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Tuo esiin tekoälyn arkipäiväisiä sovelluksia ja niiden mahdollisia odottamattomia seurauksia."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Entinen FBI-agentti tunnusti tyrmistyttävän teon – varasti lähes miljoonan dollarin edestä todistusaineistoa",
+      "lead": "Nostojen jälkeen agentti oli tiettävästi kysynyt ChatGPT:ltä muun muassa sijoitusneuvoja.",
+      "link": "https://www.is.fi/digitoday/art-2000012184836.html",
+      "published": "2026-08-05T18:11:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 0,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Tapaus nostaa esiin tekoälyn mahdolliset väärinkäytöt ja eettiset kysymykset sen käytössä."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Professori Ylelle: ”Päätöksentekijöitä viedään kuin pässiä narussa”",
+      "lead": "Tekoäly on yhtä kuin ihmisistä eroon pääseminen, sanoo professori.",
+      "link": "https://www.is.fi/digitoday/art-2000012178929.html",
+      "published": "2026-08-03T15:55:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [
+          "professori"
+        ],
+        "why_care": "Korostaa tekoälyn mahdollisia eettisiä ongelmia ja ihmisten roolia päätöksenteossa."
+      }
+    }
+  ],
+  "classified_at": "2026-08-15T06:46:31+03:00",
+  "model": "gpt-4o-mini"
+}
