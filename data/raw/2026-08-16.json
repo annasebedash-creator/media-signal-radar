@@ -1,0 +1,204 @@
+{
+  "date": "2026-08-16",
+  "fetched_at": "2026-08-16T06:54:05+03:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 15
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 96
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 511,
+    "items_matched": 11,
+    "signals": 10
+  },
+  "signals": [
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Pääkirjoitus | Talouden murros haastaa demokratian",
+      "lead": "Jo nyt demokratian taloudellinen pohja murentuu. Tekoälyn kaudella pohja lohkeilee suuremmille railoille.",
+      "link": "https://www.hs.fi/paakirjoitukset/art-2000012199250.html",
+      "published": "2026-08-15T15:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Mainonta | ”Kusifiltteriä” käyttävät tekoälymainokset ärsyttävät kuluttajia",
+      "lead": "Graafikko Ville Tietäväinen ja professori Johanna Frösén arvioivat, että kuluttajat kyllästyvät tekoälymainoksiin.",
+      "link": "https://www.hs.fi/visio/art-2000012199863.html",
+      "published": "2026-08-15T14:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "Mark Zuckerberg lupaa hirmuisia ihmisille ympäri maailman – ”superäly kaikille”",
+      "lead": "Meta on jäljessä tekoälykilpailussa ja polttaa konesaleihin jopa 145 miljardia dollaria tänä vuonna. Mark Zuckerbergin vastaus on 6 500 sanan manifesti ja avoimet mallit. Zuckerberg lupaa superälyn jokaiselle",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/0d6afcc8-63fe-4683-a72d-f1581a001a8b?utm_source=rss",
+      "published": "2026-08-15T13:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "Tekoälykupla oli totta, ja kesällä se puhkesi ainakin osittain – Asiantuntija: Tänne kannattaa seuraavaksi sijoittaa",
+      "lead": "Nordean strategi Hertta Alava kertoo, mihin nyt on hyvä sijoittaa, kun tekoälymurheet osoittautuivat pitkälti oikeiksi.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/0554de02-8c91-40e4-9ba0-c3c1f0a9cae6?utm_source=rss",
+      "published": "2026-08-15T07:15:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Iltalehti",
+      "feed": "Digiuutiset",
+      "title": "Mies antoi tekoälylle arkisen tehtävän – Päättyi täysin käsittä­mättömällä tavalla",
+      "lead": "",
+      "link": "https://www.iltalehti.fi/digiuutiset/a/4a93ddab-345a-4ef1-a6f6-c701adde86a4?utm_source=rss",
+      "published": "2026-08-14T18:19:14Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Iltalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Australialais­mies pyysi tekoälyltä pientä palvelusta – loppu­tulos säikäytti",
+      "lead": "Tekoäly teki tepposet.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012202392.html",
+      "published": "2026-08-15T16:07:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [
+        {
+          "outlet": "Ilta-Sanomat",
+          "title": "Australialais­mies pyysi tekoälyltä pientä palvelusta – loppu­tulos säikäytti",
+          "link": "https://www.is.fi/digitoday/tietoturva/art-2000012202392.html"
+        }
+      ]
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Entinen FBI-agentti tunnusti tyrmistyttävän teon – varasti lähes miljoonan dollarin edestä todistusaineistoa",
+      "lead": "Nostojen jälkeen agentti oli tiettävästi kysynyt ChatGPT:ltä muun muassa sijoitusneuvoja.",
+      "link": "https://www.is.fi/digitoday/art-2000012184836.html",
+      "published": "2026-08-05T18:11:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Professori Ylelle: ”Päätöksentekijöitä viedään kuin pässiä narussa”",
+      "lead": "Tekoäly on yhtä kuin ihmisistä eroon pääseminen, sanoo professori.",
+      "link": "https://www.is.fi/digitoday/art-2000012178929.html",
+      "published": "2026-08-03T15:55:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    }
+  ]
+}

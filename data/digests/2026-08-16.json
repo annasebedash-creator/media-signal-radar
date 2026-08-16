@@ -1,0 +1,161 @@
+{
+  "date": "2026-08-16",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Helsingin yliopiston suosittu tekoälykurssi jatkuu, tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä, mikä voi vaikuttaa työmarkkinoihin.",
+    "Kuluttajat ovat ärsyyntyneet tekoälypohjaisista mainoksista, mikä korostaa tarvetta kehittää kuluttajaystävällisempiä ratkaisuja.",
+    "Asiantuntijat arvioivat tekoälykuplan osittain puhjenneen, mikä avaa uusia sijoitusmahdollisuuksia markkinoilla."
+  ],
+  "top_signals": [
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    },
+    {
+      "title": "Mark Zuckerberg lupaa hirmuisia ihmisille ympäri maailman – ”superäly kaikille”",
+      "lead": "Meta on jäljessä tekoälykilpailussa ja polttaa konesaleihin jopa 145 miljardia dollaria tänä vuonna. Mark Zuckerbergin vastaus on 6 500 sanan manifesti ja avoimet mallit. Zuckerberg lupaa superälyn jokaiselle",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/0d6afcc8-63fe-4683-a72d-f1581a001a8b?utm_source=rss",
+      "outlet": "Tekniikka&Talous",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Mark Zuckerberg",
+        "Meta"
+      ],
+      "why_care": "Korostaa suurten investointien ja innovaatioiden merkitystä tekoälyn kehityksessä."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Mainonta | ”Kusifiltteriä” käyttävät tekoälymainokset ärsyttävät kuluttajia",
+      "lead": "Graafikko Ville Tietäväinen ja professori Johanna Frösén arvioivat, että kuluttajat kyllästyvät tekoälymainoksiin.",
+      "link": "https://www.hs.fi/visio/art-2000012199863.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "Ville Tietäväinen",
+        "Johanna Frösén"
+      ],
+      "why_care": "Kohdistaa huomiota kuluttajien negatiivisiin kokemuksiin tekoälypohjaisista mainoksista."
+    },
+    {
+      "title": "Tekoälykupla oli totta, ja kesällä se puhkesi ainakin osittain – Asiantuntija: Tänne kannattaa seuraavaksi sijoittaa",
+      "lead": "Nordean strategi Hertta Alava kertoo, mihin nyt on hyvä sijoittaa, kun tekoälymurheet osoittautuivat pitkälti oikeiksi.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/0554de02-8c91-40e4-9ba0-c3c1f0a9cae6?utm_source=rss",
+      "outlet": "Tekniikka&Talous",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Nordean",
+        "Hertta Alava"
+      ],
+      "why_care": "Tuo esiin asiantuntijan näkemyksen tekoälyn markkinakehityksestä ja sijoitusmahdollisuuksista."
+    },
+    {
+      "title": "Professori Ylelle: ”Päätöksentekijöitä viedään kuin pässiä narussa”",
+      "lead": "Tekoäly on yhtä kuin ihmisistä eroon pääseminen, sanoo professori.",
+      "link": "https://www.is.fi/digitoday/art-2000012178929.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "professori"
+      ],
+      "why_care": "Korostaa huolta tekoälyn vaikutuksesta päätöksentekoon ja ihmisten rooliin."
+    },
+    {
+      "title": "Pääkirjoitus | Talouden murros haastaa demokratian",
+      "lead": "Jo nyt demokratian taloudellinen pohja murentuu. Tekoälyn kaudella pohja lohkeilee suuremmille railoille.",
+      "link": "https://www.hs.fi/paakirjoitukset/art-2000012199250.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Korostaa tekoälyn vaikutuksia demokratian ja talouden väliseen suhteeseen."
+    },
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikin tuotannossa ja sen mahdolliset vaikutukset instrumenttien käyttöön."
+    },
+    {
+      "title": "Entinen FBI-agentti tunnusti tyrmistyttävän teon – varasti lähes miljoonan dollarin edestä todistusaineistoa",
+      "lead": "Nostojen jälkeen agentti oli tiettävästi kysynyt ChatGPT:ltä muun muassa sijoitusneuvoja.",
+      "link": "https://www.is.fi/digitoday/art-2000012184836.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn mahdolliset riskit ja väärinkäytön mahdollisuudet viranomaisympäristössä."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 511,
+    "signals": 8,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
