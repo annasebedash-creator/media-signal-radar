@@ -1,0 +1,163 @@
+{
+  "date": "2026-08-18",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Valtiovarainministeriö korostaa tekoälyn roolia julkisen sektorin haasteiden ratkaisemisessa, mikä herättää keskustelua hyvinvointivaltion puolustamisesta.",
+    "Helsingin yliopiston suosittu tekoälykurssi laajenee, tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä, mikä voi vaikuttaa työmarkkinoihin.",
+    "Datakeskusten rakentamisen haasteet ja niiden merkitys Suomen taloudelle nousevat esiin, mutta maassa on toistaiseksi vain yksi merkittävä datakeskusyhtiö."
+  ],
+  "top_signals": [
+    {
+      "title": "Ministeriö vastaa kritiikkiin tekoälynäkemyksistä: ”Keino puolustaa hyvinvointivaltion ydintä”",
+      "lead": "Valtiovarainministeriön strategia- ja tutkimusjohtaja Olli Kärkkäisen mukaan tekoäly auttaa Suomea selviytymään julkisen sektorin suuresta eläköitymisaallosta.",
+      "link": "https://yle.fi/a/74-20241446?origin=rss",
+      "outlet": "Yle",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Valtiovarainministeriö",
+        "Olli Kärkkäinen"
+      ],
+      "why_care": "Korostaa tekoälyn roolia julkisen sektorin haasteiden ratkaisemisessa Suomessa."
+    },
+    {
+      "title": "Rakentaminen | Datakeskusten luvut hämäävät, sanoo niitä tutkinut professori",
+      "lead": "Suuret lupaukset eivät toteudu ehkä koskaan, sanoo professori Jussi Kangasharju. Hän on tutkinut konesalihankkeita 15 vuoden ajan.",
+      "link": "https://www.hs.fi/visio/art-2000012183002.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "Jussi Kangasharju"
+      ],
+      "why_care": "Korostaa datakeskusten rakentamisen haasteita ja lupauksia, mikä voi vaikuttaa investointipäätöksiin."
+    },
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    },
+    {
+      "title": "Pääkirjoitus: 370 MW on vasta alkusoittoa – Silti Suomessa on toistaiseksi vain yksi merkittävä datakeskusyhtiö",
+      "lead": "Datakeskusten sijoittaminen Suomeen on järkevää, kirjoittaa päätoimittaja Mikko Virta.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/4d819d30-f3f5-4bcf-a946-04c625a92b73?utm_source=rss",
+      "outlet": "Tekniikka&Talous",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Mikko Virta"
+      ],
+      "why_care": "Korostaa datakeskusten merkitystä Suomen taloudessa ja infrastruktuurissa."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Presidentti Ahvenanmaalla | Stubbin neuvo huolestuneille nuorille: unelmoi, usko, tee lujasti työtä ja onnistu",
+      "lead": "Stubb vannoi unelmoinnin ja kovan työnteon nimeen mutta sanoi myös olevansa tekoälyn kehityksestä huolissaan.",
+      "link": "https://www.hs.fi/politiikka/art-2000012191115.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Stubb"
+      ],
+      "why_care": "Tuo esiin poliittisten päättäjien huolen tekoälyn kehityksestä ja sen vaikutuksista nuoriin."
+    },
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+    },
+    {
+      "title": "Professori Ylelle: ”Päätöksentekijöitä viedään kuin pässiä narussa”",
+      "lead": "Tekoäly on yhtä kuin ihmisistä eroon pääseminen, sanoo professori.",
+      "link": "https://www.is.fi/digitoday/art-2000012178929.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "professori"
+      ],
+      "why_care": "Korostaa tekoälyn mahdollisia eettisiä ongelmia ja ihmisten roolia päätöksenteossa."
+    },
+    {
+      "title": "Yhdysvaltojen raaka peli saattoi osua omaan nilkkaan – Nyt tulee Kiina",
+      "lead": "Toimittaja Karl Koli vieraili kesällä Kiinassa ja kuuli tekoälykilvasta aivan toisenlaisen tarinan. Kiinassa uskotaan, että Yhdysvaltojen ylivalta tekoälyssä on voitettavissa. Maa rakentaa nyt kovaa kyytiä ekosysteemiä, jolla se haluaa todella haastaa markkinaa dominoivat amerikkalaisjätit.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/ba1b6cc5-db41-4da5-9dfd-9e0fbbfd8df3?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Kuvaa kansainvälistä kilpailua tekoälyn alalla ja sen vaikutuksia markkinoihin."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 514,
+    "signals": 8,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
