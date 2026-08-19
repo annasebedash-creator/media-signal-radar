@@ -1,0 +1,113 @@
+{
+  "date": "2026-08-19",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Helsingin yliopiston suosittu tekoälykurssi jatkuu, tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä, mikä voi vaikuttaa tulevaisuuden työmarkkinoihin.",
+    "Tuusulassa asukkaat ovat huolestuneita datakeskuksen vaikutuksista paikallisyhteisöön, mikä herättää kysymyksiä paikallisten hyväksynnästä.",
+    "Tutkijat ovat opettaneet tekoälyn matkimaan kitaran säröääniä, mutta eroja perinteisiin instrumentteihin on yhä havaittavissa."
+  ],
+  "top_signals": [
+    {
+      "title": "Rakentaminen | Asukkaat huolestuivat datakeskuksesta Tuusulassa, mutta se oli jo liian myöhäistä",
+      "lead": "Tuusulan Jokelaan on tulossa datakeskus, josta kunta käärii hyvät rahat. Osa asukkaista ja päättäjistä huolestui liian myöhään.",
+      "link": "https://www.hs.fi/pkseutu/art-2000012213444.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "Tuusula",
+        "asukkaita",
+        "päättäjät"
+      ],
+      "why_care": "Herättää huolta datakeskusten vaikutuksista paikallisyhteisöihin ja niiden hyväksyntään."
+    },
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Työnhaku | Rekrytoijat kertovat, kuinka päihität tekoälyn ja erotut muista työnhakijoista",
+      "lead": "Työhakemuksista on rekrytoijien mukaan tullut puuduttavaa luettavaa: tekoälyn kirjoittamat tekstit muistuttavat toisiaan eivätkä jää mieleen. He kertovat, miten joukosta voi erottua ja päästä työhaastatteluun.",
+      "link": "https://www.hs.fi/lifestyle/art-2000012183700.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "rekrytoijat"
+      ],
+      "why_care": "Korostaa tekoälyn vaikutusta työnhakuprosessiin ja erottumisen tärkeyttä työnhaussa."
+    },
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "tutkijat",
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+    },
+    {
+      "title": "Professori Ylelle: ”Päätöksentekijöitä viedään kuin pässiä narussa”",
+      "lead": "Tekoäly on yhtä kuin ihmisistä eroon pääseminen, sanoo professori.",
+      "link": "https://www.is.fi/digitoday/art-2000012178929.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "professori"
+      ],
+      "why_care": "Korostaa huolta tekoälyn vaikutuksesta päätöksentekoon ja ihmisten rooliin."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 514,
+    "signals": 5,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
