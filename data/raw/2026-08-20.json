@@ -1,0 +1,204 @@
+{
+  "date": "2026-08-20",
+  "fetched_at": "2026-08-20T06:52:26+03:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 13
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 99
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 512,
+    "items_matched": 11,
+    "signals": 10
+  },
+  "signals": [
+    {
+      "outlet": "Yle",
+      "feed": "Pääuutiset",
+      "title": "Kysely: Puolet suomalaisista pelkää, että tekoäly johtaa massatyöttömyyteen – näin arvioivat asiantuntijat",
+      "lead": "Tutkijat listaavat useita syitä, miksi tekoälyn vaikutus työllisyyteen voi jäädä ainakin lähitulevaisuudessa huomattaasti ihmisten pelkoa pienemmäksi.",
+      "link": "https://yle.fi/a/74-20240733?origin=rss",
+      "published": "2026-08-20T02:30:35Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "duplicates": [
+        {
+          "outlet": "Yle",
+          "title": "Kysely: Puolet suomalaisista pelkää, että tekoäly johtaa massatyöttömyyteen – näin arvioivat asiantuntijat",
+          "link": "https://yle.fi/a/74-20240733?origin=rss"
+        }
+      ]
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Google ostaa kaatuneen lento­yhtiön datan tekoälymalliensa polttoaineeksi",
+      "lead": "Lentoyhtiö Spirit Airlines ajautui konkurssiin. Tekoäly-yhtiöt kävivät tarjouskilpailua sen datasta, ja nyt Google maksaa siitä 10 miljoonaa dollaria.",
+      "link": "https://www.hs.fi/visio/art-2000012215204.html",
+      "published": "2026-08-19T16:30:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Valtteri Hirvonen komentaa veneestään tekoälyä, joka voi ratkaista Suomen ongelman",
+      "lead": "Valtteri Hirvosen kotona ruksuttava tekoälyjärjestelmä voi näyttää suuntaa valtionhallinnolle. Paikallisen tekoälyn avulla saadaan parempi tietosuoja, pienemmät käyttökustannukset ja vähemmän riippuvuutta tekoälyjäteistä.",
+      "link": "https://www.hs.fi/visio/art-2000012071523.html",
+      "published": "2026-08-19T15:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Anthropic on jyrännyt Open AI:n",
+      "lead": "Tekoälyalan tähti on alkanut hiipua. Open AI on jäänyt kilpailijoiden jalkoihin. Yhtiön tappiot ovat kasvaneet yli 10 miljardin, kun tekoäly-yhtiö Anthropic on muuttumassa voitolliseksi.",
+      "link": "https://www.hs.fi/visio/art-2000012215360.html",
+      "published": "2026-08-19T13:30:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "Miksi tekoäly ei ole nostanut tuottavuutta? – Asiantuntija vastaa ja vertaa tilannetta 1980-lukuun",
+      "lead": "Uusi teknologia on usein avainasemassa, kun haetaan pitkäaikaista talouskasvua. Voiko tekoäly olla uusi höyrykone tai sähkö? Tekniikka&Talous kysyi asiantuntijalta.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/1db3c945-2001-4c93-9df7-ad57cd2acba0?utm_source=rss",
+      "published": "2026-08-20T01:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Australialais­mies pyysi tekoälyltä pientä palvelusta – loppu­tulos säikäytti",
+      "lead": "Tekoäly teki tepposet.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012202392.html",
+      "published": "2026-08-15T16:07:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Entinen FBI-agentti tunnusti tyrmistyttävän teon – varasti lähes miljoonan dollarin edestä todistusaineistoa",
+      "lead": "Nostojen jälkeen agentti oli tiettävästi kysynyt ChatGPT:ltä muun muassa sijoitusneuvoja.",
+      "link": "https://www.is.fi/digitoday/art-2000012184836.html",
+      "published": "2026-08-05T18:11:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Professori Ylelle: ”Päätöksentekijöitä viedään kuin pässiä narussa”",
+      "lead": "Tekoäly on yhtä kuin ihmisistä eroon pääseminen, sanoo professori.",
+      "link": "https://www.is.fi/digitoday/art-2000012178929.html",
+      "published": "2026-08-03T15:55:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    }
+  ]
+}

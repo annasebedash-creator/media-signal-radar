@@ -1,0 +1,185 @@
+{
+  "date": "2026-08-20",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Google on ostanut Spirit Airlinesin konkurssidatan kehittääkseen tekoälymallejaan, mikä osoittaa datan arvon tekoälykehityksessä.",
+    "Helsingin yliopiston suosittu tekoälykurssi laajenee, tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä.",
+    "Kysely paljastaa, että puolet suomalaisista pelkää tekoälyn johtavan massatyöttömyyteen, mikä voi vaikuttaa julkiseen keskusteluun ja politiikkaan."
+  ],
+  "top_signals": [
+    {
+      "title": "Tekoäly | Google ostaa kaatuneen lento­yhtiön datan tekoälymalliensa polttoaineeksi",
+      "lead": "Lentoyhtiö Spirit Airlines ajautui konkurssiin. Tekoäly-yhtiöt kävivät tarjouskilpailua sen datasta, ja nyt Google maksaa siitä 10 miljoonaa dollaria.",
+      "link": "https://www.hs.fi/visio/art-2000012215204.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 3,
+      "finland_link": false,
+      "signal_type": "launch",
+      "tone": "neutral",
+      "stakeholders": [
+        "Google",
+        "Spirit Airlines"
+      ],
+      "why_care": "Google investoi merkittävästi tekoälymalliensa kehittämiseen ostamalla arvokasta dataa konkurssiin menneeltä yhtiöltä."
+    },
+    {
+      "title": "Kysely: Puolet suomalaisista pelkää, että tekoäly johtaa massatyöttömyyteen – näin arvioivat asiantuntijat",
+      "lead": "Tutkijat listaavat useita syitä, miksi tekoälyn vaikutus työllisyyteen voi jäädä ainakin lähitulevaisuudessa huomattaasti ihmisten pelkoa pienemmäksi.",
+      "link": "https://yle.fi/a/74-20240733?origin=rss",
+      "outlet": "Yle",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "suomalaiset",
+        "asiantuntijat",
+        "tutkijat"
+      ],
+      "why_care": "Kysely nostaa esiin kansalaisten huolen tekoälyn vaikutuksista työllisyyteen, mikä voi vaikuttaa julkiseen keskusteluun ja politiikkaan."
+    },
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    },
+    {
+      "title": "Tekoäly | Anthropic on jyrännyt Open AI:n",
+      "lead": "Tekoälyalan tähti on alkanut hiipua. Open AI on jäänyt kilpailijoiden jalkoihin. Yhtiön tappiot ovat kasvaneet yli 10 miljardin, kun tekoäly-yhtiö Anthropic on muuttumassa voitolliseksi.",
+      "link": "https://www.hs.fi/visio/art-2000012215360.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Anthropic",
+        "Open AI"
+      ],
+      "why_care": "Kuvastaa tekoälyalan kilpailutilanteen muutosta ja Open AI:n haasteita markkinoilla."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Tekoäly | Valtteri Hirvonen komentaa veneestään tekoälyä, joka voi ratkaista Suomen ongelman",
+      "lead": "Valtteri Hirvosen kotona ruksuttava tekoälyjärjestelmä voi näyttää suuntaa valtionhallinnolle. Paikallisen tekoälyn avulla saadaan parempi tietosuoja, pienemmät käyttökustannukset ja vähemmän riippuvuutta tekoälyjäteistä.",
+      "link": "https://www.hs.fi/visio/art-2000012071523.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Valtteri Hirvonen"
+      ],
+      "why_care": "Valtteri Hirvosen kommentit tuovat esiin paikallisen tekoälyn mahdollisuudet ja haasteet Suomen valtionhallinnossa."
+    },
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "tutkijat",
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+    },
+    {
+      "title": "Miksi tekoäly ei ole nostanut tuottavuutta? – Asiantuntija vastaa ja vertaa tilannetta 1980-lukuun",
+      "lead": "Uusi teknologia on usein avainasemassa, kun haetaan pitkäaikaista talouskasvua. Voiko tekoäly olla uusi höyrykone tai sähkö? Tekniikka&Talous kysyi asiantuntijalta.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/1db3c945-2001-4c93-9df7-ad57cd2acba0?utm_source=rss",
+      "outlet": "Tekniikka&Talous",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Tekniikka&Talous"
+      ],
+      "why_care": "Kysymys tekoälyn tuottavuusvaikutuksista herättää keskustelua teknologian roolista talouskasvussa."
+    },
+    {
+      "title": "Professori Ylelle: ”Päätöksentekijöitä viedään kuin pässiä narussa”",
+      "lead": "Tekoäly on yhtä kuin ihmisistä eroon pääseminen, sanoo professori.",
+      "link": "https://www.is.fi/digitoday/art-2000012178929.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "professori"
+      ],
+      "why_care": "Korostaa tekoälyn mahdollisia eettisiä ongelmia ja ihmisten roolia päätöksenteossa."
+    },
+    {
+      "title": "Entinen FBI-agentti tunnusti tyrmistyttävän teon – varasti lähes miljoonan dollarin edestä todistusaineistoa",
+      "lead": "Nostojen jälkeen agentti oli tiettävästi kysynyt ChatGPT:ltä muun muassa sijoitusneuvoja.",
+      "link": "https://www.is.fi/digitoday/art-2000012184836.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn käyttömahdollisuudet ja riskit rikollisessa toiminnassa."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 512,
+    "signals": 9,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
