@@ -1,0 +1,148 @@
+{
+  "date": "2026-08-21",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Suomen datakeskusala on tarkkailun alla, kun Norjassa keskustellaan sähkön ja verkkokapasiteetin jakamisesta, mikä voi vaikuttaa investointipäätöksiin Suomessa.",
+    "Helsingin yliopiston suosittu tekoälyn peruskurssi jatkuu, ja sen tavoitteena on opettaa tekoälyn perusteet prosentille maailman väestöstä.",
+    "Tutkijat ovat kehittäneet tekoälyn, joka pystyy matkimaan kitaran säröääniä lähes täydellisesti, mutta eron aitoon ääneen voi yhä kuulla."
+  ],
+  "top_signals": [
+    {
+      "title": "Suomen pitää olla tarkkana – Datakeskusbuumissa ratkaisevaa on, kuka kerää arvon",
+      "lead": "Julkisessa keskustelussa datakeskukset ovat lähinnä energiasyöppöjä. Maailman tekoälybuumi tarjoaa suomalaisyrityksille mahdollisuuksia myös silloin, kun palvelimet sijaitsevat Suomen ulkopuolella, kirjoittaa Kauppalehden päätoimittaja Riina Nevalainen.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/d6fa3772-828e-4f6c-9a28-5409aa8446f4?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Suomi",
+        "Riina Nevalainen"
+      ],
+      "why_care": "Korostaa datakeskusten roolia ja arvonkeruuta tekoälybuumissa suomalaisyritysten näkökulmasta."
+    },
+    {
+      "title": "Norjassa kysytään jo, kuka saa sähkön – Näin Suomen datakeskusala näkee tilanteen",
+      "lead": "Norjassa pohditaan jo, miten sähköä ja verkkokapasiteettia pitäisi jakaa, jos kysyntä kasvaa tarjontaa nopeammin. Suomessa datakeskusala ei kuitenkaan pidä investointien asettamista paremmuusjärjestykseen ajankohtaisena.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/8c8cd7f1-f69b-44d7-856a-1c7798fe366b?utm_source=rss",
+      "outlet": "Tekniikka&Talous",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Norja",
+        "Suomi",
+        "datakeskusala"
+      ],
+      "why_care": "Keskustelu sähkön ja verkkokapasiteetin jakamisesta voi vaikuttaa datakeskusten investointipäätöksiin Suomessa."
+    },
+    {
+      "title": "Suuri alkuperäiskansa kielsi datakeskusten rakentamisen mailleen",
+      "lead": "Yhdysvalloissa datakeskusten ympäristövaikutukset herättävät huolta. Cherokeiden hallinto kielsi keskusten rakentamisen heimon maille.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/a3f52c2d-82ba-4221-89f8-1a7f7ac329db?utm_source=rss",
+      "outlet": "Tekniikka&Talous",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "neutral",
+      "stakeholders": [
+        "Cherokeet"
+      ],
+      "why_care": "Herättää keskustelua datakeskusten ympäristövaikutuksista ja niiden hyväksyttävyydestä alkuperäiskansojen alueilla."
+    },
+    {
+      "title": "Pääkirjoitus: Tulevaisuus nostaa kylmän hien pintaan – miten ylös sähkön hinta kipuaa?",
+      "lead": "Uusien datakeskusten vaatima sähköntarve on niin suuri, että kuluttaja kaipaa jotakin turvaa hillittömien hinnannousujen varalta.",
+      "link": "https://www.is.fi/paakirjoitus/art-2000012218608.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Käsittelee datakeskusten sähkönkulutuksen vaikutuksia kuluttajiin ja hintakehitykseen."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    },
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "tutkijat",
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikin tuotannossa ja sen mahdolliset vaikutukset instrumenttien käyttöön."
+    },
+    {
+      "title": "Professori Ylelle: ”Päätöksentekijöitä viedään kuin pässiä narussa”",
+      "lead": "Tekoäly on yhtä kuin ihmisistä eroon pääseminen, sanoo professori.",
+      "link": "https://www.is.fi/digitoday/art-2000012178929.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "professori"
+      ],
+      "why_care": "Korostaa huolta tekoälyn vaikutuksesta päätöksentekoon ja ihmisten rooliin."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 514,
+    "signals": 7,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}

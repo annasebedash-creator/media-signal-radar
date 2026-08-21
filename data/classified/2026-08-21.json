@@ -1,0 +1,274 @@
+{
+  "date": "2026-08-21",
+  "fetched_at": "2026-08-21T06:55:27+03:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 16
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 98
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 514,
+    "items_matched": 9,
+    "signals": 9
+  },
+  "signals": [
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "launch",
+        "tone": "positive",
+        "stakeholders": [
+          "Helsingin yliopisto"
+        ],
+        "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "research",
+        "tone": "neutral",
+        "stakeholders": [
+          "tutkijat",
+          "Helsingin Sanomat"
+        ],
+        "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikin tuotannossa ja sen mahdolliset vaikutukset instrumenttien käyttöön."
+      }
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Suomen pitää olla tarkkana – Datakeskusbuumissa ratkaisevaa on, kuka kerää arvon",
+      "lead": "Julkisessa keskustelussa datakeskukset ovat lähinnä energiasyöppöjä. Maailman tekoälybuumi tarjoaa suomalaisyrityksille mahdollisuuksia myös silloin, kun palvelimet sijaitsevat Suomen ulkopuolella, kirjoittaa Kauppalehden päätoimittaja Riina Nevalainen.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/d6fa3772-828e-4f6c-9a28-5409aa8446f4?utm_source=rss",
+      "published": "2026-08-21T02:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "opinion",
+        "tone": "neutral",
+        "stakeholders": [
+          "Suomi",
+          "Riina Nevalainen"
+        ],
+        "why_care": "Korostaa datakeskusten roolia ja arvonkeruuta tekoälybuumissa suomalaisyritysten näkökulmasta."
+      }
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "Norjassa kysytään jo, kuka saa sähkön – Näin Suomen datakeskusala näkee tilanteen",
+      "lead": "Norjassa pohditaan jo, miten sähköä ja verkkokapasiteettia pitäisi jakaa, jos kysyntä kasvaa tarjontaa nopeammin. Suomessa datakeskusala ei kuitenkaan pidä investointien asettamista paremmuusjärjestykseen ajankohtaisena.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/8c8cd7f1-f69b-44d7-856a-1c7798fe366b?utm_source=rss",
+      "published": "2026-08-21T01:03:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [
+          "Norja",
+          "Suomi",
+          "datakeskusala"
+        ],
+        "why_care": "Keskustelu sähkön ja verkkokapasiteetin jakamisesta voi vaikuttaa datakeskusten investointipäätöksiin Suomessa."
+      }
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "Suuri alkuperäiskansa kielsi datakeskusten rakentamisen mailleen",
+      "lead": "Yhdysvalloissa datakeskusten ympäristövaikutukset herättävät huolta. Cherokeiden hallinto kielsi keskusten rakentamisen heimon maille.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/a3f52c2d-82ba-4221-89f8-1a7f7ac329db?utm_source=rss",
+      "published": "2026-08-20T17:00:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "neutral",
+        "stakeholders": [
+          "Cherokeet"
+        ],
+        "why_care": "Herättää keskustelua datakeskusten ympäristövaikutuksista ja niiden hyväksyttävyydestä alkuperäiskansojen alueilla."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Pääkirjoitus: Tulevaisuus nostaa kylmän hien pintaan – miten ylös sähkön hinta kipuaa?",
+      "lead": "Uusien datakeskusten vaatima sähköntarve on niin suuri, että kuluttaja kaipaa jotakin turvaa hillittömien hinnannousujen varalta.",
+      "link": "https://www.is.fi/paakirjoitus/art-2000012218608.html",
+      "published": "2026-08-20T18:00:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Käsittelee datakeskusten sähkönkulutuksen vaikutuksia kuluttajiin ja hintakehitykseen."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Australialais­mies pyysi tekoälyltä pientä palvelusta – loppu­tulos säikäytti",
+      "lead": "Tekoäly teki tepposet.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012202392.html",
+      "published": "2026-08-15T16:07:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 0,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Tuo esiin tekoälyn mahdolliset riskit ja ongelmat käyttäjille."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Entinen FBI-agentti tunnusti tyrmistyttävän teon – varasti lähes miljoonan dollarin edestä todistusaineistoa",
+      "lead": "Nostojen jälkeen agentti oli tiettävästi kysynyt ChatGPT:ltä muun muassa sijoitusneuvoja.",
+      "link": "https://www.is.fi/digitoday/art-2000012184836.html",
+      "published": "2026-08-05T18:11:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 0,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Tapaus nostaa esiin tekoälyn mahdolliset väärinkäytöt ja eettiset kysymykset viranomaisympäristössä."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Professori Ylelle: ”Päätöksentekijöitä viedään kuin pässiä narussa”",
+      "lead": "Tekoäly on yhtä kuin ihmisistä eroon pääseminen, sanoo professori.",
+      "link": "https://www.is.fi/digitoday/art-2000012178929.html",
+      "published": "2026-08-03T15:55:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [
+          "professori"
+        ],
+        "why_care": "Korostaa huolta tekoälyn vaikutuksesta päätöksentekoon ja ihmisten rooliin."
+      }
+    }
+  ],
+  "classified_at": "2026-08-21T06:55:41+03:00",
+  "model": "gpt-4o-mini"
+}
