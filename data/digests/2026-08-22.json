@@ -1,0 +1,123 @@
+{
+  "date": "2026-08-22",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Helsingin yliopiston tekoälykurssi, joka on saavuttanut suuren suosion, laajenee tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä.",
+    "Datakeskusten ympäristövaikutukset herättävät kriittistä keskustelua Suomessa, korostaen niiden roolia kansainvälisessä ilmastopolitiikassa.",
+    "Tekoälyn käyttö esimiestehtävissä nostaa esiin eettisiä kysymyksiä, kun tekoäly antoi potkut työntekijälle, mikä herätti keskustelua työelämän käytännöistä."
+  ],
+  "top_signals": [
+    {
+      "title": "Datakeskukset | Suomi on osa tekoälyjättien likaista ilmastopeliä",
+      "lead": "Datakeskuksista on tullut karmeita saastuttajia. Kasvava osa Suomessa tuotetun sähkön vihreydestä myydään ulkomaille. Siten muualla tuotettuja päästöjä saadaan pestyä puhtaiksi.",
+      "link": "https://www.hs.fi/visio/art-2000012211194.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Korostaa datakeskusten ympäristövaikutuksia ja niiden roolia kansainvälisessä ilmastopolitiikassa."
+    },
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    },
+    {
+      "title": "Tätä ei ole maailmassa ikinä ennen käynyt: Tekoäly-esimies antoi potkut alaiselleen työntekijälle – Yhtiö: Ei ollut epäeettistä millään lailla",
+      "lead": "Tekoälyagentteja on käytetty aiemminkin rekrytoinnin apuna, mutta nyt agentti on päästetty päättämään myös oikean ihmisen irtisanomisesta.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/496fe37b-b15d-46b6-bb00-67f75c16232c?utm_source=rss",
+      "outlet": "Tekniikka&Talous",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn käyttöön liittyvät eettiset kysymykset työelämässä."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "tutkijat",
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+    },
+    {
+      "title": "Professori Ylelle: ”Päätöksentekijöitä viedään kuin pässiä narussa”",
+      "lead": "Tekoäly on yhtä kuin ihmisistä eroon pääseminen, sanoo professori.",
+      "link": "https://www.is.fi/digitoday/art-2000012178929.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "professori"
+      ],
+      "why_care": "Korostaa tekoälyn mahdollisia eettisiä ongelmia ja päätöksenteon haasteita."
+    },
+    {
+      "title": "Applen nappikuulokkeisiin saattaa olla tulossa kamera",
+      "lead": "Airpodien uuden version kamera palvelee todennäköisesti tekoälyominaisuuksia.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/e4ceb681-34ab-48fd-8344-09d162f9ea47?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "launch",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Uutinen nostaa esiin tekoälyn mahdollisen roolin kuluttajatuotteissa."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 513,
+    "signals": 6,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
