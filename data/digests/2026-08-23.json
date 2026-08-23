@@ -1,0 +1,107 @@
+{
+  "date": "2026-08-23",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Helsingin yliopiston suosittu tekoälyn peruskurssi jatkuu, tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä, mikä voi vaikuttaa työmarkkinoihin.",
+    "Tutkijat kehittivät tekoälyn, joka matkii kitaran säröääniä lähes täydellisesti, mutta musiikkitoimittaja havaitsi eron aidon ja tekoälyäänen välillä.",
+    "Kritiikkiä herättää huoli tekoälyn vaikutuksesta päätöksentekoon, kun professori kuvailee päätöksentekijöiden olevan tekoälyn vietävissä."
+  ],
+  "top_signals": [
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Arvot | Tutut tekoälyt vastasivat arvokysymyksiin: Liki kaikki kallellaan vasemmalle",
+      "lead": "Tekoälyn arvot heijastelevat kehittäjien ajatuksia. HS Vision testissä kielimallien enemmistö osoittautui vasemmistolaiseksi ja liberaalivihreäksi joukoksi.",
+      "link": "https://www.hs.fi/visio/art-2000012203010.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn kehittäjien arvopohjan ja sen mahdolliset vaikutukset tekoälyn käyttöön yhteiskunnassa."
+    },
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "tutkijat",
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+    },
+    {
+      "title": "Professori Ylelle: ”Päätöksentekijöitä viedään kuin pässiä narussa”",
+      "lead": "Tekoäly on yhtä kuin ihmisistä eroon pääseminen, sanoo professori.",
+      "link": "https://www.is.fi/digitoday/art-2000012178929.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "professori"
+      ],
+      "why_care": "Korostaa huolta tekoälyn vaikutuksesta päätöksentekoon ja ihmisten rooliin."
+    },
+    {
+      "title": "Sirujätti jakaa jokaiselle kansalaiselleen ”tekoälyosinkoa”",
+      "lead": "Saarivaltion talouskasvun odotetaan olevan suurinta 39 vuoteen.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/895d1444-1241-4bfe-badd-2e298ed90e93?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tuo esiin kansalaisten taloudellista hyvinvointia ja sen yhteyttä tekoälyn kehitykseen."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 513,
+    "signals": 5,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
