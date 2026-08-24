@@ -1,0 +1,203 @@
+{
+  "date": "2026-08-24",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Helsingin yliopiston suosittu tekoälykurssi jatkuu, tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä, mikä voi vaikuttaa työmarkkinoihin.",
+    "ChatGPT ottaa mainokset käyttöön yli 30 Euroopan maassa, mikä korostaa tekoälyn kaupallistamisen ja mainonnan roolia.",
+    "Tutkimus osoittaa tekoälyn kyvyt matkia kitaran säröääniä lähes täydellisesti, mutta ihmiskorva voi silti havaita eroja."
+  ],
+  "top_signals": [
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Opiskelu | Aalto-yliopiston super­käyttäjät kertovat, miten teko­äly tehostaa opintoja",
+      "lead": "Tekoäly on jo niin hyvä, että opiskelija voi ulkoistaa sille melkein kaiken. Tärkeimmiksi taidoiksi nousevat itsekuri, ajattelu ja oman ”maun” säilyttäminen.",
+      "link": "https://www.hs.fi/visio/art-2000012080720.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Aalto-yliopisto"
+      ],
+      "why_care": "Keskustelu tekoälyn roolista opiskelussa voi vaikuttaa koulutuspolitiikkaan ja oppimismenetelmiin."
+    },
+    {
+      "title": "Arvot | Tutut tekoälyt vastasivat arvokysymyksiin: Liki kaikki kallellaan vasemmalle",
+      "lead": "Tekoälyn arvot heijastelevat kehittäjien ajatuksia. HS Vision testissä kielimallien enemmistö osoittautui vasemmistolaiseksi ja liberaalivihreäksi joukoksi.",
+      "link": "https://www.hs.fi/visio/art-2000012203010.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn kehittäjien arvopohjan ja sen mahdolliset vaikutukset tekoälyn käyttöön yhteiskunnassa."
+    },
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikin tuotannossa ja sen mahdolliset vaikutukset instrumenttien käyttöön."
+    },
+    {
+      "title": "Analyysi: Keskusta suututti työttömät uudella risusavotalla – taustalla piilee uhka, josta on aivan pakko puhua",
+      "lead": "Keskusta suututti työttömät sosiaaliturvamallilla, jonka tausta-ajatus on pohtimisen arvoinen. Kaikilta puolueilta tarvitaan siksi nyt linjaus tekoälyn uhasta, kirjoittaa politiikan toimittaja Otto Rantanen.",
+      "link": "https://www.is.fi/politiikka/art-2000012223512.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Keskusta",
+        "Otto Rantanen"
+      ],
+      "why_care": "Korostaa tekoälyn aiheuttamia huolia sosiaaliturvassa ja poliittisessa keskustelussa."
+    },
+    {
+      "title": "Tekoäly | Chat GPT ottaa mainokset käyttöön yli 30:ssä Euroopan maassa",
+      "lead": "Tiedotteen mukaan mainokset merkitään erilleen tekoälyn antamista vastauksista.",
+      "link": "https://www.hs.fi/maailma/art-2000012225072.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "launch",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn kaupallistamisen ja mainonnan roolin Euroopassa."
+    },
+    {
+      "title": "Huijaukset | Pohjoiskorealaiset käyttivät yhdys­valtalaisen henkilöllisyyttä ja tienasivat sillä 100 000 dollaria",
+      "lead": "Pohjoiskorealaiset it-työntekijät käyttävät varastettuja henkilöllisyyksiä, tekoälyä ja ulkomaalaisia kumppaneita rahoittaakseen diktatuuria.",
+      "link": "https://www.hs.fi/maailma/art-2000012220583.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn mahdolliset väärinkäytöt ja turvallisuusuhat kansainvälisessä kontekstissa."
+    },
+    {
+      "title": "Tekoäly | Mitä meidän pitäisi osata paremmin?",
+      "lead": "Ihmisiä tarvitaan hahmottamaan kokonaisuuksia. Myös sosiaaliset taidot korostuvat.",
+      "link": "https://www.hs.fi/mielipide/art-2000012224198.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Korostaa sosiaalisten taitojen merkitystä tekoälyn kehittämisessä ja käytössä."
+    },
+    {
+      "title": "ChatGPT ottaa mainokset käyttöön Euroopassa",
+      "lead": "Mainokset tulevat käyttöön 31:ssä Euroopan maassa.",
+      "link": "https://www.is.fi/digitoday/art-2000012225073.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn kaupallistamisen ja sen vaikutukset käyttäjäkokemukseen Euroopassa."
+    },
+    {
+      "title": "Tämän syövän tekoäly voisi löytää – yhtä hyvin kuin lääkäri",
+      "lead": "Tutkimusta tarvitaan kuitenkin vielä lisää.",
+      "link": "https://www.is.fi/terveys/art-2000012198283.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Korostaa tekoälyn potentiaalia terveydenhuollossa, mutta myös tutkimuksen tarpeen."
+    },
+    {
+      "title": "Entinen FBI-agentti tunnusti tyrmistyttävän teon – varasti lähes miljoonan dollarin edestä todistusaineistoa",
+      "lead": "Nostojen jälkeen agentti oli tiettävästi kysynyt ChatGPT:ltä muun muassa sijoitusneuvoja.",
+      "link": "https://www.is.fi/digitoday/art-2000012184836.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn käyttömahdollisuudet ja riskit rikollisessa toiminnassa."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 510,
+    "signals": 11,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}

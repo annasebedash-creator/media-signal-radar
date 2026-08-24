@@ -1,0 +1,246 @@
+{
+  "date": "2026-08-24",
+  "fetched_at": "2026-08-24T07:00:16+03:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 12
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 98
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 510,
+    "items_matched": 14,
+    "signals": 13
+  },
+  "signals": [
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Chat GPT ottaa mainokset käyttöön yli 30:ssä Euroopan maassa",
+      "lead": "Tiedotteen mukaan mainokset merkitään erilleen tekoälyn antamista vastauksista.",
+      "link": "https://www.hs.fi/maailma/art-2000012225072.html",
+      "published": "2026-08-24T00:40:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Huijaukset | Pohjoiskorealaiset käyttivät yhdys­valtalaisen henkilöllisyyttä ja tienasivat sillä 100 000 dollaria",
+      "lead": "Pohjoiskorealaiset it-työntekijät käyttävät varastettuja henkilöllisyyksiä, tekoälyä ja ulkomaalaisia kumppaneita rahoittaakseen diktatuuria.",
+      "link": "https://www.hs.fi/maailma/art-2000012220583.html",
+      "published": "2026-08-23T17:44:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Mitä meidän pitäisi osata paremmin?",
+      "lead": "Ihmisiä tarvitaan hahmottamaan kokonaisuuksia. Myös sosiaaliset taidot korostuvat.",
+      "link": "https://www.hs.fi/mielipide/art-2000012224198.html",
+      "published": "2026-08-23T17:15:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Opiskelu | Aalto-yliopiston super­käyttäjät kertovat, miten teko­äly tehostaa opintoja",
+      "lead": "Tekoäly on jo niin hyvä, että opiskelija voi ulkoistaa sille melkein kaiken. Tärkeimmiksi taidoiksi nousevat itsekuri, ajattelu ja oman ”maun” säilyttäminen.",
+      "link": "https://www.hs.fi/visio/art-2000012080720.html",
+      "published": "2026-08-23T17:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Arvot | Tutut tekoälyt vastasivat arvokysymyksiin: Liki kaikki kallellaan vasemmalle",
+      "lead": "Tekoälyn arvot heijastelevat kehittäjien ajatuksia. HS Vision testissä kielimallien enemmistö osoittautui vasemmistolaiseksi ja liberaalivihreäksi joukoksi.",
+      "link": "https://www.hs.fi/visio/art-2000012203010.html",
+      "published": "2026-08-22T23:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "ChatGPT ottaa mainokset käyttöön Euroopassa",
+      "lead": "Mainokset tulevat käyttöön 31:ssä Euroopan maassa.",
+      "link": "https://www.is.fi/digitoday/art-2000012225073.html",
+      "published": "2026-08-24T00:44:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [
+        {
+          "outlet": "Ilta-Sanomat",
+          "title": "ChatGPT ottaa mainokset käyttöön Euroopassa",
+          "link": "https://www.is.fi/digitoday/art-2000012225073.html"
+        }
+      ]
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Analyysi: Keskusta suututti työttömät uudella risusavotalla – taustalla piilee uhka, josta on aivan pakko puhua",
+      "lead": "Keskusta suututti työttömät sosiaaliturvamallilla, jonka tausta-ajatus on pohtimisen arvoinen. Kaikilta puolueilta tarvitaan siksi nyt linjaus tekoälyn uhasta, kirjoittaa politiikan toimittaja Otto Rantanen.",
+      "link": "https://www.is.fi/politiikka/art-2000012223512.html",
+      "published": "2026-08-23T13:12:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Erling Haalandin letti lähti – fanit eivät ole uskoa näkemäänsä: \"Tämän on oltava tekoäly\"",
+      "lead": "Muutos on silmiinpistävä.",
+      "link": "https://www.is.fi/jalkapallo/art-2000012224485.html",
+      "published": "2026-08-23T10:34:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tämän syövän tekoäly voisi löytää – yhtä hyvin kuin lääkäri",
+      "lead": "Tutkimusta tarvitaan kuitenkin vielä lisää.",
+      "link": "https://www.is.fi/terveys/art-2000012198283.html",
+      "published": "2026-08-23T10:30:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Australialais­mies pyysi tekoälyltä pientä palvelusta – loppu­tulos säikäytti",
+      "lead": "Tekoäly teki tepposet.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012202392.html",
+      "published": "2026-08-15T16:07:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Entinen FBI-agentti tunnusti tyrmistyttävän teon – varasti lähes miljoonan dollarin edestä todistusaineistoa",
+      "lead": "Nostojen jälkeen agentti oli tiettävästi kysynyt ChatGPT:ltä muun muassa sijoitusneuvoja.",
+      "link": "https://www.is.fi/digitoday/art-2000012184836.html",
+      "published": "2026-08-05T18:11:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    }
+  ]
+}
