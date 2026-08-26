@@ -1,0 +1,191 @@
+{
+  "date": "2026-08-26",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Helsingin yliopiston suosittu tekoälykurssi laajenee, tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä, mikä voi vaikuttaa työmarkkinoihin.",
+    "Venäjän tekoälyn ohjaama ase tappoi siviileitä, mikä nostaa esiin eettiset ja turvallisuuskysymykset tekoälyn käytössä aseistuksessa.",
+    "ChatGPT ottaa mainokset käyttöön Euroopassa, mikä korostaa tekoälyn kaupallistamisen vaikutuksia käyttäjäkokemukseen."
+  ],
+  "top_signals": [
+    {
+      "title": "NYT: Venäjä tappoi siviileitä täysin tekoälyn ohjaamalla aseella",
+      "lead": "Amerikkalaisperäinen komponentti on aseiden itsenäistymisen takana.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/39508735-a851-49ed-9866-293d0615500f?utm_source=rss",
+      "outlet": "Tekniikka&Talous",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "relevance": 3,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn käyttöön liittyvät eettiset ja turvallisuuskysymykset aseistuksessa."
+    },
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Kokoomus | Talous kasvaa – missä viipyvät työ­paikat, työ­ministeri Matias Marttinen?",
+      "lead": "Työministeri Matias Marttinen (kok) sanoo, että tekoälyn nopea kehitys pitää huomioida ensi hallituksen työvoima­politiikassa.",
+      "link": "https://www.hs.fi/politiikka/art-2000012230377.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Matias Marttinen",
+        "Kokoomus"
+      ],
+      "why_care": "Korostaa tekoälyn merkitystä työvoimapolitiikassa ja sen vaikutuksia tuleviin hallitusratkaisuihin."
+    },
+    {
+      "title": "Työttömyys | Talouden käänne ei näy työllisyydessä – Tekoäly voi vaikuttaa, uskoo ekonomisti",
+      "lead": "Ekonomisti Juhana Brotherus uskoo tekoälyn tuovan epävarmuutta yritysten rekrytointipäätöksiin.",
+      "link": "https://www.hs.fi/politiikka/art-2000012228153.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Juhana Brotherus"
+      ],
+      "why_care": "Tuo esiin tekoälyn mahdolliset vaikutukset työllisyyteen ja rekrytointipäätöksiin."
+    },
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+    },
+    {
+      "title": "Kysely lapsille | Käytätkö tekoälyä?",
+      "lead": "Tekoäly eli AI löytyy monesta laitteesta ja sovelluksesta. Käytätkö sinä tekoälyä johonkin?",
+      "link": "https://www.hs.fi/lastenuutiset/art-2000012228575.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Kysely nostaa esiin lasten ja nuorten suhteen tekoälyyn, mikä voi vaikuttaa tulevaisuuden keskusteluun ja asenteisiin teknologiaa kohtaan."
+    },
+    {
+      "title": "Tekoäly | Voisiko tekoälyllä korvata ministerin?",
+      "lead": "Tekoälykeskusteluun tarvitaan konkretiaa.",
+      "link": "https://www.hs.fi/mielipide/art-2000012226092.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Keskustelu tekoälyn mahdollisuuksista ja rajoista julkisessa hallinnossa on ajankohtaista ja herättää mielipiteitä."
+    },
+    {
+      "title": "Öljyn lasku ja Nvidia-odotukset nostivat Wall Streetiä",
+      "lead": "Tekoälysiruyhtiö Nvidia katkaisi seitsemän päivän laskuputkensa ennen huomista tulosjulkistusta.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/5e462817-9952-45a8-afab-144c5446e06c?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Nvidia"
+      ],
+      "why_care": "Nostaa esiin tekoälyn ja siihen liittyvien yritysten taloudelliset odotukset markkinoilla."
+    },
+    {
+      "title": "ChatGPT:n suuri muutos herättää huolta",
+      "lead": "Käyttäjien joukkopakoa ei silti liene odotettavissa.",
+      "link": "https://www.is.fi/digitoday/art-2000012225282.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Herättää keskustelua tekoälyn käytön ja käyttäjäkokemuksen haasteista."
+    },
+    {
+      "title": "ChatGPT ottaa mainokset käyttöön Euroopassa",
+      "lead": "Mainokset tulevat käyttöön 31:ssä Euroopan maassa.",
+      "link": "https://www.is.fi/digitoday/art-2000012225073.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn kaupallistamisen ja sen vaikutukset käyttäjäkokemukseen Euroopassa."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 514,
+    "signals": 10,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}

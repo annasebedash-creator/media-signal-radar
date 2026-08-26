@@ -1,0 +1,226 @@
+{
+  "date": "2026-08-26",
+  "fetched_at": "2026-08-26T06:58:10+03:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 15
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 99
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 514,
+    "items_matched": 12,
+    "signals": 12
+  },
+  "signals": [
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Kysely lapsille | Käytätkö tekoälyä?",
+      "lead": "Tekoäly eli AI löytyy monesta laitteesta ja sovelluksesta. Käytätkö sinä tekoälyä johonkin?",
+      "link": "https://www.hs.fi/lastenuutiset/art-2000012228575.html",
+      "published": "2026-08-26T03:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Kokoomus | Talous kasvaa – missä viipyvät työ­paikat, työ­ministeri Matias Marttinen?",
+      "lead": "Työministeri Matias Marttinen (kok) sanoo, että tekoälyn nopea kehitys pitää huomioida ensi hallituksen työvoima­politiikassa.",
+      "link": "https://www.hs.fi/politiikka/art-2000012230377.html",
+      "published": "2026-08-25T15:22:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Päivän Ranta | Tekoäly eli hirviörobotti",
+      "lead": "",
+      "link": "https://www.hs.fi/kulttuuri/art-2000012230167.html",
+      "published": "2026-08-25T14:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Voisiko tekoälyllä korvata ministerin?",
+      "lead": "Tekoälykeskusteluun tarvitaan konkretiaa.",
+      "link": "https://www.hs.fi/mielipide/art-2000012226092.html",
+      "published": "2026-08-25T13:45:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Työttömyys | Talouden käänne ei näy työllisyydessä – Tekoäly voi vaikuttaa, uskoo ekonomisti",
+      "lead": "Ekonomisti Juhana Brotherus uskoo tekoälyn tuovan epävarmuutta yritysten rekrytointipäätöksiin.",
+      "link": "https://www.hs.fi/politiikka/art-2000012228153.html",
+      "published": "2026-08-25T07:48:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Öljyn lasku ja Nvidia-odotukset nostivat Wall Streetiä",
+      "lead": "Tekoälysiruyhtiö Nvidia katkaisi seitsemän päivän laskuputkensa ennen huomista tulosjulkistusta.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/5e462817-9952-45a8-afab-144c5446e06c?utm_source=rss",
+      "published": "2026-08-25T20:19:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "NYT: Venäjä tappoi siviileitä täysin tekoälyn ohjaamalla aseella",
+      "lead": "Amerikkalaisperäinen komponentti on aseiden itsenäistymisen takana.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/39508735-a851-49ed-9866-293d0615500f?utm_source=rss",
+      "published": "2026-08-25T13:12:34Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "ChatGPT:n suuri muutos herättää huolta",
+      "lead": "Käyttäjien joukkopakoa ei silti liene odotettavissa.",
+      "link": "https://www.is.fi/digitoday/art-2000012225282.html",
+      "published": "2026-08-24T11:12:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "ChatGPT ottaa mainokset käyttöön Euroopassa",
+      "lead": "Mainokset tulevat käyttöön 31:ssä Euroopan maassa.",
+      "link": "https://www.is.fi/digitoday/art-2000012225073.html",
+      "published": "2026-08-24T00:44:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Australialais­mies pyysi tekoälyltä pientä palvelusta – loppu­tulos säikäytti",
+      "lead": "Tekoäly teki tepposet.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012202392.html",
+      "published": "2026-08-15T16:07:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    }
+  ]
+}
