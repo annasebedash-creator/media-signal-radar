@@ -1,0 +1,268 @@
+{
+  "date": "2026-08-27",
+  "fetched_at": "2026-08-27T17:03:26+03:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 14
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 98
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 512,
+    "items_matched": 15,
+    "signals": 15
+  },
+  "signals": [
+    {
+      "outlet": "Yle",
+      "feed": "Pääuutiset",
+      "title": "Maailman johtava tekoälytutkija kertoo, miksi ihmisten töiden katoaminen on aito riski",
+      "lead": "Tekoälytutkija Bernhard Schölkopf katsoo, että yhteiskuntien nykyiset järjestelmät ja tavat toimia pitäisi miettiä uudelleen tekoälyn aikakaudella.",
+      "link": "https://yle.fi/a/74-20243082?origin=rss",
+      "published": "2026-08-27T02:30:35Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Himalajan tulvat | Juho Haapala luuli katsovansa tekoälyvideoita: katastrofi järkytti alueen suomalaiset",
+      "lead": "Suomen Lähetysseura suuntaa 50 000 euroa tulvan uhrien hätäapuun. Järjestö teki pitkään työtä katastrofin runtelemalla alueella.",
+      "link": "https://www.hs.fi/maailma/art-2000012234907.html",
+      "published": "2026-08-27T13:39:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "HS-analyysi | Nvidian kasvuennuste pakottaa kysymään, onko tekoälyn kasvulle mitään rajaa",
+      "lead": "Nvidia karkotti tylsyyden veret seisauttavalla ennusteella kasvun jatkumisesta, kirjoittaa HS Vision toimittaja Tuomas Niskakangas.",
+      "link": "https://www.hs.fi/visio/art-2000012233850.html",
+      "published": "2026-08-27T12:45:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Henkilö | Oskar Kallio teki hittisovelluksen, koska hänellä oli ongelma",
+      "lead": "Jos jokin asia ärsyttää, siihen voi löytää ratkaisun. Siksi 28-vuotias tekoälyintoilija on rakentanut sovellukset veneilyyn, salitreeniin ja kielenopiskeluun.",
+      "link": "https://www.hs.fi/visio/art-2000012153739.html",
+      "published": "2026-08-27T10:13:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Suomalaismies perusti ohjelmistoyhtiön Piilaaksoon, arvo jo 2,5 miljardia dollaria",
+      "lead": "Suomalaisen Karri Saarisen Piilaaksoon perustama Linear on jo 2,5 miljardin dollarin arvoinen. Yhtiön perustajat ja työntekijät myivät osakkeita sijoittajille 99 miljoonalla dollarilla.",
+      "link": "https://www.hs.fi/visio/art-2000012231273.html",
+      "published": "2026-08-27T08:36:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Aivokasvain poistettiin tekoälyn avustuksella ensimmäistä kertaa maailmassa",
+      "lead": "Tekoäly värikoodasi kohteita, joita potilaan aivolisäkkeessä sijainneen kasvaimen läheisyydessä oli syytä varoa.",
+      "link": "https://www.hs.fi/maailma/art-2000012233568.html",
+      "published": "2026-08-27T06:55:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Teknologia | Nvidian liikevaihto yli tuplaantui vuoden takaisesta",
+      "lead": "Nvidian liikevaihto nousi ennätykselliseen 96,2 miljardiin dollariin toisella neljänneksellä.",
+      "link": "https://www.hs.fi/visio/art-2000012233312.html",
+      "published": "2026-08-26T21:21:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Mainos­kampanjat | Citymarketin kuvapalvelun puutteelliset rajoitukset johtivat mauttomien kuvien luomiseen",
+      "lead": "K-Citymarketin uudessa mainoskampanjassa voi luoda ihmisistä ”makuprofiileja” valokuvien ja tekoälyn avulla. Palvelun väärinkäyttö tuli yllätyksenä kampanjan suunnittelijoille.",
+      "link": "https://www.hs.fi/suomi/art-2000012231847.html",
+      "published": "2026-08-26T16:03:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Unohda perinteiset sijoitukset – Tässä on uusi miljardöörien suosikki",
+      "lead": "Moni miljardööri on nyt valmis maksamaan maltaita urheiluseuroista. Yksi ilmiötä selittävä asia kytkeytyy yllättävällä tavalla tekoälyyn.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/61a60495-40a4-40aa-a0e1-4a7b2c4232dc?utm_source=rss",
+      "published": "2026-08-27T13:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Microsoftin perustajan synkkä ennustus: Tekoäly uhkaa näitä töitä",
+      "lead": "Bill Gates varoittaa, että tekoälyn työllisyysvaikutukset voivat iskeä etenkin nuoriin.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/17ad5533-29a5-4ca3-8dd4-ec2078ceee1d?utm_source=rss",
+      "published": "2026-08-27T14:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "ChatGPT:n suuri muutos herättää huolta",
+      "lead": "Käyttäjien joukkopakoa ei silti liene odotettavissa.",
+      "link": "https://www.is.fi/digitoday/art-2000012225282.html",
+      "published": "2026-08-24T11:12:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "ChatGPT ottaa mainokset käyttöön Euroopassa",
+      "lead": "Mainokset tulevat käyttöön 31:ssä Euroopan maassa.",
+      "link": "https://www.is.fi/digitoday/art-2000012225073.html",
+      "published": "2026-08-24T00:44:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Australialais­mies pyysi tekoälyltä pientä palvelusta – loppu­tulos säikäytti",
+      "lead": "Tekoäly teki tepposet.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012202392.html",
+      "published": "2026-08-15T16:07:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    }
+  ]
+}
