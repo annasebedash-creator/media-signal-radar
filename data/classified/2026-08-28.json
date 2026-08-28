@@ -1,0 +1,277 @@
+{
+  "date": "2026-08-28",
+  "fetched_at": "2026-08-28T18:14:34+03:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 13
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 99
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 512,
+    "items_matched": 10,
+    "signals": 9
+  },
+  "signals": [
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "launch",
+        "tone": "positive",
+        "stakeholders": [
+          "Helsingin yliopisto"
+        ],
+        "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "research",
+        "tone": "neutral",
+        "stakeholders": [
+          "tutkijat",
+          "Helsingin Sanomat"
+        ],
+        "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+      }
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Nvidia on tekemässä jättikauppaa – Hinta 12,9 miljardia dollaria",
+      "lead": "Hugging Face on vuonna 2016 perustettu yhdysvaltalainen koneoppimisyhtiö.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/cb1bd18c-ad5a-4a12-9b7c-3856d93438df?utm_source=rss",
+      "published": "2026-08-28T14:00:00Z",
+      "keyword": "koneoppimi",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "launch",
+        "tone": "neutral",
+        "stakeholders": [
+          "Nvidia",
+          "Hugging Face"
+        ],
+        "why_care": "Kauppa voi vaikuttaa tekoälymarkkinoiden kilpailutilanteeseen ja innovaatioihin."
+      }
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "Tulevaisuuden datakeskus? Tässä 16 miljoonalla elävällä ihmissolulla toimiva biologinen datakeskusprototyyppi",
+      "lead": "Uusi datakeskusprototyyppi toimii 16 miljoonalla elävällä ihmishermosolulla.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/a8032c2f-c969-472a-a504-46c2c2ca9f8f?utm_source=rss",
+      "published": "2026-08-28T12:42:01Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": false,
+        "signal_type": "launch",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Esittelee innovatiivisen lähestymistavan datakeskusten kehittämiseen, mikä voi vaikuttaa tulevaisuuden tekoälyinfrastruktuuriin."
+      }
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "YIT:lle uuden datakeskusrakennuksen urakka Kouvolasta – Arvoa ei kerrota",
+      "lead": "Kyse on laajennuksesta YIT:n ja atNorthin yhteistyössä.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/d00b6245-30ce-472a-863e-8c7d08a67277?utm_source=rss",
+      "published": "2026-08-28T10:38:58Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "launch",
+        "tone": "neutral",
+        "stakeholders": [
+          "YIT",
+          "atNorth"
+        ],
+        "why_care": "Uuden datakeskuksen rakentaminen Kouvolaan korostaa datakeskusten kasvavaa merkitystä Suomessa."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Poliisilta uutta tietoa Lappeenrannan tekoälyllä tehdyistä alastonkuvista",
+      "lead": "Poliisin tiedossa ei ole, että tekoälyllä luotuja kuvia olisi levitetty tai myyty eteenpäin.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012237861.html",
+      "published": "2026-08-28T12:08:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [
+        {
+          "outlet": "Ilta-Sanomat",
+          "title": "Poliisilta uutta tietoa Lappeenrannan tekoälyllä tehdyistä alastonkuvista",
+          "link": "https://www.is.fi/digitoday/tietoturva/art-2000012237861.html"
+        }
+      ],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [
+          "Poliisi"
+        ],
+        "why_care": "Tuo esiin tekoälyn mahdolliset väärinkäytökset ja maineriskit, jotka liittyvät sen käyttöön alastonkuvien luomisessa."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "ChatGPT:n suuri muutos herättää huolta",
+      "lead": "Käyttäjien joukkopakoa ei silti liene odotettavissa.",
+      "link": "https://www.is.fi/digitoday/art-2000012225282.html",
+      "published": "2026-08-24T11:12:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Herättää keskustelua tekoälyn käytön ja käyttäjäkokemuksen riskeistä."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "ChatGPT ottaa mainokset käyttöön Euroopassa",
+      "lead": "Mainokset tulevat käyttöön 31:ssä Euroopan maassa.",
+      "link": "https://www.is.fi/digitoday/art-2000012225073.html",
+      "published": "2026-08-24T00:44:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Tuo esiin tekoälyn kaupallistamisen ja sen vaikutukset käyttäjäkokemukseen Euroopassa."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Australialais­mies pyysi tekoälyltä pientä palvelusta – loppu­tulos säikäytti",
+      "lead": "Tekoäly teki tepposet.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012202392.html",
+      "published": "2026-08-15T16:07:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 0,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Tuo esiin tekoälyn mahdolliset riskit ja ongelmat käyttäjille."
+      }
+    }
+  ],
+  "classified_at": "2026-08-28T18:14:48+03:00",
+  "model": "gpt-4o-mini"
+}
