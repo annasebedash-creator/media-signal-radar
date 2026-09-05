@@ -1,0 +1,232 @@
+{
+  "date": "2026-09-05",
+  "fetched_at": "2026-09-05T10:35:40+03:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 12
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 98
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 510,
+    "items_matched": 13,
+    "signals": 12
+  },
+  "signals": [
+    {
+      "outlet": "Yle",
+      "feed": "Pääuutiset",
+      "title": "Vihreää sähköä ei voi tuottaa loputtomiin, sanovat tutkijat: ”Älyllinen rehellisyys loistaa poissaolollaan”",
+      "lead": "Datakeskusten määrän kasvu vaarantaa vihreän siirtymän, arvioivat energiatuotannon kestävyyteen ja luonnonvarojen riittävyyteen perehtyneet tutkijat.",
+      "link": "https://yle.fi/a/74-20243954?origin=rss",
+      "published": "2026-09-05T02:30:35Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "duplicates": [
+        {
+          "outlet": "Yle",
+          "title": "Vihreää sähköä ei voi tuottaa loputtomiin, sanovat tutkijat: ”Älyllinen rehellisyys loistaa poissaolollaan”",
+          "link": "https://yle.fi/a/74-20243954?origin=rss"
+        }
+      ]
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Aalto-yliopisto | Muusikoiden pitäisi käyttää enemmän tekoälyä, väittävät espoolaiset tutkijat",
+      "lead": "Kysyimme tekoälymusiikin tutkijoilta, miksi he puolustavat tekoälymusiikkia.",
+      "link": "https://www.hs.fi/pkseutu/art-2000012190423.html",
+      "published": "2026-09-05T07:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Ihmisten internet on kuollut",
+      "lead": "Tekoäly on syrjäyttämässä ihmisen internetin sisällöntuotannossa.",
+      "link": "https://www.hs.fi/visio/art-2000012247294.html",
+      "published": "2026-09-04T23:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Teknologia | Uudesta tekoäly­mallista paljastuu, että se uhkaa karata kehittäjiensä käsistä",
+      "lead": "Open AI:n esittelemä Astra-tekoälymalli on kuvaava esimerkki siitä, että nyt kehityksen pullonkaula on turvallisuus.",
+      "link": "https://www.hs.fi/visio/art-2000012251703.html",
+      "published": "2026-09-04T11:59:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Turvallisuus | Suomessakin pitää herätä nyt tekoälyn riskeihin, sanoo ulkoministeri Elina Valtonen",
+      "lead": "Valtonen perustaa syksyksi työryhmän, joka selvittää tekoälyn ulko- ja turvallisuuspoliittisia vaikutuksia.",
+      "link": "https://www.hs.fi/politiikka/art-2000012236890.html",
+      "published": "2026-09-04T10:30:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Iltalehti",
+      "feed": "Digiuutiset",
+      "title": "Tekoäly­palvelut kaatuivat",
+      "lead": "",
+      "link": "https://www.iltalehti.fi/digiuutiset/a/95d4254c-455e-4965-917e-f61189f29611?utm_source=rss",
+      "published": "2026-09-03T15:24:37Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Iltalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Mitä ihmettä? Ulkoministeriö selvittää tekoälyn vaikutuksia ulko- ja turvallisuuspolitiikkaan",
+      "lead": "Suomen valtteja ovat esimerkiksi viileä ilmasto, puhdas energia ja kvanttiteknologia.",
+      "link": "https://www.is.fi/politiikka/art-2000012251629.html",
+      "published": "2026-09-04T15:23:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Poliisilta uutta tietoa Lappeenrannan tekoälyllä tehdyistä alastonkuvista",
+      "lead": "Poliisin tiedossa ei ole, että tekoälyllä luotuja kuvia olisi levitetty tai myyty eteenpäin.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012237861.html",
+      "published": "2026-08-28T12:08:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "ChatGPT:n suuri muutos herättää huolta",
+      "lead": "Käyttäjien joukkopakoa ei silti liene odotettavissa.",
+      "link": "https://www.is.fi/digitoday/art-2000012225282.html",
+      "published": "2026-08-24T11:12:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "ChatGPT ottaa mainokset käyttöön Euroopassa",
+      "lead": "Mainokset tulevat käyttöön 31:ssä Euroopan maassa.",
+      "link": "https://www.is.fi/digitoday/art-2000012225073.html",
+      "published": "2026-08-24T00:44:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    }
+  ]
+}

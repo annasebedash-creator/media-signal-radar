@@ -1,0 +1,230 @@
+{
+  "date": "2026-09-05",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Ulkoministeri Elina Valtonen korostaa tekoälyn turvallisuuskysymyksiä ja viranomaisten roolia niiden hallinnassa, mikä herättää keskustelua tekoälyn riskeistä Suomessa.",
+    "Helsingin yliopiston suosittu tekoälykurssi laajenee, tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä, mikä voi vaikuttaa työmarkkinoihin.",
+    "Poliisi tutkii Lappeenrannassa tekoälyllä tehtyjen alastonkuvien tapausta, mikä nostaa esiin tekoälyn mahdolliset väärinkäytökset ja maineriskit."
+  ],
+  "top_signals": [
+    {
+      "title": "Turvallisuus | Suomessakin pitää herätä nyt tekoälyn riskeihin, sanoo ulkoministeri Elina Valtonen",
+      "lead": "Valtonen perustaa syksyksi työryhmän, joka selvittää tekoälyn ulko- ja turvallisuuspoliittisia vaikutuksia.",
+      "link": "https://www.hs.fi/politiikka/art-2000012236890.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 3,
+      "finland_link": true,
+      "signal_type": "regulation",
+      "tone": "critical",
+      "stakeholders": [
+        "Elina Valtonen"
+      ],
+      "why_care": "Korostaa tekoälyn turvallisuuskysymyksiä ja viranomaisten roolia niiden hallinnassa."
+    },
+    {
+      "title": "Vihreää sähköä ei voi tuottaa loputtomiin, sanovat tutkijat: ”Älyllinen rehellisyys loistaa poissaolollaan”",
+      "lead": "Datakeskusten määrän kasvu vaarantaa vihreän siirtymän, arvioivat energiatuotannon kestävyyteen ja luonnonvarojen riittävyyteen perehtyneet tutkijat.",
+      "link": "https://yle.fi/a/74-20243954?origin=rss",
+      "outlet": "Yle",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "critical",
+      "stakeholders": [
+        "tutkijat"
+      ],
+      "why_care": "Korostaa datakeskusten kasvun vaikutuksia vihreään siirtymään ja luonnonvarojen kestävyyteen."
+    },
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    },
+    {
+      "title": "Mitä ihmettä? Ulkoministeriö selvittää tekoälyn vaikutuksia ulko- ja turvallisuuspolitiikkaan",
+      "lead": "Suomen valtteja ovat esimerkiksi viileä ilmasto, puhdas energia ja kvanttiteknologia.",
+      "link": "https://www.is.fi/politiikka/art-2000012251629.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "Ulkoministeriö"
+      ],
+      "why_care": "Tuo esiin tekoälyn roolin kansallisessa turvallisuudessa ja ulkopolitiikassa."
+    },
+    {
+      "title": "Poliisilta uutta tietoa Lappeenrannan tekoälyllä tehdyistä alastonkuvista",
+      "lead": "Poliisin tiedossa ei ole, että tekoälyllä luotuja kuvia olisi levitetty tai myyty eteenpäin.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012237861.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "Poliisi"
+      ],
+      "why_care": "Tuo esiin tekoälyn mahdolliset väärinkäytökset ja maineriskit, jotka liittyvät sen käyttöön."
+    },
+    {
+      "title": "Tekoäly | Ihmisten internet on kuollut",
+      "lead": "Tekoäly on syrjäyttämässä ihmisen internetin sisällöntuotannossa.",
+      "link": "https://www.hs.fi/visio/art-2000012247294.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Korostaa tekoälyn vaikutusta sisällöntuotantoon ja sen mahdollisia seurauksia ihmisten roolille verkossa."
+    },
+    {
+      "title": "Teknologia | Uudesta tekoäly­mallista paljastuu, että se uhkaa karata kehittäjiensä käsistä",
+      "lead": "Open AI:n esittelemä Astra-tekoälymalli on kuvaava esimerkki siitä, että nyt kehityksen pullonkaula on turvallisuus.",
+      "link": "https://www.hs.fi/visio/art-2000012251703.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "Open AI"
+      ],
+      "why_care": "Korostaa tekoälyn kehityksen turvallisuuskysymyksiä ja riskejä, jotka voivat vaikuttaa laajasti alan luottamukseen."
+    },
+    {
+      "title": "Tekoäly­palvelut kaatuivat",
+      "lead": "",
+      "link": "https://www.iltalehti.fi/digiuutiset/a/95d4254c-455e-4965-917e-f61189f29611?utm_source=rss",
+      "outlet": "Iltalehti",
+      "outlets": [
+        "Iltalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälypalveluiden luotettavuusongelmat ja niiden vaikutukset käyttäjiin."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Aalto-yliopisto | Muusikoiden pitäisi käyttää enemmän tekoälyä, väittävät espoolaiset tutkijat",
+      "lead": "Kysyimme tekoälymusiikin tutkijoilta, miksi he puolustavat tekoälymusiikkia.",
+      "link": "https://www.hs.fi/pkseutu/art-2000012190423.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Aalto-yliopisto",
+        "tutkijat"
+      ],
+      "why_care": "Korostaa tekoälyn mahdollisuuksia musiikkialalla ja herättää keskustelua sen käytöstä."
+    },
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "tutkijat",
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+    },
+    {
+      "title": "ChatGPT:n suuri muutos herättää huolta",
+      "lead": "Käyttäjien joukkopakoa ei silti liene odotettavissa.",
+      "link": "https://www.is.fi/digitoday/art-2000012225282.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Herättää keskustelua tekoälyn käytön ja käyttäjäkokemuksen haasteista."
+    },
+    {
+      "title": "ChatGPT ottaa mainokset käyttöön Euroopassa",
+      "lead": "Mainokset tulevat käyttöön 31:ssä Euroopan maassa.",
+      "link": "https://www.is.fi/digitoday/art-2000012225073.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tämä kehitys voi vaikuttaa tekoälypalveluiden liiketoimintamalleihin Euroopassa."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 510,
+    "signals": 12,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
