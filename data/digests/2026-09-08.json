@@ -1,0 +1,210 @@
+{
+  "date": "2026-09-08",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Poliisi tutkii Lappeenrannassa tekoälyn avulla tehtyjä alastonkuvia, mikä korostaa tekoälyn väärinkäytön riskejä ja maineriskejä.",
+    "Helsingin yliopiston suosittu tekoälykurssi laajenee, mikä edistää tekoälyn ymmärrystä ja osaamista Suomessa.",
+    "Tekoälypalveluiden kaatuminen nostaa esiin luotettavuusongelmia, jotka vaikuttavat käyttäjien kokemuksiin ja palveluiden hyväksyttävyyteen."
+  ],
+  "top_signals": [
+    {
+      "title": "S-Pankin päästrategi kertoo, mihin nyt sijoitetaan – Moni yhtiö ”myy jo vuotta 2029”",
+      "lead": "Monien teknologiayhtiöiden tilauskirjat ovat täynnä, sanoo S-Pankin päästrategi Tanja Wennonen-Kärnä. Investoinnit tekoälyyn jatkuvat vielä vuosia.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/a3f71def-11b3-4206-8596-d15e4fd4dfa7?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "S-Pankki",
+        "Tanja Wennonen-Kärnä"
+      ],
+      "why_care": "Viittaa tekoälyn pitkäaikaisiin investointeihin, mikä voi vaikuttaa markkinoiden kehitykseen Suomessa."
+    },
+    {
+      "title": "Poliisilta uutta tietoa Lappeenrannan tekoälyllä tehdyistä alastonkuvista",
+      "lead": "Poliisin tiedossa ei ole, että tekoälyllä luotuja kuvia olisi levitetty tai myyty eteenpäin.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012237861.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "Poliisi"
+      ],
+      "why_care": "Tuo esiin tekoälyn mahdolliset väärinkäytökset ja maineriskit, jotka liittyvät sen käyttöön."
+    },
+    {
+      "title": "Tekoäly­palvelut kaatuivat",
+      "lead": "",
+      "link": "https://www.iltalehti.fi/digiuutiset/a/95d4254c-455e-4965-917e-f61189f29611?utm_source=rss",
+      "outlet": "Iltalehti",
+      "outlets": [
+        "Iltalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälypalveluiden luotettavuusongelmat ja niiden vaikutukset käyttäjiin."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn ymmärrystä laajasti ja voi vaikuttaa tulevaisuuden osaamiseen Suomessa."
+    },
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "tutkijat",
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+    },
+    {
+      "title": "Ålandsbankenilta varoitus: tämä on lähivuosien suurin makroriski",
+      "lead": "Pankki varoittaa syyskuun markkinanäkemyksessään, ettei kehittyneiden maiden velkaongelma ratkea muulla kuin tekoälyn poikimalla tuottavuusloikalla.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/a4eee947-4133-4a23-b2e3-a372ba123c8a?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "Ålandsbanken"
+      ],
+      "why_care": "Korostaa tekoälyn roolia taloudellisissa haasteissa ja sen mahdollisia vaikutuksia markkinoihin."
+    },
+    {
+      "title": "Mediaanipalkka 6 410 €/kk, palkankorotuksen sai 83 % – RILin palkkakysely toi esiin myös tekoälyn valtavan nopean yleistymisen työpaikoilla",
+      "lead": "Palkankorotuksen keskiarvo oli kyselyn perusteella 366 euroa, kun asiaa kysyttiin RILin jäseniltä. He ovat pääosin korkeakoulutettuja ja teknisillä aloilla työskenteleviä.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/f534e97a-97e3-4fd9-8650-24e3ce060241?utm_source=rss",
+      "outlet": "Tekniikka&Talous",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "RIL"
+      ],
+      "why_care": "Tuo esiin tekoälyn yleistymisen vaikutukset työmarkkinoilla ja palkkakehityksessä."
+    },
+    {
+      "title": "Karanneet tekoälyagentit jäivät kiinni todella yllättävistä puuhista",
+      "lead": "",
+      "link": "https://www.iltalehti.fi/digiuutiset/a/2755fb9d-faa7-4dd9-b549-c15314d35919?utm_source=rss",
+      "outlet": "Iltalehti",
+      "outlets": [
+        "Iltalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn mahdolliset riskit ja ongelmat, jotka voivat vaikuttaa sen hyväksyttävyyteen ja käyttöön."
+    },
+    {
+      "title": "Tällainen on uusi GPT-6.0 Astra – huolet heräsivät",
+      "lead": "Kehitykseen liittyy myös pelkoja.",
+      "link": "https://www.is.fi/digitoday/art-2000012251707.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Herättää keskustelua tekoälyn mahdollisista riskeistä ja huolenaiheista."
+    },
+    {
+      "title": "ChatGPT:n suuri muutos herättää huolta",
+      "lead": "Käyttäjien joukkopakoa ei silti liene odotettavissa.",
+      "link": "https://www.is.fi/digitoday/art-2000012225282.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Herättää keskustelua tekoälyn käytön ja käyttäjäkokemuksen haasteista."
+    },
+    {
+      "title": "ChatGPT ottaa mainokset käyttöön Euroopassa",
+      "lead": "Mainokset tulevat käyttöön 31:ssä Euroopan maassa.",
+      "link": "https://www.is.fi/digitoday/art-2000012225073.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn kaupallistamisen ja sen vaikutukset käyttäjäkokemukseen Euroopassa."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 517,
+    "signals": 11,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
