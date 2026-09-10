@@ -1,0 +1,364 @@
+{
+  "date": "2026-09-10",
+  "fetched_at": "2026-09-10T11:02:42+03:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 16
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 98
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 514,
+    "items_matched": 13,
+    "signals": 13
+  },
+  "signals": [
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Elokuva | Elon Muskin entinen kumppani kertoo oudosta varmuudesta ennen Trumpin vaalivoittoa",
+      "lead": "Veteraaniohjaaja Alex Gibneyn lähes nelituntinen dokumentti kiinnittää huomiota Yhdysvaltojen tuleviin välivaaleihin ja Muskin johtamaan Dogeen, joka sai pääsyn liittovaltion järjestelmiin. Dokumentissa puhuvan tekoälyasiantuntijan mukaan muuta ei tarvita, jos tavoitteena on korruptoida vaalit.",
+      "link": "https://www.hs.fi/popkulttuuri/art-2000012262269.html",
+      "published": "2026-09-09T18:32:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [
+          "Alex Gibney",
+          "Elon Musk",
+          "Trump"
+        ],
+        "why_care": "Dokumentti nostaa esiin tekoälyn mahdolliset väärinkäytöt vaaliprosesseissa."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Tekoäly ratkaisi yhden vaikeimmista matematiikan pulmista",
+      "lead": "Tekoäly on tullut matematiikkaan voimakkaasti, suomalaistutkija sanoo.",
+      "link": "https://www.hs.fi/tiede/art-2000012261632.html",
+      "published": "2026-09-09T15:42:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "research",
+        "tone": "positive",
+        "stakeholders": [
+          "suomalaistutkija"
+        ],
+        "why_care": "Korostaa tekoälyn merkitystä ja saavutuksia tieteellisessä tutkimuksessa."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "launch",
+        "tone": "positive",
+        "stakeholders": [
+          "Helsingin yliopisto"
+        ],
+        "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "research",
+        "tone": "neutral",
+        "stakeholders": [
+          "tutkijat",
+          "Helsingin Sanomat"
+        ],
+        "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+      }
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Yksi maailman vaikeimmista ongelmista ratkesi ja kiista syttyi heti – Tapaus näyttää, kuinka kaikki muuttuu",
+      "lead": "OpenAI:n julkaisema matemaattinen läpimurto on paisunut riidaksi kunniasta. Tekoälyn vauhti kiihtyy, uusia varoituksia satelee ja yrityksillä alkaa uudenlainen kilpajuoksu, Janne Soisalon-Soininen kirjoittaa.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/bdb39868-c6a6-4f0e-a265-f36fbb470338?utm_source=rss",
+      "published": "2026-09-10T07:35:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": false,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Kuvaa tekoälyn kehityksen kiihtyvyyttä ja siihen liittyviä kilpailu- ja eettisiä kysymyksiä."
+      }
+    },
+    {
+      "outlet": "MTV Uutiset",
+      "feed": "Uusimmat",
+      "title": "Claude-yhtiöstä eroava tutkija pelkää ensi vuotta: Tekoäly voi kirjaimellisesti tuhota ihmiskunnan",
+      "lead": "\"Ensi vuoden lopulla tilanne voisi olla jo hallitsematon\", tekoälytutkija sanoo.",
+      "link": "https://www.mtvuutiset.fi/artikkeli/claude-yhtiosta-eroava-tutkija-pelkaa-ensi-vuotta-tekoaly-voi-kirjaimellisesti-tuhota-ihmiskunnan/9390374",
+      "published": "2026-09-09T17:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "MTV Uutiset"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [
+          "Claude-yhtiö",
+          "tekoälytutkija"
+        ],
+        "why_care": "Herättää huolta tekoälyn mahdollisista riskeistä ja sen vaikutuksista tulevaisuuteen."
+      }
+    },
+    {
+      "outlet": "Iltalehti",
+      "feed": "Digiuutiset",
+      "title": "Nytkö se tapahtui? Nvidian toimitus­johtaja: Ihmistä parempi tekoäly on täällä",
+      "lead": "",
+      "link": "https://www.iltalehti.fi/digiuutiset/a/4a3c8cf8-3a92-4cf4-8647-979542d4aa51?utm_source=rss",
+      "published": "2026-09-09T18:38:12Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Iltalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": false,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [
+          "Nvidia"
+        ],
+        "why_care": "Korostaa tekoälyn kehityksen merkitystä ja sen vaikutuksia tulevaisuuteen."
+      }
+    },
+    {
+      "outlet": "Iltalehti",
+      "feed": "Digiuutiset",
+      "title": "Karanneet tekoälyagentit jäivät kiinni todella yllättävistä puuhista",
+      "lead": "",
+      "link": "https://www.iltalehti.fi/digiuutiset/a/2755fb9d-faa7-4dd9-b549-c15314d35919?utm_source=rss",
+      "published": "2026-09-07T14:46:19Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Iltalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Tuo esiin tekoälyn mahdolliset riskit ja ongelmat, jotka voivat vaikuttaa sen hyväksyttävyyteen ja käyttöön."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "ChatGPT:stä huolestuttava löydös: ”Aivan uuden­lainen riski”",
+      "lead": "Tietoturvayhtiön mukaan pelkkä käyttäjien valvonta ei enää riitä.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012259961.html",
+      "published": "2026-09-08T14:30:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Korostaa tekoälyn tietoturvariskejä ja käyttäjien valvonnan riittämättömyyttä."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Tällainen on uusi GPT-6.0 Astra – huolet heräsivät",
+      "lead": "Kehitykseen liittyy myös pelkoja.",
+      "link": "https://www.is.fi/digitoday/art-2000012251707.html",
+      "published": "2026-09-05T12:25:00Z",
+      "keyword": "gpt-",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Herättää keskustelua tekoälyn mahdollisista riskeistä ja huolenaiheista."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Poliisilta uutta tietoa Lappeenrannan tekoälyllä tehdyistä alastonkuvista",
+      "lead": "Poliisin tiedossa ei ole, että tekoälyllä luotuja kuvia olisi levitetty tai myyty eteenpäin.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012237861.html",
+      "published": "2026-08-28T12:08:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [
+          "Poliisi"
+        ],
+        "why_care": "Tuo esiin tekoälyn mahdolliset väärinkäytökset ja maineriskit, jotka liittyvät sen käyttöön alastonkuvien luomisessa."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "ChatGPT:n suuri muutos herättää huolta",
+      "lead": "Käyttäjien joukkopakoa ei silti liene odotettavissa.",
+      "link": "https://www.is.fi/digitoday/art-2000012225282.html",
+      "published": "2026-08-24T11:12:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Herättää keskustelua tekoälyn käytön ja käyttäjäkokemuksen haasteista."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "ChatGPT ottaa mainokset käyttöön Euroopassa",
+      "lead": "Mainokset tulevat käyttöön 31:ssä Euroopan maassa.",
+      "link": "https://www.is.fi/digitoday/art-2000012225073.html",
+      "published": "2026-08-24T00:44:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Tämä kehitys voi vaikuttaa tekoälypalveluiden rahoitusmalleihin Euroopassa."
+      }
+    }
+  ],
+  "classified_at": "2026-09-10T11:02:59+03:00",
+  "model": "gpt-4o-mini"
+}
