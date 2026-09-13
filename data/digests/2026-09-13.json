@@ -1,0 +1,314 @@
+{
+  "date": "2026-09-13",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Googlen investointi datakeskuksiin tuo merkittäviä verotuloja Suomeen, mikä voi vaikuttaa maan talouteen positiivisesti.",
+    "Helsingin yliopiston suosittu tekoälykurssi laajenee, tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä.",
+    "Useat kriittiset mielipiteet korostavat tekoälyn kehityksen hallinnan ja sääntelyn tarpeellisuutta mahdollisten riskien vuoksi."
+  ],
+  "top_signals": [
+    {
+      "title": "Datakeskukset | Suomi ei saa olla AI-ajan alkutuottaja, joka antaa rikkauksien mennä muualle",
+      "lead": "Suljettujen tehtaiden maa arvostaa seiniä eikä palveluja. Nykyajassa se on puute.",
+      "link": "https://www.hs.fi/nakemys/art-2000012267874.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Korostaa Suomen roolia tekoälyn infrastruktuurissa ja varoittaa resurssien menettämisestä."
+    },
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    },
+    {
+      "title": "Nyt tuli arvio: Googlen projektista valumassa jättimäinen veropotti Suomeen",
+      "lead": "Analyytikko Ari Rajala arvioi, että Googlen megaluokan investointi voisi tuoda Suomelle jopa parin miljardin euron verot ja veroluontoiset maksut datakeskusten rakennusaikana.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/368bb480-2712-49f1-b5d4-1b4e66eb433e?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Google",
+        "Ari Rajala"
+      ],
+      "why_care": "Googlen investointi datakeskuksiin voi merkittävästi vaikuttaa Suomen talouteen ja verotuloihin."
+    },
+    {
+      "title": "Poliisilta uutta tietoa Lappeenrannan tekoälyllä tehdyistä alastonkuvista",
+      "lead": "Poliisin tiedossa ei ole, että tekoälyllä luotuja kuvia olisi levitetty tai myyty eteenpäin.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012237861.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "Poliisi"
+      ],
+      "why_care": "Tuo esiin tekoälyn mahdolliset väärinkäytökset ja maineriskit, jotka liittyvät sen käyttöön."
+    },
+    {
+      "title": "Tekoäly | Tekoälyn kehitystä on hidastettava, vaatii Anthropicin toimitus­johtaja",
+      "lead": "Myös tekoäly-yhtiö Open AI:n toimitusjohtaja on sanonut olevansa valmis hidastamaan yhtiön tehokkaimpien tekoälymallien kehitystä.",
+      "link": "https://www.hs.fi/visio/art-2000012270294.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "Anthropic",
+        "Open AI"
+      ],
+      "why_care": "Korostaa tekoälyn kehityksen hallinnan ja sääntelyn tarpeellisuutta."
+    },
+    {
+      "title": "Tekoälypomot vakavan asian äärellä: Nyt on hidastettava!",
+      "lead": "Tekoälyn kehitys on ollut nopeaa – liian nopeaa.",
+      "link": "https://www.mtvuutiset.fi/artikkeli/tekoalypomot-vakavan-asian-aarella-nyt-on-hidastettava/9391878",
+      "outlet": "MTV Uutiset",
+      "outlets": [
+        "MTV Uutiset"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Korostaa huolta tekoälyn kehityksen nopeudesta ja sen mahdollisista riskeistä."
+    },
+    {
+      "title": "Nytkö se tapahtui? Nvidian toimitus­johtaja: Ihmistä parempi tekoäly on täällä",
+      "lead": "",
+      "link": "https://www.iltalehti.fi/digiuutiset/a/4a3c8cf8-3a92-4cf4-8647-979542d4aa51?utm_source=rss",
+      "outlet": "Iltalehti",
+      "outlets": [
+        "Iltalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Nvidia"
+      ],
+      "why_care": "Korostaa tekoälyn kehityksen merkitystä ja sen vaikutuksia tulevaisuuteen."
+    },
+    {
+      "title": "Paljastus: Venäjä tehtailee tekoälyllä valevideoita sodasta – sotilaan mitta­suhteet hämmentävät",
+      "lead": "ISW selvitti, kuinka venäläislähteet käyttävät tekoälyllä muokattuja videoita todistamaan olemattomista aluevaltauksista.",
+      "link": "https://www.is.fi/ulkomaat/art-2000012268756.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Paljastaa tekoälyn käytön propagandassa ja sen mahdolliset vaikutukset tiedonvälitykseen ja julkiseen keskusteluun."
+    },
+    {
+      "title": "ChatGPT:stä huolestuttava löydös: ”Aivan uuden­lainen riski”",
+      "lead": "Tietoturvayhtiön mukaan pelkkä käyttäjien valvonta ei enää riitä.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012259961.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Korostaa tekoälyn tietoturvariskejä ja käyttäjien valvonnan riittämättömyyttä."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+    },
+    {
+      "title": "OpenAI:n tekoälyagentit kaappasivat hylätyn wikisivuston – Loivat yli 400 sivua joka päivä",
+      "lead": "Wikisivulla kommunikoineet agentit eivät kuitenkaan organisaation mukaan olleet samoja agentteja, jotka hyökkäsivät Hugging Faceen.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/c9183974-a17f-49b9-af66-9c41202f5810?utm_source=rss",
+      "outlet": "Tekniikka&Talous",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn mahdolliset riskit ja haasteet verkkoympäristössä."
+    },
+    {
+      "title": "Tekoälyagentit käskettiin ratkaisemaan tehtäviä – Yhtäkkiä oltiin tilanteessa, joka on tuttu ihmistenkin keskuudesta",
+      "lead": "",
+      "link": "https://www.iltalehti.fi/digiuutiset/a/7b0a307d-e8ba-4450-af37-12e5e4295b4e?utm_source=rss",
+      "outlet": "Iltalehti",
+      "outlets": [
+        "Iltalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Kuvastaa tekoälyagenttien kykyä ratkaista ongelmia, mikä voi vaikuttaa tuleviin sovelluksiin ja keskusteluihin tekoälyn roolista."
+    },
+    {
+      "title": "Apokalyptinen väite: Tekoälyä kehittävillä ihmisillä on todellinen pelko – ”Vielä tällä vuosi­kymmenellä”",
+      "lead": "",
+      "link": "https://www.iltalehti.fi/digiuutiset/a/3ae80d29-ef7f-4338-842d-1e4c8ad9363c?utm_source=rss",
+      "outlet": "Iltalehti",
+      "outlets": [
+        "Iltalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Herättää huolta tekoälyn kehityksen mahdollisista riskeistä ja vaikutuksista yhteiskuntaan."
+    },
+    {
+      "title": "Tekoälypomolta synkkä varoitus: ”Alle vuodessa”",
+      "lead": "Anthropic-pomo toivoo tekoälyn kehitykselle ”vuoden tai kahden lisäaikaa”.",
+      "link": "https://www.is.fi/digitoday/art-2000012270473.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "Anthropic"
+      ],
+      "why_care": "Herättää huolta tekoälyn kehityksen nopeudesta ja sen mahdollisista riskeistä."
+    },
+    {
+      "title": "Tässä syyt OpenAI:n hätä­­jarrutukseen: ”Riski yli 10 %”",
+      "lead": "Anthropicin johtava turvallisuustutkija myöntää riskit.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012264543.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "why_care": "Korostaa tekoälyn turvallisuuskysymyksiä ja riskejä, mikä voi vaikuttaa alan luottamukseen."
+    },
+    {
+      "title": "Bloomberg: OpenAI:n toimitusjohtaja valmis hidastamaan huippu­luokan tekoälyn kehitystä",
+      "lead": "Sam Altman toivoo, että myös muut tekoälyalan yritykset ovat valmiita samaan.",
+      "link": "https://www.is.fi/digitoday/art-2000012266700.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "OpenAI",
+        "Sam Altman"
+      ],
+      "why_care": "Herättää keskustelua tekoälyn kehityksen vastuullisuudesta ja alan yritysten roolista."
+    },
+    {
+      "title": "Tällainen on uusi GPT-6.0 Astra – huolet heräsivät",
+      "lead": "Kehitykseen liittyy myös pelkoja.",
+      "link": "https://www.is.fi/digitoday/art-2000012251707.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Herättää keskustelua tekoälyn mahdollisista riskeistä ja huolenaiheista."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 511,
+    "signals": 17,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
