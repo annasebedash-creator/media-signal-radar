@@ -1,0 +1,646 @@
+{
+  "date": "2026-09-18",
+  "fetched_at": "2026-09-18T11:09:09+03:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 15
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 98
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 98
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 511,
+    "items_matched": 27,
+    "signals": 24
+  },
+  "signals": [
+    {
+      "outlet": "Yle",
+      "feed": "Pääuutiset",
+      "title": "Testaa, erotatko enää todellisuutta ja tekoälyn tuotosta toisistaan",
+      "lead": "Tekoälyllä tehtyjä kuvia ja videoita on entistä vaikeampaa erottaa aidosta.",
+      "link": "https://yle.fi/a/74-20246859?origin=rss",
+      "published": "2026-09-18T05:07:08Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "duplicates": [
+        {
+          "outlet": "Yle",
+          "title": "Testaa, erotatko enää todellisuutta ja tekoälyn tuotosta toisistaan",
+          "link": "https://yle.fi/a/74-20246859?origin=rss"
+        }
+      ],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Keskustelu tekoälyn tuotosten erottamisesta todellisuudesta voi vaikuttaa yleiseen luottamukseen digitaalisiin sisältöihin."
+      }
+    },
+    {
+      "outlet": "Yle",
+      "feed": "Tuoreimmat",
+      "title": "Analyysi: Kokeilimme tekoälykuvien tunnistuspalveluja, ja ne olivat surkeita",
+      "lead": "Tekoälybotit ovat surkeita tekoälykuvien tunnistamisessa. Digijätit eivät edes yritä siivota tauhkaa, jolla ne itse täyttävät somesyötteemme.",
+      "link": "https://yle.fi/a/74-20244950?origin=rss",
+      "published": "2026-09-18T07:44:29Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Kritiikki tekoälykuvien tunnistuspalveluista voi vaikuttaa kuluttajien luottamukseen ja yritysten maineeseen."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "HS Humppilassa | Kunnan­johtaja antoi johtajien työt teko­älylle – Herätkää, hän sanoo muille",
+      "lead": "Humppilan kunnassa näkyy jo, miten tekoäly muuttaa Suomea ja työelämää. Kunnanjohtajan mielestä pitää uskaltaa sanoa ääneen, mitä oikeasti tulee tapahtumaan.",
+      "link": "https://www.hs.fi/politiikka/art-2000012198229.html",
+      "published": "2026-09-17T23:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "opinion",
+        "tone": "neutral",
+        "stakeholders": [
+          "Humppilan kunta",
+          "kunnanjohtaja"
+        ],
+        "why_care": "Korostaa tekoälyn vaikutusta kunnalliseen päätöksentekoon ja työelämään."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Keskustelu tekoälyn vaaroista kiihtyy, suuryhtiöt suunnittelevat yhteistä valvontaelintä",
+      "lead": "Tekoälyn aiheuttama vaara voi olla jopa ydinaseita suurempi, varoittaa senaattori Bernie Sanders.",
+      "link": "https://www.hs.fi/visio/art-2000012276639.html",
+      "published": "2026-09-17T17:04:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [
+          "Bernie Sanders"
+        ],
+        "why_care": "Korostaa tekoälyn mahdollisia riskejä ja herättää keskustelua sen sääntelystä."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoälykilpailun uusi vallanjako kiihtyy",
+      "lead": "Tekoälyn sääntelyssä ei ratkaista vain teknologian turvallisuutta vaan myös sitä, kenelle taloudellinen ja poliittinen valta keskittyy.",
+      "link": "https://www.hs.fi/paakirjoitukset/art-2000012274831.html",
+      "published": "2026-09-17T15:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 3,
+        "finland_link": false,
+        "signal_type": "regulation",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Korostaa tekoälyn sääntelyn merkitystä taloudellisen ja poliittisen vallan jakautumisessa."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "launch",
+        "tone": "positive",
+        "stakeholders": [
+          "Helsingin yliopisto"
+        ],
+        "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "research",
+        "tone": "neutral",
+        "stakeholders": [
+          "tutkijat",
+          "Helsingin Sanomat"
+        ],
+        "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+      }
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "”Vihaan tätä kehitystä”, sanoo Mikko Hyppönen – Saku Tuominen varoittaa ”kolmen tähden ihmisyydestä”",
+      "lead": "Anthropicista lähtenyt Jacob Coxon varoitti tekoälyn uhkaavan koko ihmiskuntaa. Kauppalehti kysyi kahdelta paljon tekoälyä paljon pohtineelta suomalaisajattelijalta, ovatko huolet todellisia.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/c6b31306-5e8f-4896-8a09-f800218ff9ab?utm_source=rss",
+      "published": "2026-09-18T06:05:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [
+          "Mikko Hyppönen",
+          "Saku Tuominen",
+          "Jacob Coxon"
+        ],
+        "why_care": "Keskustelu tekoälyn mahdollisista uhista nostaa esiin asiantuntijoiden huolia ja voi vaikuttaa julkiseen keskusteluun tekoälyn sääntelystä."
+      }
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "Näin tekoäly todellisuudessa vaikuttaa Suomen talouteen – Yksi riski uhkaa",
+      "lead": "Asiantuntijan mukaan työvoiman korvautuminen tekoälyllä voi heikentää osaa saavutettavista hyödyistä.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/31db0005-fda1-4982-a11a-ad5c97330d64?utm_source=rss",
+      "published": "2026-09-18T07:18:15Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [
+          "asiantuntija"
+        ],
+        "why_care": "Korostaa tekoälyn mahdollisia taloudellisia riskejä ja työmarkkinoiden muutoksia Suomessa."
+      }
+    },
+    {
+      "outlet": "Iltalehti",
+      "feed": "Digiuutiset",
+      "title": "Tekoäly saapui Whatsappiin – Varoitti heti: ”Älä kirjoita sitä mulle”",
+      "lead": "",
+      "link": "https://www.iltalehti.fi/digiuutiset/a/a5138fcb-b805-4e67-9025-40f2e8cbecc8?utm_source=rss",
+      "published": "2026-09-16T16:11:46Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Iltalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Tuo esiin tekoälyn yleistymisen viestintäpalveluissa ja sen mahdolliset käyttäjähaasteet."
+      }
+    },
+    {
+      "outlet": "Iltalehti",
+      "feed": "Digiuutiset",
+      "title": "Hurja varoitus tekoälyjätin johtajalta: Koko internet vaarassa",
+      "lead": "",
+      "link": "https://www.iltalehti.fi/digiuutiset/a/b2086e7f-b083-495e-a67c-a090c5c6a2f6?utm_source=rss",
+      "published": "2026-09-13T22:00:26Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Iltalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Korostaa tekoälyn mahdollisia riskejä ja uhkia internetin turvallisuudelle."
+      }
+    },
+    {
+      "outlet": "Iltalehti",
+      "feed": "Digiuutiset",
+      "title": "Tekoälyagentit käskettiin ratkaisemaan tehtäviä – Yhtäkkiä oltiin tilanteessa, joka on tuttu ihmistenkin keskuudesta",
+      "lead": "",
+      "link": "https://www.iltalehti.fi/digiuutiset/a/7b0a307d-e8ba-4450-af37-12e5e4295b4e?utm_source=rss",
+      "published": "2026-09-12T18:34:54Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Iltalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Keskustelu tekoälyagenttien kyvykkyydestä ja niiden inhimillisistä vertauskuvista voi vaikuttaa yleiseen käsitykseen tekoälyn roolista yhteiskunnassa."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "HS: Humppila korvasi johtajia tekoälyllä – 150 000 euron säästöt",
+      "lead": "Tekoäly hoitaa Humppilassa päätösesitykset, sopimusluonnokset ja kilpailutukset – kunnanjohtajan mukaan suomalaisten pitää herätä työpaikkojen katoamiseen.",
+      "link": "https://www.is.fi/taloussanomat/art-2000012282120.html",
+      "published": "2026-09-18T06:02:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [
+          "Humppila"
+        ],
+        "why_care": "Kunnallisten päätöksentekoprosessien automatisointi tekoälyn avulla voi muuttaa työmarkkinoita ja herättää keskustelua työpaikkojen tulevaisuudesta."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoälypomot löivät jarrut pohjaan – sitten repesi riita",
+      "lead": "Tekoälyn kiihtyneeseen kehitykseen liittyvät huolet jakavat yhtiöitä.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012279648.html",
+      "published": "2026-09-18T05:39:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [
+        {
+          "outlet": "Ilta-Sanomat",
+          "title": "Tekoälypomot löivät jarrut pohjaan – sitten repesi riita",
+          "link": "https://www.is.fi/digitoday/tietoturva/art-2000012279648.html"
+        }
+      ],
+      "classification": {
+        "relevance": 2,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Kuvaa tekoälyn kehityksen aiheuttamia erimielisyyksiä ja huolia yritysten keskuudessa."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Sofia Virta raivostui Googlelle",
+      "lead": "Vihreiden puheenjohtaja vaatii Googlen datakeskustyömaan hakkuiden selvittämistä välittömästi.",
+      "link": "https://www.is.fi/politiikka/art-2000012281825.html",
+      "published": "2026-09-17T18:25:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "regulation",
+        "tone": "critical",
+        "stakeholders": [
+          "Sofia Virta",
+          "Google",
+          "Vihreät"
+        ],
+        "why_care": "Korostaa datakeskusten ympäristövaikutusten ja sääntelyn tärkeyttä Suomessa."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Keskustelu tekoälyn vaaroista kiihtyy – Bernie Sanders laittoi pöytään tiukan laki­ehdotuksen",
+      "lead": "Tekoälyn turvallisuus on synnyttänyt laajempaa keskustelua viime päivinä Yhdysvalloissa.",
+      "link": "https://www.is.fi/digitoday/art-2000012276664.html",
+      "published": "2026-09-17T17:07:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [
+        {
+          "outlet": "Ilta-Sanomat",
+          "title": "Keskustelu tekoälyn vaaroista kiihtyy – Bernie Sanders laittoi pöytään tiukan laki­ehdotuksen",
+          "link": "https://www.is.fi/digitoday/art-2000012276664.html"
+        }
+      ],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "regulation",
+        "tone": "neutral",
+        "stakeholders": [
+          "Bernie Sanders"
+        ],
+        "why_care": "Keskustelu tekoälyn sääntelystä Yhdysvalloissa voi vaikuttaa myös Suomen lainsäädäntöön ja keskusteluun tekoälyn riskeistä."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Sähkö on EU:n kalleinta datakeskusten täyttämässä Irlannissa – Saara maksaa sähköstä 320 e/kk",
+      "lead": "Asiantuntijat arvioivat onko Suomi nyt etenemässä Irlannin viitoittamaa tietä.",
+      "link": "https://www.is.fi/taloussanomat/art-2000012279596.html",
+      "published": "2026-09-17T15:40:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [
+          "Suomi",
+          "Irlanti",
+          "Saara"
+        ],
+        "why_care": "Keskustelu datakeskusten sähkökustannuksista voi vaikuttaa Suomen investointipäätöksiin tekoälyinfrastruktuurissa."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Abi keksi, miten ChatGPT:n saa kirjoittamaan yo-koe­vastaukset – ”Olin yllättynyt”",
+      "lead": "Abiturientti Faru Yusupov kertoo videolla, mikä sai hänet kokeilemaan menetelmää ja miten hän reagoi huomattuaan sen toimivan.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012279929.html",
+      "published": "2026-09-17T11:23:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [
+          "Faru Yusupov"
+        ],
+        "why_care": "Kuvastaa tekoälyn yleistymistä opiskelijoiden arjessa ja sen vaikutusta oppimiseen."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "WhatsAppiin tuli uusi nappi – eikä sitä voi poistaa",
+      "lead": "Meta toi tekoälyn WhatsAppiin. Sitä ei voi poistaa.",
+      "link": "https://www.is.fi/digitoday/mobiili/art-2000012277034.html",
+      "published": "2026-09-16T07:57:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": false,
+        "signal_type": "launch",
+        "tone": "neutral",
+        "stakeholders": [
+          "Meta"
+        ],
+        "why_care": "Tuo esiin tekoälyn integroinnin kuluttajapalveluihin ja sen vaikutukset käyttäjäkokemukseen."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Tekoälypomolta synkkä varoitus: ”Alle vuodessa”",
+      "lead": "Anthropic-pomo toivoo tekoälyn kehitykselle ”vuoden tai kahden lisäaikaa”.",
+      "link": "https://www.is.fi/digitoday/art-2000012270473.html",
+      "published": "2026-09-12T17:52:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [
+          "Anthropic"
+        ],
+        "why_care": "Herättää huolta tekoälyn kehityksen nopeudesta ja sen mahdollisista riskeistä."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Tässä syyt OpenAI:n hätä­­jarrutukseen: ”Riski yli 10 %”",
+      "lead": "Anthropicin johtava turvallisuustutkija myöntää riskit.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012264543.html",
+      "published": "2026-09-11T07:07:00Z",
+      "keyword": "openai",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [
+          "OpenAI",
+          "Anthropic"
+        ],
+        "why_care": "Korostaa tekoälyn turvallisuuskysymyksiä ja riskejä, mikä voi vaikuttaa alan luottamukseen."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Bloomberg: OpenAI:n toimitusjohtaja valmis hidastamaan huippu­luokan tekoälyn kehitystä",
+      "lead": "Sam Altman toivoo, että myös muut tekoälyalan yritykset ovat valmiita samaan.",
+      "link": "https://www.is.fi/digitoday/art-2000012266700.html",
+      "published": "2026-09-11T03:40:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "neutral",
+        "stakeholders": [
+          "OpenAI",
+          "Sam Altman"
+        ],
+        "why_care": "Herättää keskustelua tekoälyn kehityksen vastuullisuudesta ja alan yritysten roolista."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "ChatGPT:stä huolestuttava löydös: ”Aivan uuden­lainen riski”",
+      "lead": "Tietoturvayhtiön mukaan pelkkä käyttäjien valvonta ei enää riitä.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012259961.html",
+      "published": "2026-09-08T14:30:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Korostaa tekoälyn tietoturvariskejä ja käyttäjien valvonnan riittämättömyyttä."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Tällainen on uusi GPT-6.0 Astra – huolet heräsivät",
+      "lead": "Kehitykseen liittyy myös pelkoja.",
+      "link": "https://www.is.fi/digitoday/art-2000012251707.html",
+      "published": "2026-09-05T12:25:00Z",
+      "keyword": "gpt-",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Herättää keskustelua tekoälyn mahdollisista riskeistä ja huolenaiheista."
+      }
+    }
+  ],
+  "classified_at": "2026-09-18T11:09:36+03:00",
+  "model": "gpt-4o-mini"
+}
