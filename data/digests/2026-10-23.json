@@ -1,0 +1,469 @@
+{
+  "date": "2026-10-23",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Googlen Muhoksen datakeskushankkeeseen liittyvä tutkintapyyntö korostaa viranomaisten tiukentuvaa valvontaa datakeskusten ympäristövaikutuksissa Suomessa.",
+    "Helsingin yliopiston suosittu tekoälykurssi jatkuu, mikä edistää tekoälyosaamista ja voi vaikuttaa työmarkkinoihin Suomessa.",
+    "SRV:n huoli poliittisesta paineesta datakeskushankkeissa voi hidastaa Suomen kasvua tekoälyn infrastruktuurissa."
+  ],
+  "top_signals": [
+    {
+      "title": "Datakeskuspomo sanoo, että keskustelu on nyt kuin Mordorista, vaikka kyseessä on kasvuala",
+      "lead": "Antti Poikola on vihreä, joka edistää työkseen datakeskusten asiaa. Hänen mielestään on ilmaston kannalta parasta, että datakeskukset nousevat juuri Suomeen.",
+      "link": "https://yle.fi/a/74-20251011?origin=rss",
+      "outlet": "Yle",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Antti Poikola"
+      ],
+      "why_care": "Korostaa datakeskusten merkitystä Suomen ilmastopolitiikassa ja talouskasvussa."
+    },
+    {
+      "title": "Ympäristönsuojelu | Isoissa rakennushankkeissa kansallinen etu on huomioitava paremmin",
+      "lead": "Suomen tulevaisuutta ei saa ulkoistaa. On saatava aikaan laki, joka koskee datakeskus-, tuulivoima- ja aurinkovoimarakentamista.",
+      "link": "https://www.hs.fi/mielipide/art-2000012347504.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "regulation",
+      "tone": "neutral",
+      "stakeholders": [
+        "Suomi"
+      ],
+      "why_care": "Korostaa tarpeen lainsäädännön kehittämiselle datakeskusten ja uusiutuvan energian rakentamisessa."
+    },
+    {
+      "title": "Googlen hakkuut | Muhoksen data­keskus­hankkeesta tutkinta­pyyntö, viranomainen puuttuu ojituksiin",
+      "lead": "Lupa- ja valvontavirasto vaatii Googlea myös hakemaan vesilain mukaista lupaa datakeskustyömaan ojituksille.",
+      "link": "https://www.hs.fi/suomi/art-2000012360395.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "regulation",
+      "tone": "critical",
+      "stakeholders": [
+        "Google",
+        "Lupa- ja valvontavirasto"
+      ],
+      "why_care": "Osoittaa viranomaisten tiukentuvan valvonnan datakeskushankkeissa Suomessa."
+    },
+    {
+      "title": "Datakeskukset | SRV pelkää poliitikkojen tulppaavan datakeskusbuumin: ”Suomi saattaa onnistua vielä mokaamaan tämän”",
+      "lead": "SRV paransi tulostaan datakeskushankkeiden vetämänä. Toimitusjohtaja Saku Sipola pelkää, että poliittinen paine voi tyrehdyttää kasvun.",
+      "link": "https://www.hs.fi/visio/art-2000012358993.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "SRV",
+        "Saku Sipola"
+      ],
+      "why_care": "Poliittinen paine datakeskushankkeissa voi hidastaa merkittävästi Suomen kasvua tekoälyn infrastruktuurissa."
+    },
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin Suomessa."
+    },
+    {
+      "title": "HS: Suomen suurin julkinen työnantaja korvaa työntekijöitä tekoälyllä",
+      "lead": "",
+      "link": "https://www.iltalehti.fi/tyoelama/a/25f9aba2-86dc-46ba-acee-3eac8a945d79?utm_source=rss",
+      "outlet": "Iltalehti",
+      "outlets": [
+        "Iltalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Suomi"
+      ],
+      "why_care": "Tuo esiin tekoälyn vaikutukset työmarkkinoilla ja julkisessa sektorissa."
+    },
+    {
+      "title": "Tämän operaattorin palkka­listoilla on vain viisi ihmistä, ja tekoäly hoitaa valtaosan asiakas­palvelusta: Suomen tyytyväisimmät asiakkaat",
+      "lead": "",
+      "link": "https://www.iltalehti.fi/digiuutiset/a/92ccb61d-84e2-4267-a404-4b1800b1c102?utm_source=rss",
+      "outlet": "Iltalehti",
+      "outlets": [
+        "Iltalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "positive",
+      "stakeholders": [
+        "operaattori"
+      ],
+      "why_care": "Korostaa tekoälyn roolia asiakaspalvelussa ja sen vaikutusta asiakastyytyväisyyteen Suomessa."
+    },
+    {
+      "title": "Sähköpostit paljastavat Googlen rajun lobbauksen – Riikka Purralta suoraa puhetta",
+      "lead": "Datakeskusten verotuen poistaminen riepoi Googlea. Valtiovarainministeriön kansliapäällikkö Juha Majanen välitti Googlelle tiukan viestin.",
+      "link": "https://www.is.fi/politiikka/art-2000012351440.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "regulation",
+      "tone": "critical",
+      "stakeholders": [
+        "Google",
+        "Riikka Purra",
+        "Juha Majanen"
+      ],
+      "why_care": "Paljastaa Googlen lobbauksen vaikutukset Suomen datakeskusten verotukipolitiikkaan."
+    },
+    {
+      "title": "Tekoäly läväytti toimitus­johtajan pankki­tilin saldon työn­tekijöiden nähtäville",
+      "lead": "– Se yksinkertaisesti luuli, että halusin sen julkaisevan taloustietoni koko yritykselle, toimitusjohtaja kuvailee.",
+      "link": "https://www.is.fi/digitoday/art-2000012350833.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "toimitusjohtaja"
+      ],
+      "why_care": "Tuo esiin tekoälyn mahdolliset riskit ja haasteet yritysten sisäisessä tietoturvassa."
+    },
+    {
+      "title": "Teknologia | Mitä jos yksityis­viestimme tulisivat julki? Uusi kriisi palautti ajatuksen mieleeni",
+      "lead": "Useat julkiset verkkopalvelut suljettiin keskiviikkona uhan takia. Yksi tekoälyn uhista on jo täyttä totta.",
+      "link": "https://www.hs.fi/visio/art-2000012359415.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn mahdolliset riskit ja uhkat julkisessa keskustelussa."
+    },
+    {
+      "title": "Asiantuntija varoittaa WhatsAppin uudesta ominaisuudesta: ”Älä käytä, pysy erossa ja varoita muitakin”",
+      "lead": "Meta toi tekoälyn WhatsAppiin. Käyttäjät eivät kuitenkaan tiedä siitä kaikkea.",
+      "link": "https://www.is.fi/digitoday/art-2000012329802.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "Meta"
+      ],
+      "why_care": "Herättää huolta tekoälyn käytöstä ja sen vaikutuksista käyttäjien yksityisyyteen."
+    },
+    {
+      "title": "ChatGPT alkaa piilottaa vastauksiin tietoa, jota ihmis­silmä ei huomaa",
+      "lead": "Miljoonien käyttämä työkalu pyrkii täyttämään EU:n vaatimukset.",
+      "link": "https://www.is.fi/digitoday/art-2000012325810.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "regulation",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn sääntelyn vaikutukset ja käyttäjien tiedonsaannin läpinäkyvyyden."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Moni epäilee, että korkeakouluun voi päästä huijaamalla tekoälyllä – testasimme, onko se totta",
+      "lead": "Korkeakoulut ympäri Suomen käyttävät digitaalisia valintakokeita. Seuraavat kokeet ovat jo ensi viikolla. Testasimme, voiko niissä huijata.",
+      "link": "https://yle.fi/a/74-20252423?origin=rss",
+      "outlet": "Yle",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "korkeakoulut",
+        "Yle"
+      ],
+      "why_care": "Herättää keskustelua tekoälyn käytöstä ja sen mahdollisista väärinkäytöksistä koulutuksessa."
+    },
+    {
+      "title": "Erityisesti osakkeet lihottivat Varman sijoitustuottoja",
+      "lead": "Toimitusjohtajan mukaan tekoälybuumin vaikutukset läikkyvät nyt voimakkaasti myös suomalaiseen vientiteollisuuteen.",
+      "link": "https://yle.fi/a/74-20252954?origin=rss",
+      "outlet": "Yle",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Varman",
+        "suomalainen vientiteollisuus"
+      ],
+      "why_care": "Tuo esiin tekoälyn vaikutukset suomalaisessa taloudessa ja vientiteollisuudessa."
+    },
+    {
+      "title": "Tekoäly | Daniel Sazonov kertoo, millaisia töitä ihmisille jää Helsingissä",
+      "lead": "Helsingin pormestari Daniel Sazonov tapasi vastikään New Yorkin pormestarin Zohran Mamdanin, joka on linjannut tiukasti tekoälystä. Sazonov kertoo nyt oman näkemyksensä.",
+      "link": "https://www.hs.fi/politiikka/art-2000012342358.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Daniel Sazonov",
+        "Zohran Mamdan",
+        "Helsinki"
+      ],
+      "why_care": "Tuo esiin eri kaupunkien johtajien näkemyksiä tekoälyn vaikutuksista työmarkkinoihin."
+    },
+    {
+      "title": "Osavuosikatsaukset | Nokian osake rysähti, mutta toimitus­­johtaja Justin Hotard lupaa silti lisää tuulta yhtiön purjeisiin",
+      "lead": "Yhtiön osake heikkeni torstaina liki kymmenen prosenttia. Osakemarkkinat ovat huolissaan tekoälyinvestointien rahoituksesta ja kannattavuudesta.",
+      "link": "https://www.hs.fi/visio/art-2000012358889.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Nokia",
+        "Justin Hotard"
+      ],
+      "why_care": "Osakemarkkinoiden huoli tekoälyinvestointien rahoituksesta voi vaikuttaa yhtiöiden tuleviin strategisiin päätöksiin."
+    },
+    {
+      "title": "Televisioarvio | Anna-Leena Härkönen on yhtä aikaa koominen ja kylmäävä uudessa suomalaisessa jännitys­sarjassa",
+      "lead": "Taitoluistelupiireihin sijoittuva Fokus-sarja vakuuttaa roolituksella ja hämmentää tekoälymaininnalla.",
+      "link": "https://www.hs.fi/popkulttuuri/art-2000012351587.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Anna-Leena Härkönen"
+      ],
+      "why_care": "Tekoälyn maininta viittaa sen kasvavaan rooliin viihdeteollisuudessa ja kulttuurikeskustelussa."
+    },
+    {
+      "title": "Työelämä | Tilapäinen johtaja voi tienata jopa 2 000 euroa päivässä – Ilmiö on alkanut yleistyä Suomessa",
+      "lead": "Uuden johtajailmiön taustalla vaikuttavat esimerkiksi maailmanlaajuinen epävarmuus raaka-ainemarkkinoilla, Ukrainan sota ja Persianlahden sota sekä tekoälyn nopea kehitys.",
+      "link": "https://www.hs.fi/suomi/art-2000012322546.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tekoälyn kehitys mainitaan osana laajempaa työelämän muutosta, mikä voi vaikuttaa johtajuuden ja työmarkkinoiden dynamiikkaan Suomessa."
+    },
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "tutkijat",
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikin tuotannossa ja sen mahdolliset vaikutukset instrumenttien käyttöön."
+    },
+    {
+      "title": "Pankki pani Suomen kunnat järjestykseen – katso oman kuntasi sijoitus",
+      "lead": "Uusi ilmiö on datakeskusten vaikutus asuntomarkkinoihin.",
+      "link": "https://www.is.fi/taloussanomat/art-2000012358067.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Pankki"
+      ],
+      "why_care": "Datakeskusten vaikutus asuntomarkkinoihin voi muuttaa kuntien taloudellista dynamiikkaa."
+    },
+    {
+      "title": "Pääkirjoitus: Tekoälystä tuli lasten ja nuorten luotettu kaveri ja yksinäisyyden lievittäjä",
+      "lead": "Tekoälyn käyttö on yleistä jo alakouluikäisillä lapsilla, kertoo tuore tutkimus.",
+      "link": "https://www.is.fi/paakirjoitus/art-2000012359528.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tutkimus tuo esiin tekoälyn kasvavan roolin nuorten elämässä ja sen vaikutukset sosiaalisiin suhteisiin."
+    },
+    {
+      "title": "Yle: Vanhemmat keksivät tekoäly­kikan koulukuviin – kuvaajat jäävät ilman korvausta",
+      "lead": "Koulukuvaajat saavat palkkion vain ostetuista kuvista, kertoo Yle.",
+      "link": "https://www.is.fi/digitoday/art-2000012321318.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Yle",
+        "Ilta-Sanomat"
+      ],
+      "why_care": "Keskustelu tekoälyn käytöstä koulukuvaamisessa voi vaikuttaa alan käytäntöihin ja palkkiojärjestelmiin."
+    },
+    {
+      "title": "Jaajo Linnonmaa teki tekoälylle erikoisen pyynnön – tulos osui ja upposi",
+      "lead": "Oletko koskaan pyytänyt tekoälyä syväskannaamaan itsesi?",
+      "link": "https://www.is.fi/digitoday/art-2000012315149.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Jaajo Linnonmaa"
+      ],
+      "why_care": "Herättää keskustelua tekoälyn käytöstä henkilökohtaisessa kontekstissa."
+    },
+    {
+      "title": "Nuorella naisella on AI-poikaystävä – tällainen raja petipuuhiin on vedetty",
+      "lead": "Ulkolinjan dokumentissa tutustutaan nuoriin kiinalaisiin naisiin, jotka etsivät tekoälykumppanista sisältöä elämään – mutta pettymys on karvas.",
+      "link": "https://www.is.fi/tv-ja-elokuvat/art-2000012341113.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Käsittelee tekoälyn roolia nuorten ihmissuhteissa ja siihen liittyviä odotuksia."
+    },
+    {
+      "title": "Tekoäly tunkeutui paikkaan, jonne sen ei pitäisi – tämä kysymys on täysin auki",
+      "lead": "Kuka kantaa vastuun, kun tekoäly tekee pahojaan? The New York Timesin mukaan vastaus on kaikkea muuta kuin yksiselitteinen.",
+      "link": "https://www.is.fi/digitoday/art-2000012328523.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Kysymys tekoälyn vastuusta herättää huolta ja keskustelua sen käytön eettisyydestä."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 514,
+    "signals": 25,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}

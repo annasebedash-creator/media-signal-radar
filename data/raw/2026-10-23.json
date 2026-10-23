@@ -1,0 +1,414 @@
+{
+  "date": "2026-10-23",
+  "fetched_at": "2026-10-23T11:25:58+03:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 14
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 514,
+    "items_matched": 26,
+    "signals": 25
+  },
+  "signals": [
+    {
+      "outlet": "Yle",
+      "feed": "Pääuutiset",
+      "title": "Datakeskuspomo sanoo, että keskustelu on nyt kuin Mordorista, vaikka kyseessä on kasvuala",
+      "lead": "Antti Poikola on vihreä, joka edistää työkseen datakeskusten asiaa. Hänen mielestään on ilmaston kannalta parasta, että datakeskukset nousevat juuri Suomeen.",
+      "link": "https://yle.fi/a/74-20251011?origin=rss",
+      "published": "2026-10-23T06:32:45Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "duplicates": [
+        {
+          "outlet": "Yle",
+          "title": "Datakeskuspomo sanoo, että keskustelu on nyt kuin Mordorista, vaikka kyseessä on kasvuala",
+          "link": "https://yle.fi/a/74-20251011?origin=rss"
+        }
+      ]
+    },
+    {
+      "outlet": "Yle",
+      "feed": "Pääuutiset",
+      "title": "Moni epäilee, että korkeakouluun voi päästä huijaamalla tekoälyllä – testasimme, onko se totta",
+      "lead": "Korkeakoulut ympäri Suomen käyttävät digitaalisia valintakokeita. Seuraavat kokeet ovat jo ensi viikolla. Testasimme, voiko niissä huijata.",
+      "link": "https://yle.fi/a/74-20252423?origin=rss",
+      "published": "2026-10-23T02:30:35Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Yle",
+      "feed": "Tuoreimmat",
+      "title": "Erityisesti osakkeet lihottivat Varman sijoitustuottoja",
+      "lead": "Toimitusjohtajan mukaan tekoälybuumin vaikutukset läikkyvät nyt voimakkaasti myös suomalaiseen vientiteollisuuteen.",
+      "link": "https://yle.fi/a/74-20252954?origin=rss",
+      "published": "2026-10-23T06:17:20Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Teknologia | Mitä jos yksityis­viestimme tulisivat julki? Uusi kriisi palautti ajatuksen mieleeni",
+      "lead": "Useat julkiset verkkopalvelut suljettiin keskiviikkona uhan takia. Yksi tekoälyn uhista on jo täyttä totta.",
+      "link": "https://www.hs.fi/visio/art-2000012359415.html",
+      "published": "2026-10-23T08:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Daniel Sazonov kertoo, millaisia töitä ihmisille jää Helsingissä",
+      "lead": "Helsingin pormestari Daniel Sazonov tapasi vastikään New Yorkin pormestarin Zohran Mamdanin, joka on linjannut tiukasti tekoälystä. Sazonov kertoo nyt oman näkemyksensä.",
+      "link": "https://www.hs.fi/politiikka/art-2000012342358.html",
+      "published": "2026-10-22T23:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Ympäristönsuojelu | Isoissa rakennushankkeissa kansallinen etu on huomioitava paremmin",
+      "lead": "Suomen tulevaisuutta ei saa ulkoistaa. On saatava aikaan laki, joka koskee datakeskus-, tuulivoima- ja aurinkovoimarakentamista.",
+      "link": "https://www.hs.fi/mielipide/art-2000012347504.html",
+      "published": "2026-10-22T15:45:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Osavuosikatsaukset | Nokian osake rysähti, mutta toimitus­­johtaja Justin Hotard lupaa silti lisää tuulta yhtiön purjeisiin",
+      "lead": "Yhtiön osake heikkeni torstaina liki kymmenen prosenttia. Osakemarkkinat ovat huolissaan tekoälyinvestointien rahoituksesta ja kannattavuudesta.",
+      "link": "https://www.hs.fi/visio/art-2000012358889.html",
+      "published": "2026-10-22T15:33:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Googlen hakkuut | Muhoksen data­keskus­hankkeesta tutkinta­pyyntö, viranomainen puuttuu ojituksiin",
+      "lead": "Lupa- ja valvontavirasto vaatii Googlea myös hakemaan vesilain mukaista lupaa datakeskustyömaan ojituksille.",
+      "link": "https://www.hs.fi/suomi/art-2000012360395.html",
+      "published": "2026-10-22T14:11:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Televisioarvio | Anna-Leena Härkönen on yhtä aikaa koominen ja kylmäävä uudessa suomalaisessa jännitys­sarjassa",
+      "lead": "Taitoluistelupiireihin sijoittuva Fokus-sarja vakuuttaa roolituksella ja hämmentää tekoälymaininnalla.",
+      "link": "https://www.hs.fi/popkulttuuri/art-2000012351587.html",
+      "published": "2026-10-22T10:38:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Työelämä | Tilapäinen johtaja voi tienata jopa 2 000 euroa päivässä – Ilmiö on alkanut yleistyä Suomessa",
+      "lead": "Uuden johtajailmiön taustalla vaikuttavat esimerkiksi maailmanlaajuinen epävarmuus raaka-ainemarkkinoilla, Ukrainan sota ja Persianlahden sota sekä tekoälyn nopea kehitys.",
+      "link": "https://www.hs.fi/suomi/art-2000012322546.html",
+      "published": "2026-10-22T10:22:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Datakeskukset | SRV pelkää poliitikkojen tulppaavan datakeskusbuumin: ”Suomi saattaa onnistua vielä mokaamaan tämän”",
+      "lead": "SRV paransi tulostaan datakeskushankkeiden vetämänä. Toimitusjohtaja Saku Sipola pelkää, että poliittinen paine voi tyrehdyttää kasvun.",
+      "link": "https://www.hs.fi/visio/art-2000012358993.html",
+      "published": "2026-10-22T09:01:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Iltalehti",
+      "feed": "Uutiset",
+      "title": "HS: Suomen suurin julkinen työnantaja korvaa työntekijöitä tekoälyllä",
+      "lead": "",
+      "link": "https://www.iltalehti.fi/tyoelama/a/25f9aba2-86dc-46ba-acee-3eac8a945d79?utm_source=rss",
+      "published": "2026-10-23T06:30:45Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Iltalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Iltalehti",
+      "feed": "Digiuutiset",
+      "title": "Tämän operaattorin palkka­listoilla on vain viisi ihmistä, ja tekoäly hoitaa valtaosan asiakas­palvelusta: Suomen tyytyväisimmät asiakkaat",
+      "lead": "",
+      "link": "https://www.iltalehti.fi/digiuutiset/a/92ccb61d-84e2-4267-a404-4b1800b1c102?utm_source=rss",
+      "published": "2026-10-20T05:15:04Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Iltalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Sähköpostit paljastavat Googlen rajun lobbauksen – Riikka Purralta suoraa puhetta",
+      "lead": "Datakeskusten verotuen poistaminen riepoi Googlea. Valtiovarainministeriön kansliapäällikkö Juha Majanen välitti Googlelle tiukan viestin.",
+      "link": "https://www.is.fi/politiikka/art-2000012351440.html",
+      "published": "2026-10-23T04:15:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Pankki pani Suomen kunnat järjestykseen – katso oman kuntasi sijoitus",
+      "lead": "Uusi ilmiö on datakeskusten vaikutus asuntomarkkinoihin.",
+      "link": "https://www.is.fi/taloussanomat/art-2000012358067.html",
+      "published": "2026-10-23T03:45:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Pääkirjoitus: Tekoälystä tuli lasten ja nuorten luotettu kaveri ja yksinäisyyden lievittäjä",
+      "lead": "Tekoälyn käyttö on yleistä jo alakouluikäisillä lapsilla, kertoo tuore tutkimus.",
+      "link": "https://www.is.fi/paakirjoitus/art-2000012359528.html",
+      "published": "2026-10-22T18:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Nuorella naisella on AI-poikaystävä – tällainen raja petipuuhiin on vedetty",
+      "lead": "Ulkolinjan dokumentissa tutustutaan nuoriin kiinalaisiin naisiin, jotka etsivät tekoälykumppanista sisältöä elämään – mutta pettymys on karvas.",
+      "link": "https://www.is.fi/tv-ja-elokuvat/art-2000012341113.html",
+      "published": "2026-10-22T16:45:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Tekoäly läväytti toimitus­johtajan pankki­tilin saldon työn­tekijöiden nähtäville",
+      "lead": "– Se yksinkertaisesti luuli, että halusin sen julkaisevan taloustietoni koko yritykselle, toimitusjohtaja kuvailee.",
+      "link": "https://www.is.fi/digitoday/art-2000012350833.html",
+      "published": "2026-10-19T05:50:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Tekoäly tunkeutui paikkaan, jonne sen ei pitäisi – tämä kysymys on täysin auki",
+      "lead": "Kuka kantaa vastuun, kun tekoäly tekee pahojaan? The New York Timesin mukaan vastaus on kaikkea muuta kuin yksiselitteinen.",
+      "link": "https://www.is.fi/digitoday/art-2000012328523.html",
+      "published": "2026-10-09T12:04:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Asiantuntija varoittaa WhatsAppin uudesta ominaisuudesta: ”Älä käytä, pysy erossa ja varoita muitakin”",
+      "lead": "Meta toi tekoälyn WhatsAppiin. Käyttäjät eivät kuitenkaan tiedä siitä kaikkea.",
+      "link": "https://www.is.fi/digitoday/art-2000012329802.html",
+      "published": "2026-10-09T06:15:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Yle: Vanhemmat keksivät tekoäly­kikan koulukuviin – kuvaajat jäävät ilman korvausta",
+      "lead": "Koulukuvaajat saavat palkkion vain ostetuista kuvista, kertoo Yle.",
+      "link": "https://www.is.fi/digitoday/art-2000012321318.html",
+      "published": "2026-10-07T18:10:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "ChatGPT alkaa piilottaa vastauksiin tietoa, jota ihmis­silmä ei huomaa",
+      "lead": "Miljoonien käyttämä työkalu pyrkii täyttämään EU:n vaatimukset.",
+      "link": "https://www.is.fi/digitoday/art-2000012325810.html",
+      "published": "2026-10-07T10:17:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Jaajo Linnonmaa teki tekoälylle erikoisen pyynnön – tulos osui ja upposi",
+      "lead": "Oletko koskaan pyytänyt tekoälyä syväskannaamaan itsesi?",
+      "link": "https://www.is.fi/digitoday/art-2000012315149.html",
+      "published": "2026-10-03T11:16:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    }
+  ]
+}
