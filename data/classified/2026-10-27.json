@@ -1,0 +1,553 @@
+{
+  "date": "2026-10-27",
+  "fetched_at": "2026-10-27T10:51:31+02:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 14
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 514,
+    "items_matched": 22,
+    "signals": 21
+  },
+  "signals": [
+    {
+      "outlet": "Yle",
+      "feed": "Pääuutiset",
+      "title": "Viisi ohjelmistoyhtiötä perustanut Tuomo Riekki ei suostu uskomaan, että tekoäly vie hänen alansa",
+      "lead": "Ohjelmistoyhtiöiden pörssikurssit ovat viimeisen vuoden aikana tippuneet roimasti, kun tekoälyn ennustetaan mullistavan liiketoiminnan täysin.",
+      "link": "https://yle.fi/a/74-20252196?origin=rss",
+      "published": "2026-10-27T07:05:24Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "duplicates": [
+        {
+          "outlet": "Yle",
+          "title": "Viisi ohjelmistoyhtiötä perustanut Tuomo Riekki ei suostu uskomaan, että tekoäly vie hänen alansa",
+          "link": "https://yle.fi/a/74-20252196?origin=rss"
+        }
+      ],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "opinion",
+        "tone": "neutral",
+        "stakeholders": [
+          "Tuomo Riekki"
+        ],
+        "why_care": "Tuomo Riekin näkemykset tuovat esiin ohjelmistoteollisuuden huolia tekoälyn vaikutuksista liiketoimintaan."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Microsoft tarjoaa lähtöpakettia 60 000 työntekijälleen",
+      "lead": "Teknologiajätti haluaa karsia henkilöstöään tekoälyn kilpailun vuoksi.",
+      "link": "https://www.hs.fi/visio/art-2000012368914.html",
+      "published": "2026-10-27T08:50:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": false,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [
+          "Microsoft"
+        ],
+        "why_care": "Tuo esiin tekoälyn vaikutukset työmarkkinoihin ja yritysten henkilöstöstrategioihin."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoälyahdistus | Koodarin mielenterveys hajosi, kun hän ymmärsi, mihin tekoäly pystyy",
+      "lead": "Tekoälystä johtuvat mielenterveysongelmat lisääntyvät. Ohjelmistokehittäjälle tekoäly aiheutti niin voimakasta ahdistusta, että hän joutui hakeutumaan lääkäriin.",
+      "link": "https://www.hs.fi/pkseutu/art-2000012340099.html",
+      "published": "2026-10-27T06:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [
+          "ohjelmistokehittäjä"
+        ],
+        "why_care": "Tuo esiin tekoälyn aiheuttamat mielenterveysriskit teknologia-alalla."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Anthropic julkaisi pörssiesitteensä: Hurjaa kasvua, hurjia riskejä",
+      "lead": "Johtava tekoäly-yhtiö suunnittelee listautuvansa lähiaikoina. Listautumisesite raottaa verhoa salaperäisen yhtiön bisnesmalliin, josta ei riskejä puutu.",
+      "link": "https://www.hs.fi/visio/art-2000012366450.html",
+      "published": "2026-10-26T15:35:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": false,
+        "signal_type": "launch",
+        "tone": "neutral",
+        "stakeholders": [
+          "Anthropic"
+        ],
+        "why_care": "Listautuminen tuo esiin tekoälyalan kasvupotentiaalin ja siihen liittyvät riskit sijoittajien näkökulmasta."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Datakeskukset | Luonto on arvokkaampi kuin yhdenkään datakeskuksen tuotto",
+      "lead": "On äärimmäisen huolestuttavaa seurata, että datakeskusprojektit ottavat valtaa herkästä pohjoisesta luonnosta.",
+      "link": "https://www.hs.fi/mielipide/art-2000012366934.html",
+      "published": "2026-10-26T15:30:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Korostaa datakeskusten ympäristövaikutuksia ja niiden ristiriitaa luonnon suojelun kanssa."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Anthropic aikoo listautua pörssiin pian, arvioitu yli 1 500 miljardin arvoiseksi",
+      "lead": "Suunnitelmana on, että yhtiö listautuisi pörssiin marraskuun puolivälissä.",
+      "link": "https://www.hs.fi/visio/art-2000012367847.html",
+      "published": "2026-10-26T14:48:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "launch",
+        "tone": "neutral",
+        "stakeholders": [
+          "Anthropic"
+        ],
+        "why_care": "Listautuminen pörssiin voi vaikuttaa tekoälyalan investointeihin ja kehitykseen."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Musiikki | Elviksen kappaleista nousi oikeus­kiista, joka voi vaikuttaa koko musiikki­alaan",
+      "lead": "Oikeusjutun ratkaisu voi toimia laajempana ennakkotapauksena musiikin käytöstä tekoälyn kouluttamisessa.",
+      "link": "https://www.hs.fi/popkulttuuri/art-2000012366305.html",
+      "published": "2026-10-26T11:34:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Oikeuskiista nostaa esiin tekoälyn käytön eettiset ja juridiset kysymykset musiikkialalla."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Teknologia | En usko, että olisin selvinnyt ilman tekoälyä",
+      "lead": "Tekoäly voi merkitä monelle itsenäisempää elämää, ymmärrystä ja mahdollisuutta selvitä arjesta.",
+      "link": "https://www.hs.fi/mielipide/art-2000012366594.html",
+      "published": "2026-10-26T11:15:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Korostaa tekoälyn merkitystä yksilön arjessa ja sen mahdollistamia uusia näkökulmia."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "launch",
+        "tone": "positive",
+        "stakeholders": [
+          "Helsingin yliopisto"
+        ],
+        "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "research",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+      }
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "MARKKINAT: Anthropic innosti Aasian siruyhtiöt nousuun − korjausliike ylöspäin mahdollinen",
+      "lead": "Maailman osakemarkkinoilla seurataan tarkalla silmällä yhdysvaltalaisten teknologiayhtiöiden tulosjulkistuksia. Yhtiöiden rahoitussuunnitelmat aiheuttavat kysymysmerkkejä.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/2e446b55-b098-404c-be58-9c759876cd24?utm_source=rss",
+      "published": "2026-10-27T05:53:00Z",
+      "keyword": "anthropic",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Tuo esiin tekoälyalan yhtiöiden taloudelliset vaikutukset ja markkinatrendit."
+      }
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Wärtsilän tulos ylitti ennusteen – Tilauskertymä paisui",
+      "lead": "Datakeskusten ja sähköverkon säätövoiman kasvava kysyntä vauhditti Wärtsilän tilauskertymän vahvaa kasvua heinä–syyskuussa.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/44d95079-1f87-46a6-9dd1-14f7ffe47591?utm_source=rss",
+      "published": "2026-10-27T06:40:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "trend",
+        "tone": "positive",
+        "stakeholders": [
+          "Wärtsilä"
+        ],
+        "why_care": "Datakeskusten kysynnän kasvu korostaa tekoälyn infrastruktuurin merkitystä ja sen vaikutusta talouteen."
+      }
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "Chat GPT:n käyttö kiellettiin valtion työntekijöiltä Ruotsissa – Syy on tässä",
+      "lead": "Virastojen työntekijöillä on edelleen pääsy Microsoftin Copilot-tekoälypalveluun.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/cae0c678-f5be-4690-ade1-4bc1fdc8b97e?utm_source=rss",
+      "published": "2026-10-27T05:45:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "regulation",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Keskustelu tekoälyn käytön rajoituksista julkisella sektorilla voi vaikuttaa myös Suomeen."
+      }
+    },
+    {
+      "outlet": "MTV Uutiset",
+      "feed": "Uusimmat",
+      "title": "Microsoftin shokkisuunnitelma: 60 000 työntekijää ulos",
+      "lead": "Microsoft tarjoaa vapaaehtoista lähtöpakettia noin 60 000 työntekijälle. Yhtiö pyrkii hillitsemään kulujaan mittavien tekoälyinvestointien aikana.",
+      "link": "https://www.mtvuutiset.fi/artikkeli/microsoft-tarjoaa-lahtopakettia-massiiviselle-joukolle-tyontekijoita-panostaa-miljardeja-tekoalyyn/9412288",
+      "published": "2026-10-26T21:48:41Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "MTV Uutiset"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "neutral",
+        "stakeholders": [
+          "Microsoft"
+        ],
+        "why_care": "Tekoälyinvestointien taustalla olevat irtisanomiset voivat vaikuttaa alan työmarkkinoihin ja yritysten resursointiin Suomessa."
+      }
+    },
+    {
+      "outlet": "MTV Uutiset",
+      "feed": "Uusimmat",
+      "title": "Netanjahun raju vaalitemppu: Julkaisi tekoälykuvan Tel Avivin ydintuhosta",
+      "lead": "Israelin pääministeri on julkaissut X:ssä tekoälykuvan, jossa Israelin Tel-Avivissa räjähtää ydinpommi.",
+      "link": "https://www.mtvuutiset.fi/artikkeli/netanjahun-raju-vaalitemppu-julkaisi-tekoalykuvan-tel-avivin-ydintuhosta/9412358",
+      "published": "2026-10-27T07:40:25Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "MTV Uutiset"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 0,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [
+          "Netanjahu"
+        ],
+        "why_care": "Herättää huolta tekoälyn käytöstä poliittisessa propagandassa ja sen mahdollisista seurauksista."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Tekoäly toimi omin luvin Tampereella: ”Sitä on ehdottomasti kielletty”",
+      "lead": "Tekoäly karkasi omille teilleen.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012356718.html",
+      "published": "2026-10-24T05:23:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Tuo esiin tekoälyn hallinnan ja sääntelyn haasteet käytännön sovelluksissa."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Tekoäly läväytti toimitus­johtajan pankki­tilin saldon työn­tekijöiden nähtäville",
+      "lead": "– Se yksinkertaisesti luuli, että halusin sen julkaisevan taloustietoni koko yritykselle, toimitusjohtaja kuvailee.",
+      "link": "https://www.is.fi/digitoday/art-2000012350833.html",
+      "published": "2026-10-19T05:50:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [
+          "toimitusjohtaja"
+        ],
+        "why_care": "Tuo esiin tekoälyn mahdolliset riskit ja haasteet yritysten sisäisessä tietoturvassa."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Tekoäly tunkeutui paikkaan, jonne sen ei pitäisi – tämä kysymys on täysin auki",
+      "lead": "Kuka kantaa vastuun, kun tekoäly tekee pahojaan? The New York Timesin mukaan vastaus on kaikkea muuta kuin yksiselitteinen.",
+      "link": "https://www.is.fi/digitoday/art-2000012328523.html",
+      "published": "2026-10-09T12:04:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Kysymys tekoälyn vastuusta herättää huolta ja keskustelua sen käytön eettisyydestä."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Asiantuntija varoittaa WhatsAppin uudesta ominaisuudesta: ”Älä käytä, pysy erossa ja varoita muitakin”",
+      "lead": "Meta toi tekoälyn WhatsAppiin. Käyttäjät eivät kuitenkaan tiedä siitä kaikkea.",
+      "link": "https://www.is.fi/digitoday/art-2000012329802.html",
+      "published": "2026-10-09T06:15:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [
+          "Meta"
+        ],
+        "why_care": "Korostaa tekoälyn mahdollisia riskejä ja käyttäjien tietoturvaa WhatsAppissa."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Yle: Vanhemmat keksivät tekoäly­kikan koulukuviin – kuvaajat jäävät ilman korvausta",
+      "lead": "Koulukuvaajat saavat palkkion vain ostetuista kuvista, kertoo Yle.",
+      "link": "https://www.is.fi/digitoday/art-2000012321318.html",
+      "published": "2026-10-07T18:10:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [
+          "Yle",
+          "Ilta-Sanomat"
+        ],
+        "why_care": "Keskustelu tekoälyn käytöstä koulukuvaamisessa voi vaikuttaa alan käytäntöihin ja palkkiojärjestelmiin."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "ChatGPT alkaa piilottaa vastauksiin tietoa, jota ihmis­silmä ei huomaa",
+      "lead": "Miljoonien käyttämä työkalu pyrkii täyttämään EU:n vaatimukset.",
+      "link": "https://www.is.fi/digitoday/art-2000012325810.html",
+      "published": "2026-10-07T10:17:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "regulation",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Tuo esiin tekoälyn sääntelyvaatimusten vaikutukset käyttäjäkokemukseen."
+      }
+    }
+  ],
+  "classified_at": "2026-10-27T10:52:06+02:00",
+  "model": "gpt-4o-mini"
+}
