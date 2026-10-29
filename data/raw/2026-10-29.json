@@ -1,0 +1,268 @@
+{
+  "date": "2026-10-29",
+  "fetched_at": "2026-10-29T11:45:35+02:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 14
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 514,
+    "items_matched": 15,
+    "signals": 15
+  },
+  "signals": [
+    {
+      "outlet": "Yle",
+      "feed": "Tuoreimmat",
+      "title": "Ulkoministeri Valtonen solmii tänään teknologiasopimuksia Yhdysvaltain kanssa",
+      "lead": "Suomi ja Yhdysvallat aikovat tiivistää muun muassa tekoäly-yhteistyötä.",
+      "link": "https://yle.fi/a/74-20253756?origin=rss",
+      "published": "2026-10-29T09:06:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Yle",
+      "feed": "Tuoreimmat",
+      "title": "New York rajoittaa lailla lasten tekoäly-chatbottien käyttöä",
+      "lead": "Laki velvoittaa tekoäly-yrityksiä tarkistamaan käyttäjän iän.",
+      "link": "https://yle.fi/a/74-20253981?origin=rss",
+      "published": "2026-10-29T08:07:59Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Datakeskukset | Selvitys: Datakeskukset vievät kohta jopa viidenneksen Suomen sähköstä",
+      "lead": "VTT:n arvion mukaan datakeskusten osuus Suomen sähkönkulutuksesta tulee kasvamaan lähivuosina rajusti.",
+      "link": "https://www.hs.fi/visio/art-2000012372051.html",
+      "published": "2026-10-28T09:31:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Media | Sanoman tulos parani, mutta kurssi sukelsi",
+      "lead": "Sanoman toimitusjohtaja Rob Kolkman sanoo, että tekoälystä on tulossa yhä tärkeämpi osa Sanoman tapaa työskennellä.",
+      "link": "https://www.hs.fi/visio/art-2000012371595.html",
+      "published": "2026-10-28T08:49:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "Israelilaisyhtiö vakoili Starlinkin käyttäjiä – Kohteita yli sadassa maassa",
+      "lead": "Japanilaisen tietoturvayhtiön Trend AI:n tutkijat väittävät israelilaisen Discover-Techin vakoilleen Starlink-käyttäjiä yli 100 eri maassa.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/a74ddb23-af1a-4b9d-9ea4-c2d28e0165b1?utm_source=rss",
+      "published": "2026-10-29T08:13:59Z",
+      "keyword": "\\bAI\\b",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "MTV Uutiset",
+      "feed": "Uusimmat",
+      "title": "Tekoälybuumi siivitti Samsungin huimaan tulosloikkaan",
+      "lead": "Tulos jäi silti hieman alakanttiin analyytikoiden odotuksista.",
+      "link": "https://www.mtvuutiset.fi/artikkeli/tekoalybuumi-siivitti-samsungin-huimaan-tulosloikkaan/9413366",
+      "published": "2026-10-29T03:44:49Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "MTV Uutiset"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Nyt tuli vakava epäily ChatGPT:stä",
+      "lead": "Luotettu keskustelukumppani voi olla jotain aivan muuta, Cybernews varoittaa.",
+      "link": "https://www.is.fi/digitoday/art-2000012359485.html",
+      "published": "2026-10-27T18:57:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Tekoäly toimi omin luvin Tampereella: ”Sitä on ehdottomasti kielletty”",
+      "lead": "Tekoäly karkasi omille teilleen.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012356718.html",
+      "published": "2026-10-24T05:23:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Tekoäly läväytti toimitus­johtajan pankki­tilin saldon työn­tekijöiden nähtäville",
+      "lead": "– Se yksinkertaisesti luuli, että halusin sen julkaisevan taloustietoni koko yritykselle, toimitusjohtaja kuvailee.",
+      "link": "https://www.is.fi/digitoday/art-2000012350833.html",
+      "published": "2026-10-19T05:50:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Tekoäly tunkeutui paikkaan, jonne sen ei pitäisi – tämä kysymys on täysin auki",
+      "lead": "Kuka kantaa vastuun, kun tekoäly tekee pahojaan? The New York Timesin mukaan vastaus on kaikkea muuta kuin yksiselitteinen.",
+      "link": "https://www.is.fi/digitoday/art-2000012328523.html",
+      "published": "2026-10-09T12:04:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Asiantuntija varoittaa WhatsAppin uudesta ominaisuudesta: ”Älä käytä, pysy erossa ja varoita muitakin”",
+      "lead": "Meta toi tekoälyn WhatsAppiin. Käyttäjät eivät kuitenkaan tiedä siitä kaikkea.",
+      "link": "https://www.is.fi/digitoday/art-2000012329802.html",
+      "published": "2026-10-09T06:15:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Yle: Vanhemmat keksivät tekoäly­kikan koulukuviin – kuvaajat jäävät ilman korvausta",
+      "lead": "Koulukuvaajat saavat palkkion vain ostetuista kuvista, kertoo Yle.",
+      "link": "https://www.is.fi/digitoday/art-2000012321318.html",
+      "published": "2026-10-07T18:10:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "ChatGPT alkaa piilottaa vastauksiin tietoa, jota ihmis­silmä ei huomaa",
+      "lead": "Miljoonien käyttämä työkalu pyrkii täyttämään EU:n vaatimukset.",
+      "link": "https://www.is.fi/digitoday/art-2000012325810.html",
+      "published": "2026-10-07T10:17:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    }
+  ]
+}
