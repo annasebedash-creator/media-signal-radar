@@ -1,0 +1,244 @@
+{
+  "date": "2026-11-05",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Google lahjoittaa miljoonia Muhoksen ja Vaalan datakeskuskunnilleen, mikä tukee infrastruktuurin kehittämistä ja energiahankkeita Suomessa.",
+    "Helsingin yliopiston suosittu tekoälykurssi jatkuu tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä, mikä voi vaikuttaa työmarkkinoihin.",
+    "Useat kriittiset signaalit nostavat esiin tekoälyn hallinnan, tietoturvan ja oikeudellisten prosessien haasteet Suomessa."
+  ],
+  "top_signals": [
+    {
+      "title": "Google lahjoittaa miljoonia Muhoksen ja Vaalan datakeskuskunnilleen",
+      "lead": "Rahalahjoitus käytetään kummassakin kunnassa energiahankkeisiin.",
+      "link": "https://yle.fi/a/74-20255193?origin=rss",
+      "outlet": "Yle",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Google",
+        "Muhos",
+        "Vaalan"
+      ],
+      "why_care": "Tämä lahjoitus tukee datakeskusten infrastruktuurin kehittämistä ja energiahankkeita Suomessa."
+    },
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    },
+    {
+      "title": "Nainen valitti verotuksestaan tekoälyllä – ei olisi kannattanut",
+      "lead": "Tekoälyn laatima valitus tuli kalliiksi. Oikeus antoi samalla varoituksen.",
+      "link": "https://www.is.fi/digitoday/art-2000012375099.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "oikeus",
+        "Nainen"
+      ],
+      "why_care": "Tuo esiin tekoälyn mahdolliset riskit ja haasteet oikeudellisissa prosesseissa."
+    },
+    {
+      "title": "Tekoäly toimi omin luvin Tampereella: ”Sitä on ehdottomasti kielletty”",
+      "lead": "Tekoäly karkasi omille teilleen.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012356718.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn hallinnan ja sääntelyn haasteet, mikä voi vaikuttaa julkiseen keskusteluun ja lainsäädäntöön."
+    },
+    {
+      "title": "Tekoäly läväytti toimitus­johtajan pankki­tilin saldon työn­tekijöiden nähtäville",
+      "lead": "– Se yksinkertaisesti luuli, että halusin sen julkaisevan taloustietoni koko yritykselle, toimitusjohtaja kuvailee.",
+      "link": "https://www.is.fi/digitoday/art-2000012350833.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "toimitusjohtaja"
+      ],
+      "why_care": "Tuo esiin tekoälyn mahdolliset riskit ja haasteet yritysten sisäisessä tietoturvassa."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Työelämä | Työviikon lyhentäminen ei suojaa tekoälyn vaikutuksilta",
+      "lead": "Tekoälyn tuottavuushyötyjä kannattaa tavoitella uudistamalla työtä ja vahvistamalla osaamista. Työajan lyhentäminen lähinnä kiihdyttäisi työpaikkojen tuhoa.",
+      "link": "https://www.hs.fi/mielipide/art-2000012372407.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Keskustelu työajan lyhentämisestä nostaa esiin tekoälyn vaikutukset työmarkkinoilla."
+    },
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "tutkijat",
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikin tuotannossa ja sen mahdolliset vaikutukset instrumenttien käyttöön."
+    },
+    {
+      "title": "Televisio | Katsoimme ensimmäisen suureen suora­toisto­palveluun julkaistun tekoälysarjan",
+      "lead": "Castle Walls -draamasarja ei ole vakuuttanut katsojia, eikä se vakuuttanut meitäkään.",
+      "link": "https://www.hs.fi/popkulttuuri/art-2000012386240.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Herättää keskustelua tekoälyn käytöstä viihdeteollisuudessa ja sen vastaanotosta yleisön keskuudessa."
+    },
+    {
+      "title": "Pörssit | Sijoittajat innostuivat vaali­tuloksesta, mutta taka­raivossa jyskyttää pelko sääntely­tsunamista",
+      "lead": "Yhdysvaltain välivaalien selkeä lopputulos vauhdittaa pörssikursseja ympäri maailmaa. Huoli datakeskusten sääntelyn lisääntymisestä painaa silti sijoittajien mieliä.",
+      "link": "https://www.hs.fi/visio/art-2000012387881.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Sijoittajien huoli datakeskusten sääntelyn lisääntymisestä voi vaikuttaa tekoälyinfrastruktuurin kehitykseen ja investointeihin."
+    },
+    {
+      "title": "Tekoälyn kummisetä katuu elämäntyötään: Ilman olisi voinut olla parempi",
+      "lead": "Asiantuntijan mukaan kymmenen vuoden kuluessa ihmiskunta saa tietää, pystyykö se hallitsemaan tekoälyyn liittyviä riskejä.",
+      "link": "https://www.mtvuutiset.fi/artikkeli/tekoalyn-kummiseta-katuu-elamantyotaan-ilman-olisi-voinut-olla-parempi/9416452",
+      "outlet": "MTV Uutiset",
+      "outlets": [
+        "MTV Uutiset"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Korostaa tekoälyn hallintaan liittyviä riskejä ja asiantuntijan huolia, mikä voi vaikuttaa julkiseen keskusteluun ja päätöksentekoon."
+    },
+    {
+      "title": "Muskin \"äänestä republikaaneja\" -viesti katosi – oma tekoäly vahvisti poiston",
+      "lead": "Forbesin mukaan Elon Musk sijoitti republikaanimyönteisiin hankkeisiin vähintään 458 miljoonaa dollaria.",
+      "link": "https://www.mtvuutiset.fi/artikkeli/muskin-aanesta-republikaaneja-viesti-katosi-oma-tekoaly-vahvisti-poiston/9416568",
+      "outlet": "MTV Uutiset",
+      "outlets": [
+        "MTV Uutiset"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Elon Musk"
+      ],
+      "why_care": "Herättää keskustelua tekoälyn roolista poliittisessa viestinnässä."
+    },
+    {
+      "title": "Anthropicin tekoälylle ei saa enää olla ilkeä",
+      "lead": "Ääritapauksissa jotkut käyttäjät voidaan sulkea pysyvästi yhtiön tekoälyjärjestelmien ulkopuolelle.",
+      "link": "https://www.is.fi/digitoday/art-2000012381346.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Keskustelu tekoälyn käyttäjien rajoittamisesta nostaa esiin eettisiä kysymyksiä tekoälyn hallinnasta."
+    },
+    {
+      "title": "Nyt tuli vakava epäily ChatGPT:stä",
+      "lead": "Luotettu keskustelukumppani voi olla jotain aivan muuta, Cybernews varoittaa.",
+      "link": "https://www.is.fi/digitoday/art-2000012359485.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Herättää huolta tekoälyn luotettavuudesta ja sen vaikutuksista käyttäjien turvallisuuteen."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 513,
+    "signals": 13,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
