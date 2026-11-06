@@ -1,0 +1,268 @@
+{
+  "date": "2026-11-06",
+  "fetched_at": "2026-11-06T12:41:15+02:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 510,
+    "items_matched": 15,
+    "signals": 15
+  },
+  "signals": [
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Somevaikuttaja Mikael Renwall syyttää kylpy­takki­firmaa kasvojensa vohkimisesta",
+      "lead": "Renwall sanoo vihaavansa tekoälyä. Omien kasvojen mahdollinen päätyminen tekoäly­mainokseen oli vain jäävuoren huippu.",
+      "link": "https://www.hs.fi/suomi/art-2000012392193.html",
+      "published": "2026-11-06T09:29:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Suomi rynnii kohti yhteis­kunta­mallia, josta on vaikea peruuttaa, tutkija varoittaa",
+      "lead": "Tekoälykeskustelua ohjaa puhe kiireestä ja pakosta, sanoo Anna-Mari Wallenberg. Hänestä pitäisi pysähtyä miettimään, mitä oikeasti halutaan.",
+      "link": "https://www.hs.fi/politiikka/art-2000012379344.html",
+      "published": "2026-11-06T00:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Pörssit | Yhdysvaltain Nasdaq-pörssi sukelsi yli viisi prosenttia",
+      "lead": "Markkinat vaikuttivat hinnoittelevan aiempaa loivempaa datakeskusten rakentamistahtia Yhdysvalloissa.",
+      "link": "https://www.hs.fi/visio/art-2000012392149.html",
+      "published": "2026-11-05T21:30:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Yhdysvallat | Datakeskukset saivat välivaaleissa täystyrmäyksen",
+      "lead": "Datakeskusten rakentamista vastustava kanta voitti lähes kaikissa aihetta koskeneissa paikallisäänestyksissä. Tulos uhkaa vaikeuttaa teknologiayhtiöiden miljardihankkeita, etenkin Texasissa.",
+      "link": "https://www.hs.fi/maailma/art-2000012389889.html",
+      "published": "2026-11-05T18:51:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "Tälle Suomen datakeskusinvestoinnit kalpenevat – Sirujätti TSMC sijoittaa Arizonan autiomaahan hurjat 265 miljardia dollaria",
+      "lead": "Päätöksen taustalla on Kiinan uhka ja USA:n tarjoamat jättimäiset valtiontuet.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/86186c80-3186-46ba-ba26-24fde53f0611?utm_source=rss",
+      "published": "2026-11-06T05:45:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "Datakeskuksilta loppuu muisti – Tekoälybuumi herätti vanhan tallennusteknologian",
+      "lead": "Valtava kasvu muistin hinnassa on nostanut kysyntää myös perinteisemmille tallennusvälineille.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/34008826-ecfb-48b2-96e2-be6e5b8d092b?utm_source=rss",
+      "published": "2026-11-06T04:45:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "MTV Uutiset",
+      "feed": "Uusimmat",
+      "title": "Tekoäly auttoi 13-vuotiasta Emmaa suunnittelemaan jäähyväiskirjettä ja hautajaisia – Googlella paljon selitettävää oikeudessa",
+      "lead": "Yhdysvalloissa omia hautajaisiaan suunnitelleen teinitytön vanhemmat ovat haastaneet hakukonejätti Googlen oikeuteen.",
+      "link": "https://www.mtvuutiset.fi/artikkeli/tekoaly-auttoi-13-vuotiasta-emmaa-suunnittelemaan-jaahyvaiskirjetta-ja-hautajaisia-googlella-paljon-selitettavaa-oikeudessa/9417160",
+      "published": "2026-11-06T09:42:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "MTV Uutiset"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "MTV Uutiset",
+      "feed": "Uusimmat",
+      "title": "Datakeskuksille järisyttävä käänne: \"Uusi päivä koittaa\"",
+      "lead": "Yhdysvaltojen vaalitulos oli kova kolaus tekoälyalalle. Näkyvätkö seuraukset Suomessa asti?",
+      "link": "https://www.mtvuutiset.fi/artikkeli/datakeskuksille-jarisyttava-kaanne-uusi-paiva-koittaa/9416968",
+      "published": "2026-11-06T03:49:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "MTV Uutiset"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Anthropicin tekoälylle ei saa enää olla ilkeä",
+      "lead": "Ääritapauksissa jotkut käyttäjät voidaan sulkea pysyvästi yhtiön tekoälyjärjestelmien ulkopuolelle.",
+      "link": "https://www.is.fi/digitoday/art-2000012381346.html",
+      "published": "2026-11-01T23:10:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Nainen valitti verotuksestaan tekoälyllä – ei olisi kannattanut",
+      "lead": "Tekoälyn laatima valitus tuli kalliiksi. Oikeus antoi samalla varoituksen.",
+      "link": "https://www.is.fi/digitoday/art-2000012375099.html",
+      "published": "2026-10-29T13:35:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Nyt tuli vakava epäily ChatGPT:stä",
+      "lead": "Luotettu keskustelukumppani voi olla jotain aivan muuta, Cybernews varoittaa.",
+      "link": "https://www.is.fi/digitoday/art-2000012359485.html",
+      "published": "2026-10-27T18:57:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Tekoäly toimi omin luvin Tampereella: ”Sitä on ehdottomasti kielletty”",
+      "lead": "Tekoäly karkasi omille teilleen.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012356718.html",
+      "published": "2026-10-24T05:23:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Tekoäly läväytti toimitus­johtajan pankki­tilin saldon työn­tekijöiden nähtäville",
+      "lead": "– Se yksinkertaisesti luuli, että halusin sen julkaisevan taloustietoni koko yritykselle, toimitusjohtaja kuvailee.",
+      "link": "https://www.is.fi/digitoday/art-2000012350833.html",
+      "published": "2026-10-19T05:50:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    }
+  ]
+}
