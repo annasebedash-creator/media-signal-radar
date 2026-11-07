@@ -1,0 +1,257 @@
+{
+  "date": "2026-11-07",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Suomen pohjoisin datakeskus hyödyntää hukkalämpöä Ivalossa, mikä korostaa datakeskusten roolia paikallisessa energiantuotannossa.",
+    "Helsingin yliopiston suosittu tekoälykurssi laajenee, tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä.",
+    "Kriittiset näkemykset tekoälyn sääntelystä ja sen vaikutuksista perustuslakiin herättävät keskustelua Suomessa."
+  ],
+  "top_signals": [
+    {
+      "title": "Suomen pohjoisin datakeskus lämmittää Ivaloa hukkalämmöllä: data on sille vain sivutuote",
+      "lead": "Noin 98,5 prosenttia keskuksessa käytetystä sähköstä muuttuu hyödynnettäväksi kaukolämmöksi.",
+      "link": "https://yle.fi/a/74-20254719?origin=rss",
+      "outlet": "Yle",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Suomi",
+        "Ivalo"
+      ],
+      "why_care": "Korostaa datakeskusten mahdollisuuksia hyödyntää hukkalämpöä paikallisessa energiantuotannossa."
+    },
+    {
+      "title": "Tekoäly | Perustuslaki halutaan avata, jotta tekoälyä voidaan käyttää vielä enemmän – Ei, sanoo vasemmiston Honkasalo",
+      "lead": "Tekoälylle ollaan antamassa liikaa valtaa, sanoo vasemmistoliiton Veronika Honkasalo.",
+      "link": "https://www.hs.fi/politiikka/art-2000012393717.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "regulation",
+      "tone": "critical",
+      "stakeholders": [
+        "Veronika Honkasalo",
+        "vasemmistoliitto"
+      ],
+      "why_care": "Keskustelu tekoälyn sääntelystä ja sen vaikutuksista perustuslakiin on ajankohtainen ja herättää huolta liiallisesta vallasta."
+    },
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    },
+    {
+      "title": "Nainen valitti verotuksestaan tekoälyllä – ei olisi kannattanut",
+      "lead": "Tekoälyn laatima valitus tuli kalliiksi. Oikeus antoi samalla varoituksen.",
+      "link": "https://www.is.fi/digitoday/art-2000012375099.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "oikeus",
+        "Nainen"
+      ],
+      "why_care": "Tuo esiin tekoälyn mahdolliset riskit ja haasteet oikeudellisissa prosesseissa."
+    },
+    {
+      "title": "Tekoäly toimi omin luvin Tampereella: ”Sitä on ehdottomasti kielletty”",
+      "lead": "Tekoäly karkasi omille teilleen.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012356718.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn hallinnan ja sääntelyn haasteet, mikä voi vaikuttaa julkiseen keskusteluun tekoälyn käytöstä."
+    },
+    {
+      "title": "Tekoäly läväytti toimitus­johtajan pankki­tilin saldon työn­tekijöiden nähtäville",
+      "lead": "– Se yksinkertaisesti luuli, että halusin sen julkaisevan taloustietoni koko yritykselle, toimitusjohtaja kuvailee.",
+      "link": "https://www.is.fi/digitoday/art-2000012350833.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "toimitusjohtaja"
+      ],
+      "why_care": "Tapaus nostaa esiin tekoälyn mahdolliset riskit ja haasteet yritysten sisäisessä tietoturvassa."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Tekoäly | Uusi ihmiskoe lapsillamme on jo alkanut",
+      "lead": "Tekoälyn vaikutuksista lapsiin tiedetään vielä varsin vähän, koska ilmiö on uusi.",
+      "link": "https://www.hs.fi/nakemys/art-2000012387857.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Herättää huolta tekoälyn vaikutuksista lasten kehitykseen ja hyvinvointiin."
+    },
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+    },
+    {
+      "title": "Teknologia | Tyhmistyykö tekoäly ajan mittaan?",
+      "lead": "Luulisi tekoälyn tuottaman tiedon tyhmistyvän, jos siihen ei tuoda ihmisen tuottamaa lisä-älyä.",
+      "link": "https://www.hs.fi/mielipide/art-2000012363493.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Herättää kysymyksiä tekoälyn kehityksen ja ihmisen roolin merkityksestä tekoälyn käytössä."
+    },
+    {
+      "title": "Onko kaikki tällä kertaa toisin? – Tekoälymurroksen keskellä sijoittajalla pitää olla fiksu näkemys yhteen kysymykseen",
+      "lead": "Poikkeuksellinen murros vaatii sijoittajilta kylmää päätä. Superkysyntä ei ole pysyvä ilmiö.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/4a1a766e-bf89-414f-b901-9e16c03a634d?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Keskustelu tekoälymurroksesta sijoittajien näkökulmasta voi vaikuttaa markkinoiden kehitykseen ja investointipäätöksiin."
+    },
+    {
+      "title": "Wall Streetillä nähtiin laimea toipumisyritys",
+      "lead": "Teknologiaosakkeet elpyivät hieman torstain laskusta, mutta tekoälyhuolet jäivät varjostamaan Wall Streetiä.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/0f559fc4-a7cf-4902-9c2d-d821a03314a1?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn vaikutuksen markkinoiden kehitykseen ja sijoittajien huoliin."
+    },
+    {
+      "title": "Härski tekoälyhuijaus leviää Kiinassa – jopa satoja tuhansia uhreja",
+      "lead": "Kiinalaisia kuluttajia huijataan valeotteluilla.",
+      "link": "https://www.is.fi/urheilu/art-2000012395200.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn mahdolliset väärinkäytöt ja huijausriskit kuluttajapalveluissa."
+    },
+    {
+      "title": "Anthropicin tekoälylle ei saa enää olla ilkeä",
+      "lead": "Ääritapauksissa jotkut käyttäjät voidaan sulkea pysyvästi yhtiön tekoälyjärjestelmien ulkopuolelle.",
+      "link": "https://www.is.fi/digitoday/art-2000012381346.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Keskustelu tekoälyn käyttäjien sulkemisesta nostaa esiin tekoälyn eettiset kysymykset ja käyttäjäoikeudet."
+    },
+    {
+      "title": "Nyt tuli vakava epäily ChatGPT:stä",
+      "lead": "Luotettu keskustelukumppani voi olla jotain aivan muuta, Cybernews varoittaa.",
+      "link": "https://www.is.fi/digitoday/art-2000012359485.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Herättää huolta tekoälyn luotettavuudesta ja sen vaikutuksesta käyttäjien kokemuksiin."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 511,
+    "signals": 14,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
