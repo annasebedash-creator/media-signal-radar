@@ -1,0 +1,288 @@
+{
+  "date": "2026-11-08",
+  "fetched_at": "2026-11-08T12:07:07+02:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 11
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 511,
+    "items_matched": 17,
+    "signals": 16
+  },
+  "signals": [
+    {
+      "outlet": "Yle",
+      "feed": "Pääuutiset",
+      "title": "Sanoittajakonkari Heikki Salo luottaa tekoälyyn: ”Mitä sillä on väliä, vaikka lyriikan kirjoittaisi kissa”",
+      "lead": "Kulttuurivieras on opettanut laulunkirjoittamista yli kolme vuosikymmentä. Nyt hän kehittää tekoälytyökalua sanoitusten tekijöille.",
+      "link": "https://yle.fi/a/74-20249346?origin=rss",
+      "published": "2026-11-08T05:00:35Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "duplicates": [
+        {
+          "outlet": "Yle",
+          "title": "Sanoittajakonkari Heikki Salo luottaa tekoälyyn: ”Mitä sillä on väliä, vaikka lyriikan kirjoittaisi kissa”",
+          "link": "https://yle.fi/a/74-20249346?origin=rss"
+        }
+      ]
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Helsinki | Yli tuhat osoitti mieltään data­keskuksia vastaan: ”Me ei voida jäädä kotiin”",
+      "lead": "Mielenosoittajat vaativat uusien datakeskus­hankkeiden jäädyttämistä toistaiseksi.",
+      "link": "https://www.hs.fi/helsinki/art-2000012396147.html",
+      "published": "2026-11-07T15:48:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Kiinassa huijataan urheilun seuraajia tekoälyavusteisilla vale­otteluilla, uhreja satoja­tuhansia",
+      "lead": "Kiinalaisia kuluttajia huijataan valeotteluilla.",
+      "link": "https://www.hs.fi/urheilu/art-2000012395370.html",
+      "published": "2026-11-07T12:47:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Markkinat | Datakeskus­huuman lakipiste saattaa olla käsillä, kun teko­äly muuttui hetkessä riskiksi",
+      "lead": "Moni asia viittaa siihen, että datakeskusten rakentamisvauhti on hiipumassa. Politiikka, rahoitus ja ylipäätään maailman rajat painavat nyt jarrua.",
+      "link": "https://www.hs.fi/visio/art-2000012388525.html",
+      "published": "2026-11-07T12:00:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Emme vielä tiedä, mitä tekoäly tekee lapsillemme",
+      "lead": "Tekoälyn vaikutuksista lapsiin tiedetään vielä varsin vähän, koska ilmiö on uusi.",
+      "link": "https://www.hs.fi/nakemys/art-2000012387857.html",
+      "published": "2026-11-07T09:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Teknologia | Tyhmistyykö tekoäly ajan mittaan?",
+      "lead": "Luulisi tekoälyn tuottaman tiedon tyhmistyvän, jos siihen ei tuoda ihmisen tuottamaa lisä-älyä.",
+      "link": "https://www.hs.fi/mielipide/art-2000012363493.html",
+      "published": "2026-11-07T00:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Ex-tennisammattilaisen vetämä majoitusyhtiö on hirmuisessa iskussa – ”Olemme oikeilla jäljillä”",
+      "lead": "Datakeskusbuumi ja kekseliäs konsepti siivittävät hotelli- ja majoitusyhtiö Uhandan kasvua. Huippukannattava yritys on kipuamassa pikavauhtia kohti 100 miljoonan euron sarjaa.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/eb186441-04d4-447c-8011-79c5f5705b40?utm_source=rss",
+      "published": "2026-11-08T06:00:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Helsingin pörssissä voi aueta nyt hyviä ostopaikkoja: Salkunhoitaja antaa kuitenkin varoituksen kalliista virheestä",
+      "lead": "Maailmalta Suomeen leviävät tekoälypelot voivat lyödä hyvääkin osaketta. OP:n salkunhoitaja Teemu Salonen kertoo, miten sijoittaja voi erottaa ostopaikan kalliista virheestä.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/544e9e65-483e-4a08-8ee5-ab6db90d82a3?utm_source=rss",
+      "published": "2026-11-08T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "Mittauslaitevalmistaja Vaisalan osakkeessa on kova arvostustaso hyvästä syystä – Nyt yhtiö pääsi mukaan myös datakeskusbuumiin",
+      "lead": "Datakeskukset ja sähköistyminen vauhdittavat Vaisalan kannattavinta liiketoimintaa. Yhtiö hyötyy investointiaallosta monia muita myöhemmin, mikä tukee yhtiön näkymiä. Osakkeeseen on kuitenkin jo hinnoiteltu tuloskasvua.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/89c22608-ec86-4be2-ba55-fb3ece8208ef?utm_source=rss",
+      "published": "2026-11-08T04:30:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Anthropicin tekoälylle ei saa enää olla ilkeä",
+      "lead": "Ääritapauksissa jotkut käyttäjät voidaan sulkea pysyvästi yhtiön tekoälyjärjestelmien ulkopuolelle.",
+      "link": "https://www.is.fi/digitoday/art-2000012381346.html",
+      "published": "2026-11-01T23:10:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Nainen valitti verotuksestaan tekoälyllä – ei olisi kannattanut",
+      "lead": "Tekoälyn laatima valitus tuli kalliiksi. Oikeus antoi samalla varoituksen.",
+      "link": "https://www.is.fi/digitoday/art-2000012375099.html",
+      "published": "2026-10-29T13:35:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Nyt tuli vakava epäily ChatGPT:stä",
+      "lead": "Luotettu keskustelukumppani voi olla jotain aivan muuta, Cybernews varoittaa.",
+      "link": "https://www.is.fi/digitoday/art-2000012359485.html",
+      "published": "2026-10-27T18:57:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Tekoäly toimi omin luvin Tampereella: ”Sitä on ehdottomasti kielletty”",
+      "lead": "Tekoäly karkasi omille teilleen.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012356718.html",
+      "published": "2026-10-24T05:23:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Tekoäly läväytti toimitus­johtajan pankki­tilin saldon työn­tekijöiden nähtäville",
+      "lead": "– Se yksinkertaisesti luuli, että halusin sen julkaisevan taloustietoni koko yritykselle, toimitusjohtaja kuvailee.",
+      "link": "https://www.is.fi/digitoday/art-2000012350833.html",
+      "published": "2026-10-19T05:50:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    }
+  ]
+}
