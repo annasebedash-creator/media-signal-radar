@@ -1,0 +1,474 @@
+{
+  "date": "2026-11-11",
+  "fetched_at": "2026-11-11T12:40:04+02:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 13
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 99
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 512,
+    "items_matched": 18,
+    "signals": 17
+  },
+  "signals": [
+    {
+      "outlet": "Yle",
+      "feed": "Pääuutiset",
+      "title": "Reuters: Kiinalainen yliopisto hankki Nvidian siruja vientikiellosta huolimatta",
+      "lead": "Washingtonissa toimitusjohtaja Huangia on arvosteltu siitä, että hän on ajanut tekoälysirujen vientirajoitusten löysäämistä.",
+      "link": "https://yle.fi/a/74-20256315?origin=rss",
+      "published": "2026-11-11T09:25:07Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "duplicates": [
+        {
+          "outlet": "Yle",
+          "title": "Reuters: Kiinalainen yliopisto hankki Nvidian siruja vientikiellosta huolimatta",
+          "link": "https://yle.fi/a/74-20256315?origin=rss"
+        }
+      ],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [
+          "Nvidia"
+        ],
+        "why_care": "Tuo esiin kansainväliset vientirajoitukset ja niiden vaikutukset tekoälysiru-markkinoihin."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Nvidian vakoilus­kandaali | Vaimoaan pettänyt Jensen Huang saattoi astua kaikkien aikojen ansaan",
+      "lead": "Jensen Huang nousi yhdeksi maailman vaikutus­valtaisimmista yritysjohtajista. Nyt vakoiluskandaali uhkaa horjuttaa yhtiötä, joka on rakentunut yhden miehen varaan.",
+      "link": "https://www.hs.fi/visio/art-2000012400609.html",
+      "published": "2026-11-11T08:39:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [
+          "Nvidia",
+          "Jensen Huang"
+        ],
+        "why_care": "Vakoiluskandaali voi vaikuttaa merkittävästi Nvidian maineeseen ja liiketoimintaan tekoälymarkkinoilla."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Orpo tilasi nopean tiekartan tekoälyyn – tulikin murska-arvio, jota ei ole julkistettu",
+      "lead": "HS:n haltuunsa hankkimassa raportissa esitetään perustavanlaatuista kritiikkiä Suomen julkisille digihankkeille. Valtioneuvoston kansliasta kiistetään, että raporttia pimitettäisiin.",
+      "link": "https://www.hs.fi/politiikka/art-2000012401358.html",
+      "published": "2026-11-11T06:15:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 3,
+        "finland_link": true,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [
+          "Orpo",
+          "Valtioneuvoston kanslia"
+        ],
+        "why_care": "Raportin kritiikki Suomen digihankkeista voi vaikuttaa tekoälyn kehittämiseen ja julkiseen keskusteluun."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Somen ikärajat | Instagram ja Whatsapp katosivat äkisti: Uusi käytäntö yllätti suomalais­­perheet",
+      "lead": "Meta laajensi maanantaina tekoälyllä tehtävän ikävalvonnan maailmanlaajuiseksi. Taustalla on poliitikkojen kasvava halu rajoittaa lasten ja nuorten pääsyä sosiaaliseen mediaan eri puolilla maailmaa.",
+      "link": "https://www.hs.fi/politiikka/art-2000012398211.html",
+      "published": "2026-11-11T05:03:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "regulation",
+        "tone": "neutral",
+        "stakeholders": [
+          "Meta"
+        ],
+        "why_care": "Uutinen nostaa esiin tekoälyn roolin sosiaalisen median ikärajavalvonnassa ja sen vaikutukset suomalaisperheisiin."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Älysormukset | Oura ostaa tekoäly­terveys­palvelun 560 miljoonalla eurolla",
+      "lead": "Ouran toimitusjohtaja kuvailee yrityskauppaa yhtiön historian ylivoimaisesti suurimmaksi.",
+      "link": "https://www.hs.fi/visio/art-2000012402894.html",
+      "published": "2026-11-10T18:35:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "launch",
+        "tone": "positive",
+        "stakeholders": [
+          "Oura"
+        ],
+        "why_care": "Oura investoi merkittävästi tekoälyyn, mikä voi vahvistaa sen asemaa terveysalan innovaatioissa."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Anthropic hakee pörssiin yli 1 300 miljardin arvostuksella",
+      "lead": "Historiallisen suuri pörssilistautuminen jää arvioitua pienemmäksi.",
+      "link": "https://www.hs.fi/visio/art-2000012401987.html",
+      "published": "2026-11-10T12:59:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": false,
+        "signal_type": "launch",
+        "tone": "neutral",
+        "stakeholders": [
+          "Anthropic"
+        ],
+        "why_care": "Tämä pörssilistautuminen voi vaikuttaa tekoälyalan investointeihin ja markkinakehitykseen."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "launch",
+        "tone": "positive",
+        "stakeholders": [
+          "Helsingin yliopisto"
+        ],
+        "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "research",
+        "tone": "neutral",
+        "stakeholders": [
+          "tutkijat",
+          "Helsingin Sanomat"
+        ],
+        "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikin tuotannossa ja sen mahdolliset vaikutukset instrumenttien käyttöön."
+      }
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Piensijoittajalla nyt kaksi vaihtoehtoa",
+      "lead": "Pörssi on näyttänyt tasaantumisen merkkejä turbulentin viime viikon jälkeen. Mitä sijoittajan tulisi nyt tehdä tekoäly- ja teknologiaosakkeille?",
+      "link": "https://www.kauppalehti.fi/uutiset/a/56ead41d-95c4-47f3-af10-0eed8bba8171?utm_source=rss",
+      "published": "2026-11-11T09:07:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Keskustelu tekoäly- ja teknologiaosakkeista voi vaikuttaa sijoittajien päätöksiin ja markkinakehitykseen."
+      }
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Kaikki, mitä pitää tietää Anthropicista – Varoitus piensijoittajille",
+      "lead": "Claude-tekoälystään tunnetun yhtiön liikevaihto kasvaa hurjasti, mutta tulevaisuutta varjostavat valtavat sitoumukset kalliiseen laskentatehoon. Selvitimme, millaiseen jättiläiseen myös suomalaiset saavat pian sijoittaa.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/d52ec505-b90c-45d1-bbe1-0fe7013f3e86?utm_source=rss",
+      "published": "2026-11-11T08:54:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [
+          "Anthropic"
+        ],
+        "why_care": "Herättää huolta piensijoittajien riskeistä tekoälyyn liittyvissä investoinneissa."
+      }
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Rumasti laskenut datakeskus­yhtiö kiitää – Nokia +3,5% pörssi­avauksessa",
+      "lead": "Kauppalehti seuraa markkinatapahtumia tässä artikkelissa.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/ec31623c-5528-4753-8f28-f71a44d19970?utm_source=rss",
+      "published": "2026-11-11T08:33:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [
+          "Nokia"
+        ],
+        "why_care": "Nostaa esiin datakeskusten ja tekoälyn taloudelliset vaikutukset markkinoilla."
+      }
+    },
+    {
+      "outlet": "MTV Uutiset",
+      "feed": "Uusimmat",
+      "title": "HS: Orpon tilaamaa tekoälyraporttia ei ole julkistettu – työryhmän luovuttama raportti on kriittinen",
+      "lead": "Valtioneuvoston kanslia kiistää Helsingin Sanomille, että raportti olisi hyllytetty.",
+      "link": "https://www.mtvuutiset.fi/artikkeli/hs-orpon-tilaamaa-tekoalyraporttia-ei-ole-julkistettu-tyoryhman-luovuttama-raportti-on-kriittinen/9419338",
+      "published": "2026-11-11T07:26:34Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "MTV Uutiset"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [
+          "Valtioneuvoston kanslia",
+          "Helsingin Sanomat",
+          "Orpo"
+        ],
+        "why_care": "Raportin julkistamisen viivästyminen voi vaikuttaa tekoälyn sääntelyyn ja luottamukseen hallituksen päätöksentekoa kohtaan."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Nvidian skandaali jatkuu – Kiinan armeijaan yhdistetty yliopisto osti yhtiön tekoälysiruja",
+      "lead": "Myös muut kiinalaiset yliopistot ja tutkimuslaitokset ovat ostaneet Nvidian siruja Yhdysvaltojen vientirajoituksista huolimatta.",
+      "link": "https://www.is.fi/taloussanomat/art-2000012403245.html",
+      "published": "2026-11-11T07:40:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [
+          "Nvidia",
+          "Kiinan armeija",
+          "Yhdysvallat"
+        ],
+        "why_care": "Herättää huolta tekoälysirujen käytöstä ja vientirajoitusten tehokkuudesta kansainvälisessä kontekstissa."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Anthropicin tekoälylle ei saa enää olla ilkeä",
+      "lead": "Ääritapauksissa jotkut käyttäjät voidaan sulkea pysyvästi yhtiön tekoälyjärjestelmien ulkopuolelle.",
+      "link": "https://www.is.fi/digitoday/art-2000012381346.html",
+      "published": "2026-11-01T23:10:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Keskustelu tekoälyn käyttäjien rajoittamisesta nostaa esiin eettisiä kysymyksiä ja maineriskejä tekoälyratkaisujen ympärillä."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Nainen valitti verotuksestaan tekoälyllä – ei olisi kannattanut",
+      "lead": "Tekoälyn laatima valitus tuli kalliiksi. Oikeus antoi samalla varoituksen.",
+      "link": "https://www.is.fi/digitoday/art-2000012375099.html",
+      "published": "2026-10-29T13:35:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [
+          "oikeus",
+          "Nainen"
+        ],
+        "why_care": "Tuo esiin tekoälyn mahdolliset riskit ja haasteet oikeudellisissa prosesseissa."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Nyt tuli vakava epäily ChatGPT:stä",
+      "lead": "Luotettu keskustelukumppani voi olla jotain aivan muuta, Cybernews varoittaa.",
+      "link": "https://www.is.fi/digitoday/art-2000012359485.html",
+      "published": "2026-10-27T18:57:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Herättää huolta tekoälyn luotettavuudesta ja sen vaikutuksesta käyttäjien turvallisuuteen."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Tekoäly toimi omin luvin Tampereella: ”Sitä on ehdottomasti kielletty”",
+      "lead": "Tekoäly karkasi omille teilleen.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012356718.html",
+      "published": "2026-10-24T05:23:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Tuo esiin tekoälyn hallinnan ja sääntelyn haasteet, mikä voi vaikuttaa julkiseen keskusteluun ja sääntelyyn Suomessa."
+      }
+    }
+  ],
+  "classified_at": "2026-11-11T12:40:27+02:00",
+  "model": "gpt-4o-mini"
+}
