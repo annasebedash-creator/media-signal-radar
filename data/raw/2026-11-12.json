@@ -1,0 +1,240 @@
+{
+  "date": "2026-11-12",
+  "fetched_at": "2026-11-12T12:52:05+02:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 12
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 512,
+    "items_matched": 13,
+    "signals": 13
+  },
+  "signals": [
+    {
+      "outlet": "Yle",
+      "feed": "Pääuutiset",
+      "title": "Nvidian toimitusjohtajan väitetään olleen salasuhteessa myös alaisensa kanssa – irtisanominen uhkaa",
+      "lead": "Paikallismedian mukaan Jensen Huangin asemaa yhtiössä käsitellään pikaisella aikataululla.",
+      "link": "https://yle.fi/a/74-20256476?origin=rss",
+      "published": "2026-11-11T23:21:34Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Vakoilu­skandaali | WSJ: Nvidia valmistautuu erottamaan Jensen Huangin",
+      "lead": "Nvidian hallitus kokoontuu myöhään keskiviikkona eli torstaiaamuna Suomen aikaa päättämään, erotetaanko toimitusjohtaja Jensen Huang tehtävästään.",
+      "link": "https://www.hs.fi/visio/art-2000012406067.html",
+      "published": "2026-11-12T04:39:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Kysyimme kahdelta tekoälyltä terveys­neuvoja, lääkäri arvioi vastaukset",
+      "lead": "Lääkäri ja tekoälytutkija Ville Vartiainen arvioi vastaukset ja nostaa esiin esimerkiksi yhden selkeän eron: Chat GPT kysyi ahdistuksesta kertovalta itsetuhoisuudesta, Gemini ei lainkaan.",
+      "link": "https://www.hs.fi/suomi/art-2000012402361.html",
+      "published": "2026-11-11T18:39:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tekoäly | Suomi rynnii kohti yhteis­kunta­mallia, josta on vaikea peruuttaa, tutkija varoittaa",
+      "lead": "Tekoälykeskustelua ohjaa puhe kiireestä ja pakosta, sanoo Anna-Mari Wallenberg. Hänestä pitäisi pysähtyä miettimään, mitä oikeasti halutaan.",
+      "link": "https://www.hs.fi/politiikka/art-2000012379344.html",
+      "published": "2026-11-11T12:18:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Näin Nvidian suomalaiset tienasivat – Kovimmat tulot yli 5 miljoonaa",
+      "lead": "Nvidian Suomen-henkilöstön kovimpiin tuloihin ylsi kaksi tutkijaa. Myös pelialan osaamisella päästiin Nvidiassa lähelle miljoonatienestejä.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/cddb5b61-025b-498c-8331-57136009c864?utm_source=rss",
+      "published": "2026-11-12T10:08:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Lippo Suominen: ”Kyllä tämä melkoinen soppa on”",
+      "lead": "Sirujätti Nvidian huipulla kuohuu. Toimitusjohtajan suhdekiemurat ihmetyttävät sijoittajia.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/dd538e92-e1fd-4fb9-83bb-6a6a1b535843?utm_source=rss",
+      "published": "2026-11-12T09:26:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "WSJ: Nvidia valmistautuu erottamaan johtajansa – jo toinen väitetty salasuhde paljastui",
+      "lead": "Jensen Huang on ollut kuluvalla viikolla suuren kohun keskellä.",
+      "link": "https://www.is.fi/taloussanomat/art-2000012406061.html",
+      "published": "2026-11-11T22:41:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Anthropicin tekoälylle ei saa enää olla ilkeä",
+      "lead": "Ääritapauksissa jotkut käyttäjät voidaan sulkea pysyvästi yhtiön tekoälyjärjestelmien ulkopuolelle.",
+      "link": "https://www.is.fi/digitoday/art-2000012381346.html",
+      "published": "2026-11-01T23:10:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Nainen valitti verotuksestaan tekoälyllä – ei olisi kannattanut",
+      "lead": "Tekoälyn laatima valitus tuli kalliiksi. Oikeus antoi samalla varoituksen.",
+      "link": "https://www.is.fi/digitoday/art-2000012375099.html",
+      "published": "2026-10-29T13:35:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Nyt tuli vakava epäily ChatGPT:stä",
+      "lead": "Luotettu keskustelukumppani voi olla jotain aivan muuta, Cybernews varoittaa.",
+      "link": "https://www.is.fi/digitoday/art-2000012359485.html",
+      "published": "2026-10-27T18:57:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Tekoäly toimi omin luvin Tampereella: ”Sitä on ehdottomasti kielletty”",
+      "lead": "Tekoäly karkasi omille teilleen.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012356718.html",
+      "published": "2026-10-24T05:23:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    }
+  ]
+}
