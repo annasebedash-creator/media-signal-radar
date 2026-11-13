@@ -1,0 +1,321 @@
+{
+  "date": "2026-11-13",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Helsingin yliopiston suosittu tekoälykurssi jatkuu, ja sen tavoitteena on opettaa tekoälyn perusteet prosentille maailman väestöstä.",
+    "Jensen Huangin ero Nvidiasta voi vaikuttaa merkittävästi tekoälyalan kehitykseen ja kilpailutilanteeseen globaalisti.",
+    "Suomalaisrekrytoijat kohtaavat haasteita, kun tekoälyä käytetään väärin työnhakuprosesseissa, mikä voi vaikuttaa rekrytointimenettelyihin."
+  ],
+  "top_signals": [
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    },
+    {
+      "title": "Bloomberg: Alice Huangin yhtiö sai haltuunsa kiellettyjä tekoälysiruja",
+      "lead": "Yhdysvallat on kieltänyt sirujen viennin Kiinaan.",
+      "link": "https://yle.fi/a/74-20256824?origin=rss",
+      "outlet": "Yle",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "regulation",
+      "tone": "neutral",
+      "stakeholders": [
+        "Yhdysvallat",
+        "Alice Huang",
+        "Kiina"
+      ],
+      "why_care": "Kuvastaa kansainvälisiä sääntelyhaasteita tekoälysirujen viennissä ja niiden vaikutuksia markkinoihin."
+    },
+    {
+      "title": "Kohtalokas syrjähyppy | Jensen Huangin lähtö voi sekoittaa koko teko­äly­alan",
+      "lead": "Nvidia-pomon suhteet voivat muuttaa suurvaltojen teknologiakilpailua ja koko maailman taloutta.",
+      "link": "https://www.hs.fi/visio/art-2000012406360.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Jensen Huang",
+        "Nvidia"
+      ],
+      "why_care": "Jensen Huangin lähtö voi vaikuttaa merkittävästi tekoälyalan kehitykseen ja kilpailutilanteeseen globaalisti."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Jotkut väärentävät kasvonsa saadakseen töitä – näin outo huijaus toimii",
+      "lead": "Suomalaisrekrytoijat kohtaavat etähaastatteluissa hakijoita, jotka yrittävät huijata tekoälyn avulla. Yle testasi kasvojen ja äänen väärentämistä videopuhelussa.",
+      "link": "https://yle.fi/a/74-20254592?origin=rss",
+      "outlet": "Yle",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "suomalaisrekrytoijat",
+        "Yle"
+      ],
+      "why_care": "Tuo esiin tekoälyn mahdolliset väärinkäytöt rekrytoinnissa ja sen vaikutukset työnhakuprosessiin."
+    },
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "tutkijat",
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikin tuotannossa ja sen mahdolliset vaikutukset instrumenttien käyttöön."
+    },
+    {
+      "title": "Aleksi Aaltosen kolumni: Datakeskuskriitikkoja kannattaa kuunnella, vaikka heillä ei olisi tarjota vaihtoehtoja",
+      "lead": "Datan merkitys yhteiskunnassa kasvaa entisestään, ja jossainhan se data pitää säilöä ja prosessoida. Miksipä ei siis Suomessa, Aleksi Aaltonen kirjoittaa kolumnissaan.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/90020434-5e50-4a28-950a-5dae1c6d7021?utm_source=rss",
+      "outlet": "Tekniikka&Talous",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Aleksi Aaltonen"
+      ],
+      "why_care": "Kolumni nostaa esiin datakeskusten merkityksen ja keskustelun tarpeen niiden ympärillä."
+    },
+    {
+      "title": "Nainen valitti verotuksestaan tekoälyllä – ei olisi kannattanut",
+      "lead": "Tekoälyn laatima valitus tuli kalliiksi. Oikeus antoi samalla varoituksen.",
+      "link": "https://www.is.fi/digitoday/art-2000012375099.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "oikeus"
+      ],
+      "why_care": "Tuo esiin tekoälyn mahdolliset riskit ja haasteet oikeudellisissa prosesseissa."
+    },
+    {
+      "title": "Vakoiluskandaali | Jensen Huangin läheisestä suhteesta Alice Huangiin varoitettiin jo toukokuussa",
+      "lead": "Nvidian toimitusjohtaja Jensen Huang lobbasi Yhdysvaltoja avaamaan Kiinan markkinat amerikkalaisille tekoälysiruille. Vakoiluskandaalin ytimessä on kiista, jossa vastakkain ovat miljardibisnes ja Yhdysvaltain turvallisuus.",
+      "link": "https://www.hs.fi/visio/art-2000012406646.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "Jensen Huang",
+        "Alice Huang",
+        "Yhdysvallat"
+      ],
+      "why_care": "Korostaa tekoälysirujen kansainvälisiä kauppasuhteita ja turvallisuuskysymyksiä."
+    },
+    {
+      "title": "Nvidian arvostus painui historiallisen alas – Analyytikot korjaavat nyt joukolla näkemyksiään",
+      "lead": "Piensijoittajat ovat tankanneet innolla Nvidian halvan näköistä osaketta. Kokosimme analyytikoiden näkemyksiä osakkeesta toimitusjohtajan suhdeskandaalin ja eron jälkeen.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/86e1be12-ba6f-4851-acc5-3286fe60722b?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Analyytikoiden korjaavat näkemykset voivat vaikuttaa sijoittajien luottamukseen ja markkinakehitykseen."
+    },
+    {
+      "title": "Sijoittajat myyvät tekoälytähtiä ja ostavat tilalle eri osakkeita – Varaudu seuraavaan käänteeseen",
+      "lead": "Kun tekoälyosakkeet ovat ryskyneet, sijoittajan turvasatama on löytynyt tutuista yhtiöistä, joista on vedetty komeita tuottoja viime aikoina. Oman salkun äkillisessä mylläämisessä on asiantuntijan mukaan kuitenkin nyt vaaransa.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/ceb21815-2d15-449c-b69d-f0df0b0927c5?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tuo esiin sijoittajien käyttäytymisen muutokset tekoälyosakkeiden ympärillä ja niiden vaikutukset markkinoihin."
+    },
+    {
+      "title": "NYT: Trumpia varoitettiin Nvidian kohujohtajasta ainakin kahdesti – kehotti silti ystäväänsä taistelemaan",
+      "lead": "Trump tuki Nvidian toimitusjohtajaa loppuun asti.",
+      "link": "https://www.mtvuutiset.fi/artikkeli/nyt-trumpia-varoitettiin-nvidian-kohujohtajasta-ainakin-kahdesti-kehotti-silti-ystavaansa-taistelemaan/9420566",
+      "outlet": "MTV Uutiset",
+      "outlets": [
+        "MTV Uutiset"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Keskustelu Nvidian johdon ympärillä voi vaikuttaa tekoälyalan yritysten maineeseen ja sijoittajien luottamukseen."
+    },
+    {
+      "title": "Nahkatakkisen miljardöörin epäillään pettäneen vaimoaan jo kolmen naisen kanssa – lähtö tuli",
+      "lead": "Jensen Huang rakensi Nvidiasta yhden maailman arvokkaimmista yrityksistä. Nyt nahkatakeistaan tunnettu miljardööri on eronnut keskellä salasuhteisiin ja vakoiluepäilyyn liittyvää kohua. Millainen mies on tekoälyjätin menestyksen takana?",
+      "link": "https://www.is.fi/taloussanomat/art-2000012404732.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Jensen Huang",
+        "Nvidia"
+      ],
+      "why_care": "Herättää keskustelua tekoälyjättien johtajien henkilökohtaisista elämistä ja niiden vaikutuksesta yritysten imagoon."
+    },
+    {
+      "title": "Sähköpostissa ongelmia maailmanlaajuisesti",
+      "lead": "Häiriöt ovat vaikuttaneet muun muassa Teamsiin, Outlookiin ja Copilot-tekoälyohjelmistoon.",
+      "link": "https://www.is.fi/digitoday/art-2000012409168.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Ongelmien esiintyminen tekoälyohjelmistossa voi herättää huolta käyttäjien keskuudessa ja vaikuttaa luottamukseen teknologian toimivuuteen."
+    },
+    {
+      "title": "NYT: Trump kehotti Jensen Huangia taistelemaan työpaikkansa puolesta",
+      "lead": "Tekoälybuumin keskiössä olleella Jensen Huangilla on ollut paljon vaikutusvaltaa Trumpin hallintoon.",
+      "link": "https://www.is.fi/taloussanomat/art-2000012409211.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Trump",
+        "Jensen Huang"
+      ],
+      "why_care": "Keskustelu tekoälyn vaikutuksesta työmarkkinoihin on ajankohtaista ja herättää huolta tulevaisuuden työllisyydestä."
+    },
+    {
+      "title": "Jensen Huang eroaa – tätä se tarkoittaa",
+      "lead": "Nvidian hallitus on tehnyt yhteistyötä ulkopuolisen yrityksen kanssa kartoittaakseen mahdollisia seuraajia Huangille.",
+      "link": "https://www.is.fi/ulkomaat/art-2000012406076.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Jensen Huangin ero voi vaikuttaa Nvidian tulevaisuuden suuntaviivoihin ja siten myös tekoälymarkkinoiden kehitykseen."
+    },
+    {
+      "title": "Anthropicin tekoälylle ei saa enää olla ilkeä",
+      "lead": "Ääritapauksissa jotkut käyttäjät voidaan sulkea pysyvästi yhtiön tekoälyjärjestelmien ulkopuolelle.",
+      "link": "https://www.is.fi/digitoday/art-2000012381346.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Keskustelu tekoälyn käyttäjien rajoittamisesta nostaa esiin eettisiä kysymyksiä tekoälyn hallinnasta."
+    },
+    {
+      "title": "Nyt tuli vakava epäily ChatGPT:stä",
+      "lead": "Luotettu keskustelukumppani voi olla jotain aivan muuta, Cybernews varoittaa.",
+      "link": "https://www.is.fi/digitoday/art-2000012359485.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Herättää huolta tekoälyn luotettavuudesta ja sen vaikutuksista käyttäjien turvallisuuteen."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 512,
+    "signals": 17,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
