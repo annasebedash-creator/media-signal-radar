@@ -1,0 +1,268 @@
+{
+  "date": "2026-11-14",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Helsingin kaupunki suunnittelee Lapinlahden sairaalan muuttamista tekoälyfirman pääkonttoriksi, mikä voi vahvistaa kaupungin asemaa tekoälyalan keskittymänä Suomessa.",
+    "Helsingin yliopiston suosittu tekoälykurssi jatkuu, tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä, mikä voi vaikuttaa tulevaisuuden työmarkkinoihin.",
+    "Microsoftin palveluissa ilmenneet 36 tunnin häiriöt voivat heikentää käyttäjien luottamusta tekoälyratkaisuihin ja nostaa esiin teknologian luotettavuuskysymyksiä."
+  ],
+  "top_signals": [
+    {
+      "title": "Datakeskusten sirisevä melu voi tunkeutua koteihin – tutkija: ”Korva ei totu siihen”",
+      "lead": "Tutkijan mukaan todellinen melu selviää, kun laitos käynnistetään. Datakeskusteollisuus toteaa, että Suomessa lainsäädäntö suojaa kansalaisia hyvin.",
+      "link": "https://yle.fi/a/74-20255850?origin=rss",
+      "outlet": "Yle",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "tutkija",
+        "datakeskusteollisuus"
+      ],
+      "why_care": "Tuo esiin datakeskusten ympäristövaikutukset ja lainsäädännön roolin kansalaisten suojelemisessa."
+    },
+    {
+      "title": "HS:n tiedot | Helsingin kaupunki haluaa Lapin­lahden sairaalasta tekoäly­firman pää­konttorin",
+      "lead": "HS:n lähteiden mukaan Lapinlahden vanhan sairaalan päävuokralaiseksi havitellaan tekoälysijoittaja Peter Sarlinin kotimaista NestAI:ta.",
+      "link": "https://www.hs.fi/helsinki/art-2000012411120.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "neutral",
+      "stakeholders": [
+        "Helsingin kaupunki",
+        "Peter Sarlin",
+        "NestAI"
+      ],
+      "why_care": "Tämä voi vaikuttaa Helsingin kaupungin rooliin tekoälyalan keskittymänä Suomessa."
+    },
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    },
+    {
+      "title": "Googlen energiajohtajalta tuli yllättävä ehdotus",
+      "lead": "Suomessa vieraillut Googlen energiajohtaja Aris Karcanias vakuuttaa, etteivät yhtiön datakeskusinvestoinnit yksin nosta sähkön hintaa Suomessa.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/d0c17795-b820-41e5-b831-3590ce135257?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Googlen",
+        "Aris Karcanias"
+      ],
+      "why_care": "Herättää keskustelua datakeskusten vaikutuksesta sähkön hintaan Suomessa."
+    },
+    {
+      "title": "Suomen datakeskus­buumin taustalla vaikuttaa joukko kovatuloisia miehiä",
+      "lead": "Jättimäisten datakeskus­hankkeiden taustalla on joukko suomalaisia yritysjohtajia ja yrittäjiä, joiden verotettavat tulot ylsivät viime vuonna satoihin tuhansiin euroihin.",
+      "link": "https://www.is.fi/taloussanomat/art-2000012406736.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "suomalaisia yritysjohtajia",
+        "yrittäjiä"
+      ],
+      "why_care": "Korostaa datakeskushankkeiden taloudellista merkitystä ja niiden taustalla olevia toimijoita."
+    },
+    {
+      "title": "Nainen valitti verotuksestaan tekoälyllä – ei olisi kannattanut",
+      "lead": "Tekoälyn laatima valitus tuli kalliiksi. Oikeus antoi samalla varoituksen.",
+      "link": "https://www.is.fi/digitoday/art-2000012375099.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "oikeus"
+      ],
+      "why_care": "Tuo esiin tekoälyn mahdolliset riskit ja haasteet oikeudellisissa prosesseissa."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Analyysi: Mitä tapahtuu tekoälybuumille, kun sen suurin hypettäjä on poissa?",
+      "lead": "Jensen Huang vaikutti vuosien ajan tekoälyn suuntaan. Nyt vaihtoehtoisille visioille aukeaa tilaa, kirjoittaa teknologiatoimittaja Teemu Hallamaa.",
+      "link": "https://yle.fi/a/74-20256737?origin=rss",
+      "outlet": "Yle",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Jensen Huang",
+        "Teemu Hallamaa"
+      ],
+      "why_care": "Keskustelu tekoälybuumin tulevaisuudesta voi vaikuttaa investointipäätöksiin ja alan kehityssuuntiin."
+    },
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikin tuotannossa ja sen mahdolliset vaikutukset instrumenttien käyttöön."
+    },
+    {
+      "title": "HS Washingtonissa | Häiriö toi aavemaisen tunnelman vilkkaalle lento­asemalle",
+      "lead": "Lentämisen turvallisuus ja mahdollinen tekoälyn rooli mietityttävät matkustajia tavallisesti vilkkaalla lentokentällä Washingtonin kupeessa.",
+      "link": "https://www.hs.fi/kirjeenvaihtajat/art-2000012412240.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Keskustelu tekoälyn roolista lentoturvallisuudessa voi vaikuttaa yleiseen mielipiteeseen ja sääntelyyn alalla."
+    },
+    {
+      "title": "Päivän Ranta | Tähän ei tekoäly pysty",
+      "lead": "",
+      "link": "https://www.hs.fi/kulttuuri/art-2000012410342.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Korostaa tekoälyn rajoituksia ja herättää keskustelua sen kyvykkyydestä."
+    },
+    {
+      "title": "Häiriöitä 36 tunnin ajan – Microsoft: Ongelmat selätetty",
+      "lead": "Microsoftin ongelmat ilmenivät muun muassa Outlookin, Teamsin ja tekoälyavustaja Copilotin toimimattomuutena.",
+      "link": "https://www.mtvuutiset.fi/artikkeli/hairioita-36-tunnin-ajan-microsoft-ongelmat-selatetty/9421020",
+      "outlet": "MTV Uutiset",
+      "outlets": [
+        "MTV Uutiset"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "Microsoft"
+      ],
+      "why_care": "Ongelmat Microsoftin palveluissa voivat vaikuttaa laajasti käyttäjien luottamukseen tekoälyratkaisuihin."
+    },
+    {
+      "title": "Sähköpostissa ongelmia maailmanlaajuisesti",
+      "lead": "Häiriöt ovat vaikuttaneet muun muassa Teamsiin, Outlookiin ja Copilot-tekoälyohjelmistoon.",
+      "link": "https://www.is.fi/digitoday/art-2000012409168.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Ongelmien esiintyminen tekoälyohjelmistossa voi herättää huolta käyttäjien keskuudessa ja vaikuttaa luottamukseen teknologian toimivuuteen."
+    },
+    {
+      "title": "Anthropicin tekoälylle ei saa enää olla ilkeä",
+      "lead": "Ääritapauksissa jotkut käyttäjät voidaan sulkea pysyvästi yhtiön tekoälyjärjestelmien ulkopuolelle.",
+      "link": "https://www.is.fi/digitoday/art-2000012381346.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Keskustelu tekoälyn käyttäjien sulkemisesta nostaa esiin tekoälyn eettiset kysymykset ja käyttäjäoikeudet."
+    },
+    {
+      "title": "Nyt tuli vakava epäily ChatGPT:stä",
+      "lead": "Luotettu keskustelukumppani voi olla jotain aivan muuta, Cybernews varoittaa.",
+      "link": "https://www.is.fi/digitoday/art-2000012359485.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Herättää huolta tekoälyn luotettavuudesta ja sen vaikutuksista käyttäjien turvallisuuteen."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 512,
+    "signals": 14,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
