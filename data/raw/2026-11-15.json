@@ -1,0 +1,274 @@
+{
+  "date": "2026-11-15",
+  "fetched_at": "2026-11-15T12:38:50+02:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 510,
+    "items_matched": 16,
+    "signals": 15
+  },
+  "signals": [
+    {
+      "outlet": "Yle",
+      "feed": "Tuoreimmat",
+      "title": "Megaspeed: Alice Huang ei ole leivissämme",
+      "lead": "Alice Huangin epäilleen vakoilleen Nvidian ex-toimitusjohtajaa Jensen Huangia.",
+      "link": "https://yle.fi/a/74-20257048?origin=rss",
+      "published": "2026-11-15T09:17:02Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Datakeskukset | Jokelan datakeskus olisi turvallisuusuhka",
+      "lead": "Jokelan datakeskus sijoittuisi lähelle asutusta, Päijännetunnelia ja Vantaanjokea.",
+      "link": "https://www.hs.fi/mielipide/art-2000012404868.html",
+      "published": "2026-11-15T00:00:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Kiina | Kun kiinalaisnainen meni naimisiin tekoälyn kanssa, äitiä ei kutsuttu häihin",
+      "lead": "Kiina yrittää hillitä ihmisten kiintymistä tekoälyyn. Moni on kuitenkin jo löytänyt chatti-ikkunasta sielunkumppaninsa.",
+      "link": "https://www.hs.fi/kirjeenvaihtajat/art-2000012303616.html",
+      "published": "2026-11-15T00:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Plussapisteet ovat alkaneet hautoa kapinaa",
+      "lead": "Tekoäly-yhtiöt ja datakeskusfirmat ovat alkaneet saada kansaa vastaansa.",
+      "link": "https://www.hs.fi/paakirjoitukset/art-2000012403391.html",
+      "published": "2026-11-14T16:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "HS Washingtonissa | Häiriö toi aavemaisen tunnelman vilkkaalle lento­asemalle",
+      "lead": "Lentämisen turvallisuus ja mahdollinen tekoälyn rooli mietityttävät matkustajia tavallisesti vilkkaalla lentokentällä Washingtonin kupeessa.",
+      "link": "https://www.hs.fi/kirjeenvaihtajat/art-2000012412240.html",
+      "published": "2026-11-14T06:05:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Tekoälyä voi käyttää huomattavasti halvemmalla kuin moni tajuaa – Asiantuntija vinkkaa, miten rahoista saa kaiken irti",
+      "lead": "Tekoälyn todellinen hinta selviää vasta, kun sitä verrataan saavutettuun hyötyyn. Halvin ratkaisu ei välttämättä tuo suurinta säästöä.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/ba515cb7-dee2-42ec-900d-c23a580a3938?utm_source=rss",
+      "published": "2026-11-15T09:30:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "Suomen isoin pankki varoittaa ankarasti asiakkaita: Tekoäly kielletty – Rikkureilta suljetaan nettipankin tunnukset: ”Meillä on keinoja havaitsemiseen”",
+      "lead": "Tekoälyagentteja kokeillaan maailmalla henkilökohtaisen talouden apuna, mutta pankit suhtautuvat niihin vielä varovaisesti. Suomessa tekoälyagentin päästäminen pankkitilille voi johtaa jopa tunnusten sulkemiseen.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/198dd252-cc23-4a0a-94c0-e523d7d0762a?utm_source=rss",
+      "published": "2026-11-15T09:49:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Nvidia-pomon viimeiset sanat ennen kohueroa: ”Ei kiinnosta”",
+      "lead": "Bloombergin mukaan Huang oli alkanut katumaan tekojaan tiedon tultua julki.",
+      "link": "https://www.is.fi/ulkomaat/art-2000012413052.html",
+      "published": "2026-11-14T18:05:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Internet repesi liitoksistaan Nvidia-pomon sala­suhde­sekoilusta – irvi­leukoja ei pidättele nyt mikään",
+      "lead": "Netissä otettiin ilo irti Jensen Huangin pettämiskohusta.",
+      "link": "https://www.is.fi/digitoday/art-2000012409171.html",
+      "published": "2026-11-14T17:07:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [
+        {
+          "outlet": "Ilta-Sanomat",
+          "title": "Internet repesi liitoksistaan Nvidia-pomon sala­suhde­sekoilusta – irvi­leukoja ei pidättele nyt mikään",
+          "link": "https://www.is.fi/digitoday/art-2000012409171.html"
+        }
+      ]
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Sähköpostissa ongelmia maailmanlaajuisesti",
+      "lead": "Häiriöt ovat vaikuttaneet muun muassa Teamsiin, Outlookiin ja Copilot-tekoälyohjelmistoon.",
+      "link": "https://www.is.fi/digitoday/art-2000012409168.html",
+      "published": "2026-11-13T03:25:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Anthropicin tekoälylle ei saa enää olla ilkeä",
+      "lead": "Ääritapauksissa jotkut käyttäjät voidaan sulkea pysyvästi yhtiön tekoälyjärjestelmien ulkopuolelle.",
+      "link": "https://www.is.fi/digitoday/art-2000012381346.html",
+      "published": "2026-11-01T23:10:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Nainen valitti verotuksestaan tekoälyllä – ei olisi kannattanut",
+      "lead": "Tekoälyn laatima valitus tuli kalliiksi. Oikeus antoi samalla varoituksen.",
+      "link": "https://www.is.fi/digitoday/art-2000012375099.html",
+      "published": "2026-10-29T13:35:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Nyt tuli vakava epäily ChatGPT:stä",
+      "lead": "Luotettu keskustelukumppani voi olla jotain aivan muuta, Cybernews varoittaa.",
+      "link": "https://www.is.fi/digitoday/art-2000012359485.html",
+      "published": "2026-10-27T18:57:00Z",
+      "keyword": "chatgpt",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    }
+  ]
+}
