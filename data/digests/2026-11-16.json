@@ -1,0 +1,347 @@
+{
+  "date": "2026-11-16",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Nokia suunnittelee miljardien eurojen investointia Suomeen tekoälyn infrastruktuurin kehittämiseksi, mikä voi vahvistaa Suomen asemaa teknologian kehityksessä.",
+    "F-Secure vähentää 108 työpaikkaa perustellen muutosta tekoälyn vaikutuksilla, mikä herättää huolta työpaikkojen tulevaisuudesta tietoturvasektorilla.",
+    "Helsingin yliopiston suosittu tekoälykurssi saa jatkoa, tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä, mikä edistää laajaa tekoälyosaamista."
+  ],
+  "top_signals": [
+    {
+      "title": "Tekoäly | Nokia puuhaa miljardien eurojen investointia Suomeen",
+      "lead": "Nokian kumppaneita suunnitteilla olevassa gigatehtaassa ovat Nscale, Telia, Verda ja Skeleton. Nokian Mikko Hautala sanoo HS:lle, että hankkeella on hyvät mahdollisuudet saada EU-rahoitusta, josta käydään kovaa kilpailua.",
+      "link": "https://www.hs.fi/visio/art-2000012405906.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 3,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Nokia",
+        "Nscale",
+        "Telia",
+        "Verda",
+        "Skeleton",
+        "EU"
+      ],
+      "why_care": "Merkittävä investointi tekoälyn infrastruktuuriin voi vahvistaa Suomen asemaa teknologian kehityksessä."
+    },
+    {
+      "title": "Analyysi: Tekoäly uhkaa töitä – hallitus tarjoaa ratkaisua, joka hyödyttäisi harvoja ja varakkaita",
+      "lead": "Tapoja päivittää osaamista on karsittu samaan aikaan, kun työelämän muutos on kiihtynyt, kirjoittaa taloustoimittaja Karla Kempas.",
+      "link": "https://yle.fi/a/74-20256675?origin=rss",
+      "outlet": "Yle",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "hallitus",
+        "Karla Kempas"
+      ],
+      "why_care": "Keskustelu tekoälyn vaikutuksista työmarkkinoihin korostaa osaamisen päivittämisen tarpeita ja mahdollisia eriarvoisuuksia."
+    },
+    {
+      "title": "Kasvuyritykset | Suomeen syntyy ”aidosti lupaavia” tekoäly-yhtiöitä ripeään tahtiin",
+      "lead": "Startup-taustaiset yritykset käyttivät vuonna 2024 tutkimukseen ja tuotekehitykseen 952 miljoonaa euroa ja työllistivät lähes tuhat tohtoria. Uudet startupit ovat yhä useammin tekoäly-yhtiöitä ja lähtevät liikkeelle aiempaa pienemmillä tiimeillä.",
+      "link": "https://www.hs.fi/visio/art-2000012394864.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "positive",
+      "stakeholders": [
+        "startup-taustaiset yritykset"
+      ],
+      "why_care": "Kuvastaa tekoälystartuppien kasvavaa merkitystä Suomen taloudessa ja innovaatiotoiminnassa."
+    },
+    {
+      "title": "Tietoturva | F-Secure vähentää 108 tehtävää, perustelee muutosta tekoälyllä",
+      "lead": "F-Secure perusteli muutosneuvotteluja tekoälyn vaikutuksilla työn tekemiseen ja tietoturvamarkkinaan.",
+      "link": "https://www.hs.fi/visio/art-2000012414738.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "crisis",
+      "tone": "neutral",
+      "stakeholders": [
+        "F-Secure"
+      ],
+      "why_care": "Tämä herättää huolta tekoälyn vaikutuksista työpaikkoihin ja tietoturvasektorin tulevaisuuteen."
+    },
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    },
+    {
+      "title": "Nokia masinoi isoa tekoälyhanketta – paljasti nyt kumppanit",
+      "lead": "Suomessa datakeskus- ja laskentakapasiteettia on tarkoitus rakentaa Ouluun.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/5c13fde4-f241-4b4c-a7c2-b63ce4b295bf?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Nokia"
+      ],
+      "why_care": "Tuo esiin merkittävän investoinnin tekoälyn infrastruktuuriin Suomessa."
+    },
+    {
+      "title": "Nokia suunnittelee massiivista tekoälyprojektia – Nämä ovat miljardihankkeen kumppanit",
+      "lead": "Helsingin Sanomien mukaan Nokia suunnittelee miljardien eurojen investointia Ouluun suunnitteilla olevaan gigatehtaaseen.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/2a074998-9372-4484-8b05-9fe6fd1d81f2?utm_source=rss",
+      "outlet": "Tekniikka&Talous",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Nokia"
+      ],
+      "why_care": "Nokia investoi merkittävästi tekoälyyn, mikä voi vahvistaa Suomen asemaa tekoälyteollisuudessa."
+    },
+    {
+      "title": "Suomalaisyhtiöt rakentamaan Euroopan tekoälyn suurhanketta – Oulu yhdeksi keskuksista",
+      "lead": "Pohjoismaihin ja Baltiaan suunnitellaan laajaa tekoälyinfrastruktuuria.",
+      "link": "https://www.mtvuutiset.fi/artikkeli/suomalaisyhtiot-rakentamaan-euroopan-tekoalyn-suurhanketta-oulu-yhdeksi-keskuksista/9421782",
+      "outlet": "MTV Uutiset",
+      "outlets": [
+        "MTV Uutiset"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "suomalaisyhtiöt",
+        "Oulu"
+      ],
+      "why_care": "Korostaa Suomen roolia Euroopan tekoälyinfrastruktuurin kehittämisessä."
+    },
+    {
+      "title": "Startup-yrityksiä varoitetaan liiasta ulkomaalaisesta rahasta – tekoälyfirma Stoa sai miljoonia",
+      "lead": "Nordea varoittaa startup-yritysten valumisesta liikaa ulkomaiseen omistukseen, koska omistajat päättävät, minne hyöty päätyy.",
+      "link": "https://www.mtvuutiset.fi/artikkeli/startup-yrityksia-varoitetaan-liiasta-ulkomaalaisesta-rahasta-tekoalyfirma-stoa-sai-miljoonia/9420870",
+      "outlet": "MTV Uutiset",
+      "outlets": [
+        "MTV Uutiset"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "Nordea",
+        "Stoa"
+      ],
+      "why_care": "Korostaa huolta suomalaisen startup-kentän omistussuhteista ja niiden vaikutuksesta tekoälyalan kehitykseen."
+    },
+    {
+      "title": "Nokia suunnittelee valtavaa tekoälyhanketta",
+      "lead": "Toimipaikkoja tulisi myös naapurimaihin.",
+      "link": "https://www.is.fi/taloussanomat/art-2000012414838.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "neutral",
+      "stakeholders": [
+        "Nokia"
+      ],
+      "why_care": "Nokia'n suunnitelmat tekoälyhankkeesta voivat vaikuttaa merkittävästi Suomen teknologiateollisuuden kehitykseen."
+    },
+    {
+      "title": "Tekoäly­pomo IS:lle: Suomeen voi rysähtää pian isoja investointeja",
+      "lead": "Yhdysvaltojen välivaaleilla voi olla Suomen julkiseen talouteen jopa käänteentekevä vaikutus.",
+      "link": "https://www.is.fi/ulkomaat/art-2000012411811.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "neutral",
+      "stakeholders": [
+        "IS",
+        "Yhdysvallat"
+      ],
+      "why_care": "Viittaa mahdollisiin merkittäviin investointeihin tekoälyyn Suomessa, mikä voi muuttaa markkinan dynamiikkaa."
+    },
+    {
+      "title": "Nainen valitti verotuksestaan tekoälyllä – ei olisi kannattanut",
+      "lead": "Tekoälyn laatima valitus tuli kalliiksi. Oikeus antoi samalla varoituksen.",
+      "link": "https://www.is.fi/digitoday/art-2000012375099.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "oikeus",
+        "Nainen"
+      ],
+      "why_care": "Tuo esiin tekoälyn mahdolliset riskit ja haasteet oikeudellisissa prosesseissa."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Työnantajat arvioivat nuoren ja tekoälyn tekemät kesätyöhakemukset: katso satoja hakemuksia lukeneiden mielipiteet",
+      "lead": "Tässä jutussa pääset ottamaan mallia kahdesta kehutusta hakemuksesta ja kuulemaan työnantajien vinkkejä kevään kesätyöhakua varten.",
+      "link": "https://yle.fi/a/74-20255968?origin=rss",
+      "outlet": "Yle",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Keskustelu nuorten ja tekoälyn roolista työnhaussa voi vaikuttaa tuleviin rekrytointikäytäntöihin."
+    },
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+    },
+    {
+      "title": "YK:n ilmastopäällikkö korostaa tekoälyn mahdollisuuksia ja vaaroja",
+      "lead": "",
+      "link": "https://yle.fi/a/74-20257139?origin=rss",
+      "outlet": "Yle",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "YK"
+      ],
+      "why_care": "Korostaa tekoälyn mahdollisuuksia ja riskejä ilmastopolitiikassa, mikä voi vaikuttaa tuleviin keskusteluihin ja päätöksiin."
+    },
+    {
+      "title": "Trumpin hallinnosta jyrähdys Nvidialle",
+      "lead": "Tekoälyjätin pitkäaikainen johtaja erosi hiljattain suhdekohun vuoksi.",
+      "link": "https://www.is.fi/ulkomaat/art-2000012413999.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "neutral",
+      "stakeholders": [
+        "Trump",
+        "Nvidia"
+      ],
+      "why_care": "Tuo esiin tekoälyalan johtajien henkilökohtaiset ongelmat ja niiden vaikutukset yrityksiin."
+    },
+    {
+      "title": "Sähköpostissa ongelmia maailmanlaajuisesti",
+      "lead": "Häiriöt ovat vaikuttaneet muun muassa Teamsiin, Outlookiin ja Copilot-tekoälyohjelmistoon.",
+      "link": "https://www.is.fi/digitoday/art-2000012409168.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Ongelmien esiintyminen tekoälyohjelmistossa voi herättää huolta käyttäjien keskuudessa ja vaikuttaa tekoälyn luotettavuuteen."
+    },
+    {
+      "title": "Anthropicin tekoälylle ei saa enää olla ilkeä",
+      "lead": "Ääritapauksissa jotkut käyttäjät voidaan sulkea pysyvästi yhtiön tekoälyjärjestelmien ulkopuolelle.",
+      "link": "https://www.is.fi/digitoday/art-2000012381346.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Keskustelu tekoälyn käyttäjien sulkemisesta nostaa esiin tekoälyn eettiset kysymykset ja käyttäjäoikeudet."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 514,
+    "signals": 18,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
