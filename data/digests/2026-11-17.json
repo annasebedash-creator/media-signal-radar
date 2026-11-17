@@ -1,0 +1,313 @@
+{
+  "date": "2026-11-17",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Kalifornian syytökset Open AI:ta kohtaan Hugging Face -murtoon liittyen korostavat tekoälyn turvallisuuskysymyksiä ja kehittäjien vastuuta.",
+    "Helsingin yliopiston suosittu tekoälykurssi saa jatkoa, mikä edistää tekoälyosaamista ja voi vaikuttaa tulevaisuuden työmarkkinoihin.",
+    "Google rakentaa logistiikkakeskuksen Sipooseen, mikä voi vaikuttaa datakeskusten infrastruktuuriin Suomessa."
+  ],
+  "top_signals": [
+    {
+      "title": "Tekoäly | Kalifornian mukaan Open AI tiesi Hugging Face -murtoon johtaneen kokeen riskit",
+      "lead": "Osavaltio väittää Open AI:n testanneen vaarallisiksi tietämiään tekoälymalleja puutteellisesti suojatussa ympäristössä.",
+      "link": "https://www.hs.fi/visio/art-2000012417330.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 3,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "Kalifornia",
+        "Open AI"
+      ],
+      "why_care": "Korostaa tekoälyn turvallisuuskysymyksiä ja vastuuta kehittäjien puolelta."
+    },
+    {
+      "title": "Kyberhyökkäyksen uhriksi joutunut kauppias kertoo soitosta aamuyöllä – tällaista minuuttipeliä kyberiskuista on tullut",
+      "lead": "Kyberhyökkäyksistä on tullut aiempaa nopeampia tekoälyn avulla. Tietoturva-asiantuntija pitää muutosta huolestuttavana.",
+      "link": "https://yle.fi/a/74-20256414?origin=rss",
+      "outlet": "Yle",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "kauppias",
+        "tietoturva-asiantuntija"
+      ],
+      "why_care": "Kyberhyökkäysten nopeutuminen tekoälyn avulla nostaa esiin tietoturvahaasteet ja maineriskit yrityksille."
+    },
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    },
+    {
+      "title": "Pekka Lundmark: Monella yrityksellä on hyödyntämätön kultakaivos",
+      "lead": "Nokian entinen toimitusjohtaja peräänkuuluttaa yritysjohtajia valjastamaan tehtaiden ja koneiden datan uudenlaisen tekoälyn kehittämiseen. Eurooppa ei voi tyytyä pelkäksi datakeskusten sijoituspaikaksi.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/88693bf0-9d45-4776-bd1e-9df7dbf4a1a0?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Pekka Lundmark",
+        "Nokia"
+      ],
+      "why_care": "Korostaa tekoälyn kehittämisen mahdollisuuksia teollisuudessa ja datan hyödyntämistä."
+    },
+    {
+      "title": "Nainen valitti verotuksestaan tekoälyllä – ei olisi kannattanut",
+      "lead": "Tekoälyn laatima valitus tuli kalliiksi. Oikeus antoi samalla varoituksen.",
+      "link": "https://www.is.fi/digitoday/art-2000012375099.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "oikeus",
+        "nainen"
+      ],
+      "why_care": "Tuo esiin tekoälyn mahdolliset riskit ja haasteet oikeudellisissa prosesseissa."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Noora Saksa, 26, ei ole koskaan elänyt talouskasvun aikaa – haluaa haastaa Nvidian",
+      "lead": "Slushin toimitusjohtaja Noora Saksa vaatii Suomelta teknologiastrategiaa ja lisää rohkeutta.",
+      "link": "https://yle.fi/a/74-20256189?origin=rss",
+      "outlet": "Yle",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Noora Saksa",
+        "Suomi",
+        "Nvidia"
+      ],
+      "why_care": "Korostaa tarpeen kehittää teknologiastrategiaa Suomessa tekoälyn ja teknologian kentällä."
+    },
+    {
+      "title": "Vakoiluskandaali | Suomalainen salkun­hoitaja pitää Nvidiaa liian riskialttiina – ”Seuraan show’ta popcornia syöden”",
+      "lead": "Monet haluavat pettämisskandaalin keskellä olevan Jensen Huangin takaisin yhtiön johtoon. Suomalaiset salkunhoitajat ovat asiasta erimielisiä.",
+      "link": "https://www.hs.fi/visio/art-2000012415234.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Nvidia",
+        "Jensen Huang"
+      ],
+      "why_care": "Keskustelu Nvidian riskisyydestä voi vaikuttaa sijoittajien luottamukseen tekoälyteknologioihin."
+    },
+    {
+      "title": "Datakeskukset | HBL: Google rakentaa Sipooseen logistiikka­keskuksen",
+      "lead": "Kyseessä on varasto, jossa säilytetään yhtiön datakeskusten tarvitsemia materiaaleja, Google kertoo HBL:lle.",
+      "link": "https://www.hs.fi/visio/art-2000012417932.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "neutral",
+      "stakeholders": [
+        "Google"
+      ],
+      "why_care": "Google rakentaa logistiikkakeskuksen, mikä voi vaikuttaa datakeskusten infrastruktuuriin Suomessa."
+    },
+    {
+      "title": "Johtaminen | Risto Siilasmaalla on satoja tekoäly­agentteja ja huonoja uutisia tieto­työläisille",
+      "lead": "Teknologiavaikuttaja Risto Siilasmaan tekoälylasku nousi 14 000 euroon kuukaudessa. Uudessa kirjassaan hän kertoo, miten tekoäly tekee johtajista parempia.",
+      "link": "https://www.hs.fi/visio/art-2000012398241.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Risto Siilasmaa"
+      ],
+      "why_care": "Herättää keskustelua tekoälyn vaikutuksista johtamiseen ja työelämään."
+    },
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "tutkijat",
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikin tuotannossa ja sen mahdolliset vaikutukset instrumenttien käyttöön."
+    },
+    {
+      "title": "Nvidian Nokia-sijoitus ei ehkä ollutkaan kovin strateginen",
+      "lead": "Sirujätti Nvidia otti voittoja kotiin Nokiassa. Muutokset Nvidian johdossa voivat johtaa mittavien sijoitusten tarkempaan syyniin jatkossakin, kirjoittaa pörssitoimittaja Henri Koponen.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/c97217b1-a2c4-48ae-863d-e03c79e66d6b?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Nvidia",
+        "Nokia",
+        "Henri Koponen"
+      ],
+      "why_care": "Nostaa esiin sijoitusten strategisen arvioinnin merkityksen teknologiayrityksissä."
+    },
+    {
+      "title": "Nvidia myi yli puolet Nokia-omistuksistaan kurssihuipun jälkeen",
+      "lead": "Nvidia kevensi omistuksiaan Nokiassa merkittävällä voitolla.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/b9ddc317-1d29-4ae1-84e2-b37841dcf765?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Nvidia",
+        "Nokia"
+      ],
+      "why_care": "Nostaa esiin kansainvälisten teknologiayritysten sijoitusliikkeitä suomalaisissa yrityksissä."
+    },
+    {
+      "title": "Keskijohdolta loppuvat työt, uskoo Risto Siilasmaa",
+      "lead": "Yritykset on rakennettava kokonaan uusiksi tekoälyn ympärille, sanoo Risto Siilasmaa. Hän testaa uutta johtamismalliaan perustamassaan startupissa.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/a35154de-c190-442f-8dd1-390b288c3acd?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Risto Siilasmaa"
+      ],
+      "why_care": "Korostaa tekoälyn vaikutusta yritysjohtamiseen ja organisaatiorakenteisiin."
+    },
+    {
+      "title": "Lähi-itä | The Guardian: Israel latasi miljoonia palestiinalaisten kasvokuvia Amazonin tekoälypalveluun",
+      "lead": "Tarkoituksena oli lehden mukaan hyödyntää Amazonin tekoälypohjaista kasvojen­tunnistus­palvelua.",
+      "link": "https://www.hs.fi/maailma/art-2000012417381.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Herättää huolta tekoälyn käytöstä ihmisoikeuskysymyksissä ja valvonnassa."
+    },
+    {
+      "title": "Sähköpostissa ongelmia maailmanlaajuisesti",
+      "lead": "Häiriöt ovat vaikuttaneet muun muassa Teamsiin, Outlookiin ja Copilot-tekoälyohjelmistoon.",
+      "link": "https://www.is.fi/digitoday/art-2000012409168.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Ongelmien esiintyminen tekoälyohjelmistossa voi herättää huolta käyttäjien keskuudessa ja vaikuttaa tekoälyn luotettavuuteen."
+    },
+    {
+      "title": "Anthropicin tekoälylle ei saa enää olla ilkeä",
+      "lead": "Ääritapauksissa jotkut käyttäjät voidaan sulkea pysyvästi yhtiön tekoälyjärjestelmien ulkopuolelle.",
+      "link": "https://www.is.fi/digitoday/art-2000012381346.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Keskustelu tekoälyn käyttäjien rajoittamisesta nostaa esiin eettisiä kysymyksiä tekoälyn hallinnasta."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 513,
+    "signals": 16,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
