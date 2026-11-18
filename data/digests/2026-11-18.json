@@ -1,0 +1,336 @@
+{
+  "date": "2026-11-18",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Helsingin yliopiston suosittu tekoälykurssi laajenee, tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä, mikä voi vaikuttaa Suomen työmarkkinoihin.",
+    "Suomeen on syntymässä huipputason tekoälykeskittymä Peter Sarlinin investointien myötä, mikä korostaa maan asemaa tekoälyalan kehityksessä.",
+    "Nvidian ympärillä vellova vakoiluskandaali ja osakearvon lasku voivat vaikuttaa sijoittajien luottamukseen tekoälyteollisuudessa."
+  ],
+  "top_signals": [
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin Suomessa."
+    },
+    {
+      "title": "Sarlin pani miljoonansa poikimaan: Suomeen on syntymässä huipputason tekoälykeskittymä",
+      "lead": "Tekoälyalan suurimmaksi taustavaikuttajaksi noussut Peter Sarlin nostaa esiin huolen, joka vaivaa Suomen tekoälykeskustelua. Sarlinin mielestä ei riitä, että Suomi on datakeskusyhtiöille kiinnostava maa, vaan arvoketjussa pitäisi siirtyä korkeammalle.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/8c028b5b-2258-409a-9be1-0c6ca110e7b4?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Peter Sarlin"
+      ],
+      "why_care": "Korostaa Suomen asemaa tekoälyalan kehityksessä ja arvoketjun nostamisen tärkeyttä."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Koulutus | Kannattaako Suomessa kouluttautua?",
+      "lead": "Suomeen halutaan lisää korkeakoulutettuja. Miksi, kun tekoäly ja julkistalouden leikkaukset vähentävät kouluttautuneiden työpaikkoja?",
+      "link": "https://www.hs.fi/mielipide/art-2000012415845.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Keskustelu tekoälyn vaikutuksesta koulutukseen voi vaikuttaa tulevaisuuden työmarkkinoiden kehitykseen Suomessa."
+    },
+    {
+      "title": "Vakoiluskandaali | Suomalainen salkun­hoitaja pitää Nvidiaa liian riskialttiina – ”Seuraan show’ta popcornia syöden”",
+      "lead": "Monet haluavat pettämisskandaalin keskellä olevan Jensen Huangin takaisin yhtiön johtoon. Suomalaiset salkunhoitajat ovat asiasta erimielisiä.",
+      "link": "https://www.hs.fi/visio/art-2000012415234.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Nvidia",
+        "Jensen Huang"
+      ],
+      "why_care": "Keskustelu Nvidian riskisyydestä voi vaikuttaa sijoittajien luottamukseen tekoälyteollisuuteen."
+    },
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+    },
+    {
+      "title": "Stubb kommentoi Slushissa datakeskuksia: ”Enemmän on enemmän”",
+      "lead": "Tekoälyn nopeasta kehityksestä puhunut presidentti Alexander Stubb muistutti ihmisiä säilyttämään oman ajattelukykynsä.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/147bbb41-a12b-4324-8816-d646c45813a7?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Alexander Stubb"
+      ],
+      "why_care": "Korostaa tekoälyn kehityksen vaikutuksia ja ajattelukyvyn merkitystä keskustelussa."
+    },
+    {
+      "title": "Nvidian osake on putoava puukko, sanoo konkarisalkunhoitaja",
+      "lead": "Nvidian tulosraportissa kaikki oli kunnossa, sanoo OP Pohjolan Juuso Kenkkilä Talousaamun lähetyksessä. Osakkeen arvostus on kuitenkin nyt hankala kysymys.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/bd9c5131-41e7-48f2-a764-c8a65f64b6d3?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Nvidia",
+        "OP Pohjola",
+        "Juuso Kenkkilä"
+      ],
+      "why_care": "Keskustelu Nvidian osakearvosta voi vaikuttaa sijoittajien luottamukseen tekoälyalan yrityksiin."
+    },
+    {
+      "title": "Näitä tekoälyosakkeita nyt salkkuun – Kaksi sijoittajaa paljastaa poimintansa",
+      "lead": "Tekoälysijoittamisessa suurin virhe on jäädä katsomoon, sillä sektori näyttää tuovan jatkossakin muhkeat tuotot. Sijoittajat Jari Paakkarinen ja Sami Miettinen kertovat, missä osakkeissa he näkevät suurimman tuottopotentiaalin.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/8d0df911-b274-4570-a265-6a6696a81f86?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "positive",
+      "stakeholders": [
+        "Jari Paakkarinen",
+        "Sami Miettinen"
+      ],
+      "why_care": "Korostaa tekoälyn kasvavaa merkitystä sijoitusmarkkinoilla ja houkuttelee uusia sijoittajia alalle."
+    },
+    {
+      "title": "Anthropicin tänään päättyvää jättiantia myydään myös suomalaisille sijoittajille – Tähtää 1 400 miljardiin",
+      "lead": "Anthropicin listautumisanti päättyy keskiviikkona. Listautumisantiin voi osallistua poikkeuksellisesti monesta Euroopan valtiosta sekä useiden halpavälittäjien kautta.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/1a9bc24b-23b6-4891-9335-a3160f3664f6?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "neutral",
+      "stakeholders": [
+        "Anthropic"
+      ],
+      "why_care": "Listautumisanti avaa suomalaisille sijoittajille mahdollisuuden osallistua merkittävään tekoälyalan investointiin."
+    },
+    {
+      "title": "Nvidia kääri pikavoitot Nokia-osakkeistaan – myi 56 prosenttia",
+      "lead": "Myynti ajoittui aikaan ennen Nvidian 12. marraskuuta tiedottamaa toimitusjohtajavaihdosta.",
+      "link": "https://www.is.fi/taloussanomat/art-2000012419920.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Nvidia",
+        "Nokia"
+      ],
+      "why_care": "Nostaa esiin kansainvälisten teknologiayritysten liikkeitä Suomen markkinoilla."
+    },
+    {
+      "title": "Tällainen oli Nvidian Jensen Huangin johtamistyyli, joka toimi 33 vuotta – epäonnistumisen pelko kaiken takana",
+      "lead": "Johtamisen professori arvioi, miksi Jensen Huangin poikkeuksellinen tyyli nosti Nvidian maailman arvokkaimmaksi ja mitä tapahtuu nyt, kun perustaja on poissa.",
+      "link": "https://yle.fi/a/74-20256783?origin=rss",
+      "outlet": "Yle",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Kuvastaa tekoälyalan johtajien vaikutusta yritysten menestykseen ja innovaatioihin."
+    },
+    {
+      "title": "Vakoiluskandaali | Nvidia takoi 80 miljardin voitot, mutta yhtiön yllä roikkuu suhdekohuakin suurempi uhka",
+      "lead": "Tiistain tulosjulkistus rauhoitti sijoittajien välittömiä huolia, mutta Jensen Huangin ja Nvidian ympärillä vellovaa kohua se ei päätä.",
+      "link": "https://www.hs.fi/visio/art-2000012418592.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "critical",
+      "stakeholders": [
+        "Nvidia",
+        "Jensen Huang"
+      ],
+      "why_care": "Nvidia on keskeinen toimija tekoälymarkkinoilla, ja sen ympärillä vellova kohu voi vaikuttaa sijoittajien luottamukseen ja markkinoiden kehitykseen."
+    },
+    {
+      "title": "Teknologia | Nvidialta vahva tulos, hallitus ei halua Jensen Huangia takaisin",
+      "lead": "Nvidian kolmannen neljänneksen tulos oli erinomaisen vahva ja ylitti analyytikoiden odotukset.",
+      "link": "https://www.hs.fi/visio/art-2000012417851.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Nvidian vahva tulos voi vaikuttaa tekoälymarkkinoiden kehitykseen ja investointeihin."
+    },
+    {
+      "title": "Trump saapui Kiinaan – Nvidialta yllättävä täyskäännös siruviennissä",
+      "lead": "Kauppalehti seuraa markkinatapahtumia tässä artikkelissa.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/ec31623c-5528-4753-8f28-f71a44d19970?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Artikkeli käsittelee Nvidian siruviennin muutoksia, mikä voi vaikuttaa tekoälymarkkinoiden kehitykseen."
+    },
+    {
+      "title": "Nvidia kaksinkertaisti liikevaihtonsa",
+      "lead": "Nvidian tulos on ylittänyt analyytikoiden odotukset.",
+      "link": "https://www.mtvuutiset.fi/artikkeli/nvidia-kaksinkertaisti-liikevaihtonsa/9422618",
+      "outlet": "MTV Uutiset",
+      "outlets": [
+        "MTV Uutiset"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Nvidia"
+      ],
+      "why_care": "Nvidian liikevaihdon kasvu voi vaikuttaa tekoälymarkkinoiden kehitykseen ja investointeihin."
+    },
+    {
+      "title": "Nvidian tulos ylitti odotukset – hallitus tyrmää Jensen Huangin paluun",
+      "lead": "Nvidian liikevaihto yli kaksinkertaistui vuodentakaisesta.",
+      "link": "https://www.is.fi/taloussanomat/art-2000012419940.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Nvidian tuloskehitys voi vaikuttaa tekoälymarkkinoiden kehitykseen ja investointeihin."
+    },
+    {
+      "title": "Sähköpostissa ongelmia maailmanlaajuisesti",
+      "lead": "Häiriöt ovat vaikuttaneet muun muassa Teamsiin, Outlookiin ja Copilot-tekoälyohjelmistoon.",
+      "link": "https://www.is.fi/digitoday/art-2000012409168.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Ongelmien vaikutus tekoälyohjelmistoon voi herättää huolta käyttäjien keskuudessa."
+    },
+    {
+      "title": "Anthropicin tekoälylle ei saa enää olla ilkeä",
+      "lead": "Ääritapauksissa jotkut käyttäjät voidaan sulkea pysyvästi yhtiön tekoälyjärjestelmien ulkopuolelle.",
+      "link": "https://www.is.fi/digitoday/art-2000012381346.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Keskustelu tekoälyn käyttäjien rajoituksista voi vaikuttaa tekoälyn hyväksyttävyyteen ja käyttöehtoihin."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 512,
+    "signals": 18,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
