@@ -1,0 +1,226 @@
+{
+  "date": "2026-11-20",
+  "fetched_at": "2026-11-20T13:16:02+02:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 12
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 512,
+    "items_matched": 12,
+    "signals": 12
+  },
+  "signals": [
+    {
+      "outlet": "Yle",
+      "feed": "Pääuutiset",
+      "title": "Anthropicin listautuminen teki lähes kaikista tekoälyjätin työntekijöistä miljonäärejä",
+      "lead": "Yhtiön listautumisanti oli suurin koskaan.",
+      "link": "https://yle.fi/a/74-20258044?origin=rss",
+      "published": "2026-11-20T07:11:21Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Osakeanti | Claude-tekoälyn valmistajan ensimmäinen pörssipäivä alkoi kurssinousulla",
+      "lead": "Osakkeen hinta nousi 83 euron listautumishinnasta 111,50 dollariin, kun kaupankäynti alkoi. Sitten nousu alkoi hiipua.",
+      "link": "https://www.hs.fi/visio/art-2000012424700.html",
+      "published": "2026-11-20T08:07:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "HS-analyysi | Anthropic myy tulevaisuutta, jossa Suomen vero­­rahat imuroidaan Yhdys­valtoihin",
+      "lead": "Tekoäly-yhtiö Anthropic on onnistunut myymään fantasian tulevaisuudesta, jossa koko maailma on yhtiöstä riippuvainen, kirjoittaa HS Vision toimittaja Niclas Storås.",
+      "link": "https://www.hs.fi/visio/art-2000012423831.html",
+      "published": "2026-11-19T14:28:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Trump joutui pahaan paikkaan – Ankara isku voi kostautua",
+      "lead": "Yhdysvaltain ja Kiinan presidentin kädenpuristusten takana tikittää kello kohti tammikuussa raukeavaa kauppasodan välirauhaa. Tämä näkyy tavassa, miten Trumpin hallinto vastasi Nvidia-kohuun.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/10df10a8-1135-42ef-8a48-78eb536aa096?utm_source=rss",
+      "published": "2026-11-20T09:00:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "PÖRSSI: Helsingin pörssi laskettelee kuudetta päivää – Nokia -4,2 %",
+      "lead": "Helsingin pörssissä ei vältytty tekoälysektorilta alkaneelta laskulta.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/d9acfcb7-899f-40fa-a431-0bbe7caf6271?utm_source=rss",
+      "published": "2026-11-20T08:04:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "USA antoi Nvidialle ja AMD:lle luvan viedä satojatuhansia huippusiruja Kiinaan – Mukana hämäräperäisiä peiteyhtiöitä",
+      "lead": "Joukossa on yrityksiä, joilla Pentagon uskoo olevan jopa kytköksiä Kiinan armeijaan.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/13b55bc1-c2e3-42ba-9ceb-0861a8dafcb6?utm_source=rss",
+      "published": "2026-11-20T10:55:19Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Iltalehti",
+      "feed": "Uutiset",
+      "title": "Mitä jos supertekoäly riistäytyy käsistä? Pomo paljasti Slushissa hyytävän seikan",
+      "lead": "",
+      "link": "https://www.iltalehti.fi/kotimaa/a/8dc11d2a-4df0-4f71-b4ef-3348de6484b9?utm_source=rss",
+      "published": "2026-11-20T11:00:38Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Iltalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Anthropic listautui pörssiin valtavin odotuksin – näin kävi",
+      "lead": "Yhtiön listautumisanti oli suurin koskaan.",
+      "link": "https://www.is.fi/taloussanomat/art-2000012425368.html",
+      "published": "2026-11-19T21:32:00Z",
+      "keyword": "anthropic",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Internet repesi liitoksistaan Nvidia-pomon sala­suhde­sekoilusta – irvi­leukoja ei pidättele nyt mikään",
+      "lead": "Netissä otettiin ilo irti Jensen Huangin pettämiskohusta.",
+      "link": "https://www.is.fi/digitoday/art-2000012409171.html",
+      "published": "2026-11-14T17:07:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Sähköpostissa ongelmia maailmanlaajuisesti",
+      "lead": "Häiriöt ovat vaikuttaneet muun muassa Teamsiin, Outlookiin ja Copilot-tekoälyohjelmistoon.",
+      "link": "https://www.is.fi/digitoday/art-2000012409168.html",
+      "published": "2026-11-13T03:25:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    }
+  ]
+}
