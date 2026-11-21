@@ -1,0 +1,559 @@
+{
+  "date": "2026-11-21",
+  "fetched_at": "2026-11-21T12:51:58+02:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 12
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 512,
+    "items_matched": 21,
+    "signals": 21
+  },
+  "signals": [
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Vakoiluskandaali | Nvidian johtajan kohtalo on klassinen tarina miehisestä uhosta ja ylimielisyydestä",
+      "lead": "Maailman mahtavimmatkin tarvitsevat vastavoiman. Sääntöperusteisen järjestyksen tulisi ulottua myös teknojätteihin.",
+      "link": "https://www.hs.fi/nakemys/art-2000012423185.html",
+      "published": "2026-11-21T09:00:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Käsittelee tekoälyalan johtajien vastuuta ja sääntelyn tarpeellisuutta, mikä voi vaikuttaa keskusteluun tekoälyn eettisyydestä."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Matematiikka | Matemaatikko väittää ratkaisseensa vuosi­satoja vanhan pulman tekoälyllä",
+      "lead": "Tekoäly-yhtiö Anthropicin tutkija Levent Alpöge kertoo löytäneensä Claude-tekoälyn avulla todistuksen Riemannin hypoteesille.",
+      "link": "https://www.hs.fi/maailma/art-2000012428288.html",
+      "published": "2026-11-21T04:24:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": false,
+        "signal_type": "research",
+        "tone": "neutral",
+        "stakeholders": [
+          "Levent Alpöge",
+          "Anthropic"
+        ],
+        "why_care": "Tämä tutkimus voi avata uusia mahdollisuuksia tekoälyn soveltamiselle matemaattisissa ongelmissa."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Katso podcast | Miksi autistit ovat parempia kuin tekoäly?",
+      "lead": "Katso, miten Daria Satkovskaia kertoo Tyypittelemättä-podcastissa fenomenaalisesta tietoisuudesta.",
+      "link": "https://www.hs.fi/kuuntele/art-2000012408453.html",
+      "published": "2026-11-21T00:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "opinion",
+        "tone": "neutral",
+        "stakeholders": [
+          "Daria Satkovskaia"
+        ],
+        "why_care": "Herättää keskustelua tekoälyn ja ihmisten vertailusta erityisesti autististen henkilöiden näkökulmasta."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Sijoittaminen | Pörsseissä oli punainen perjantai: ”Kulta­kauden loppu” voi häämöttää",
+      "lead": "Sijoittajat ovat menettämässä luottoaan tekoälyyn juuri, kun alan jättiläinen Anthropic listautui pörssiin. Yhtiön osakekurssi painui perjantaina 8,5 prosenttia.",
+      "link": "https://www.hs.fi/visio/art-2000012425803.html",
+      "published": "2026-11-20T21:27:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [
+          "Anthropic"
+        ],
+        "why_care": "Tämä osoittaa sijoittajien kasvavaa epäluottamusta tekoälyyn, mikä voi vaikuttaa alan tulevaisuuteen ja investointeihin."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Osakeanti | Lähes kaikki Anthropicin työn­tekijät ovat nyt miljonäärejä",
+      "lead": "Claude-tekoälyn kehittänyt yhtiö listautui pörssiin eilen torstaina. Uudet miljonäärit nostavat todennäköisesti San Franciscon asuntojen hintoja.",
+      "link": "https://www.hs.fi/visio/art-2000012426508.html",
+      "published": "2026-11-20T14:30:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "launch",
+        "tone": "neutral",
+        "stakeholders": [
+          "Anthropic"
+        ],
+        "why_care": "Anthropic-yhtiön pörssilistautuminen voi vaikuttaa tekoälyalan investointeihin ja markkinakehitykseen."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Slush | Tämän opin tällä viikolla: Superäly ja nopeasti oppivat robotit tulevat pian",
+      "lead": "Ihmisen rajat ylittävä superoppija, robotiikan läpimurtoja ja Euroopan valttikortti tekoälyn aikana. HS Visio kertoo, mitä teknologiajohtajat puhuivat Messukeskuksessa.",
+      "link": "https://www.hs.fi/visio/art-2000012394955.html",
+      "published": "2026-11-20T13:23:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [
+          "HS Visio",
+          "Messukeskus"
+        ],
+        "why_care": "Tuo esiin tekoälyn ja robotiikan kehityksen merkityksen Euroopan kilpailukyvylle."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "launch",
+        "tone": "positive",
+        "stakeholders": [
+          "Helsingin yliopisto"
+        ],
+        "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "research",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+      }
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Finanssiyhtiöiden verkot ovat vuotaneet – Moni miettii nyt, ovatko rahat turvassa",
+      "lead": "Tekoälyä hyödyntävä haavoittuvuuksien kalastelu on vauhdittunut tänä vuonna. Kysyimme asiantuntijoilta, pitääkö rahojensa puolesta olla huolissaan.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/fa6b4398-56f5-4044-9d91-18bb87bf0ff0?utm_source=rss",
+      "published": "2026-11-21T08:15:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [
+          "finanssiyhtiöt",
+          "asiantuntijat"
+        ],
+        "why_care": "Tuo esiin tekoälyn roolin kyberturvallisuusuhkien kasvussa finanssialalla."
+      }
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Nalle Wahlroos ennakoi valtavaa mullistusta – voi ”vapauttaa” satatuhatta ihmistä töistä",
+      "lead": "Björn Wahlroosin mukaan tietty osa Suomen julkisen sektorin työstä olisi siirrettävissä tekoälylle jo tämän päivän teknologialla. Wahlroos kommentoi myös Nvidian tilannetta Kauppalehdelle AI Summit -tapahtumassa Turussa.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/d5ef3174-2ab5-42bb-a97c-472b0389f2a9?utm_source=rss",
+      "published": "2026-11-21T09:19:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "opinion",
+        "tone": "neutral",
+        "stakeholders": [
+          "Björn Wahlroos",
+          "Nvidia"
+        ],
+        "why_care": "Wahlroosin kommentit voivat herättää keskustelua tekoälyn roolista julkisessa sektorissa ja sen vaikutuksista työmarkkinoihin."
+      }
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Näitä tekoälyosakkeita nyt salkkuun – Kaksi sijoittajaa paljastaa poimintansa",
+      "lead": "Tekoälysijoittamisessa suurin virhe on jäädä katsomoon, sillä sektori näyttää tuovan jatkossakin muhkeat tuotot. Sijoittajat Jari Paakkarinen ja Sami Miettinen kertovat, missä osakkeissa he näkevät suurimman tuottopotentiaalin.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/8d0df911-b274-4570-a265-6a6696a81f86?utm_source=rss",
+      "published": "2026-11-21T07:20:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "trend",
+        "tone": "positive",
+        "stakeholders": [
+          "Jari Paakkarinen",
+          "Sami Miettinen"
+        ],
+        "why_care": "Korostaa tekoälyosakkeiden kasvavaa merkitystä sijoitusmarkkinoilla."
+      }
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "Palkka jopa yli 10 000 €/kk – Näin datakeskusyhtiöissä tienaa",
+      "lead": "Datakeskusyhtiöiden kärkipää maksoi viime vuonna jopa yli 10 000 euron keskipalkkoja kuukaudessa. Toimituksen selvitys palkkasummista paljastaa alan suuret erot.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/9ef67715-40b6-4ede-9562-8d19710d93f7?utm_source=rss",
+      "published": "2026-11-21T08:25:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [
+          "datakeskusyhtiöt"
+        ],
+        "why_care": "Paljastaa datakeskusalan palkkakehityksen, mikä voi vaikuttaa alan houkuttelevuuteen ja rekrytointiin."
+      }
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "629 MW:n tuulivoimaomistus kasvaa – Googlen energiajohtajalta tuli yllättävä ehdotus",
+      "lead": "Suomessa vieraillut Googlen energiajohtaja Aris Karcanias vakuuttaa, etteivät yhtiön datakeskusinvestoinnit yksin nosta sähkön hintaa Suomessa.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/ae29245a-6834-4b65-9a42-330c0fcc9656?utm_source=rss",
+      "published": "2026-11-21T06:00:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [
+          "Google",
+          "Aris Karcanias"
+        ],
+        "why_care": "Googlen datakeskusinvestoinnit ja niiden vaikutus sähkön hintaan ovat keskeisiä keskustelunaiheita tekoälyn infrastruktuurin kehityksessä Suomessa."
+      }
+    },
+    {
+      "outlet": "MTV Uutiset",
+      "feed": "Uusimmat",
+      "title": "NYT: Jensen Huang raivosi alaisilleen Nvidialla – \"Revin pääsi irti ja kusen aivoillesi\"",
+      "lead": "New York Times -lehden mukaan teknologiajätti Nvidian toimintakulttuuriin oli pesiytynyt raakalaismaisia ja nöyryyttäviä piirteitä.",
+      "link": "https://www.mtvuutiset.fi/artikkeli/nyt-jensen-huang-raivosi-alaisilleen-nvidialla-revin-paasi-irti-ja-kusen-aivoillesi/9424062",
+      "published": "2026-11-21T07:42:21Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "MTV Uutiset"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Kuvastaa tekoälyalan yritysten sisäistä kulttuuria ja sen vaikutuksia työntekijöihin."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Matemaatikolta hämmästyttävä väite – tekoäly saattoi ratkaista yhden matematiikan suurimmista mysteereistä",
+      "lead": "Tekoäly-yhtiö Anthropicin tutkija Levent Alpöge väittää ratkaisseensa yli 160 vuotta vanhan Riemannin hypoteesin Claude-tekoälyn avulla.",
+      "link": "https://www.is.fi/ulkomaat/art-2000012428284.html",
+      "published": "2026-11-21T00:10:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 3,
+        "finland_link": false,
+        "signal_type": "research",
+        "tone": "neutral",
+        "stakeholders": [
+          "Anthropic",
+          "Levent Alpöge"
+        ],
+        "why_care": "Tämä voi muuttaa käsityksiä tekoälyn kyvyistä tieteellisessä tutkimuksessa."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "New Yorkin pörssissä rysähti",
+      "lead": "Tekoäly-yhtiö Anthropicin toinen pörssipäivä päättyi hurjaan sukellukseen.",
+      "link": "https://www.is.fi/taloussanomat/art-2000012428265.html",
+      "published": "2026-11-20T21:47:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "neutral",
+        "stakeholders": [
+          "Anthropic"
+        ],
+        "why_care": "Tämä uutinen voi vaikuttaa suomalaisten sijoittajien ja yritysten näkemyksiin tekoälyalan taloudellisista riskeistä."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Mikael Renwall näki kasvonsa mainoksessa, johon hän ei ollut suostunut – ”Ihan hirveä”",
+      "lead": "Mikael Renwallin kasvoja käytettiin luvatta tekoälyllä tehdyssä mainoksessa.",
+      "link": "https://www.is.fi/viihde/art-2000012390461.html",
+      "published": "2026-11-20T19:46:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [
+          "Mikael Renwall"
+        ],
+        "why_care": "Tuo esiin tekoälyn käyttöön liittyvät luvattomat käytännöt ja maineriskit yksityishenkilöille."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Tuhansista Anthropicin työn­tekijöistä tuli kertaheitolla miljonäärejä",
+      "lead": "Tekoäly-yhtiön listautuminen tuotti tuhatmäärin uusia monimiljonäärejä.",
+      "link": "https://www.is.fi/taloussanomat/art-2000012427902.html",
+      "published": "2026-11-20T19:09:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "launch",
+        "tone": "positive",
+        "stakeholders": [
+          "Anthropic"
+        ],
+        "why_care": "Tuo esiin tekoälyalan kasvun ja sen vaikutukset työntekijöiden taloudelliseen asemaan."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Nvidia ei ole enää maailman kallein yritys",
+      "lead": "Nvidian alamäki ei ota loppuakseen.",
+      "link": "https://www.is.fi/taloussanomat/art-2000012427943.html",
+      "published": "2026-11-20T17:05:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 0,
+        "finland_link": false,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Nvidian markkina-arvon lasku voi vaikuttaa tekoälyalan investointeihin ja kehitykseen."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Internet repesi liitoksistaan Nvidia-pomon sala­suhde­sekoilusta – irvi­leukoja ei pidättele nyt mikään",
+      "lead": "Netissä otettiin ilo irti Jensen Huangin pettämiskohusta.",
+      "link": "https://www.is.fi/digitoday/art-2000012409171.html",
+      "published": "2026-11-14T17:07:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 0,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Tämä uutinen ei liity tekoälyyn tai sen infrastruktuuriin, vaan keskittyy henkilökohtaiseen skandaaliin."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Sähköpostissa ongelmia maailmanlaajuisesti",
+      "lead": "Häiriöt ovat vaikuttaneet muun muassa Teamsiin, Outlookiin ja Copilot-tekoälyohjelmistoon.",
+      "link": "https://www.is.fi/digitoday/art-2000012409168.html",
+      "published": "2026-11-13T03:25:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Ongelmien esiintyminen tekoälyohjelmistossa voi herättää huolta käyttäjien keskuudessa ja vaikuttaa tekoälyn luotettavuuteen."
+      }
+    }
+  ],
+  "classified_at": "2026-11-21T12:52:27+02:00",
+  "model": "gpt-4o-mini"
+}
