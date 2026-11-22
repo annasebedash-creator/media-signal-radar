@@ -1,0 +1,312 @@
+{
+  "date": "2026-11-22",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Pekka Juntin kolumni nostaa esiin huolen datakeskusten kasvavasta energiantarpeesta ja niiden vaikutuksesta Suomen tuulivoimarakentamiseen.",
+    "Helsingin yliopiston suosittu tekoälykurssi laajenee, tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä, mikä voi vaikuttaa työmarkkinoihin Suomessa.",
+    "Trumpin uhkaus datakeskushankkeelle Suomessa herättää keskustelua kansainvälisten investointien ja sääntelyn vaikutuksista paikallisiin hankkeisiin."
+  ],
+  "top_signals": [
+    {
+      "title": "Pekka Juntin kolumni: Tekoälyä rouskuttavat datakeskukset tarvitsevat älyttömän määrän tuulivoimaloita Suomen metsiin",
+      "lead": "Kuinka paljon tekoälyä ja sitä pyörittäviä datakeskuksia tarvitsemme – pärjäisimmekö mitenkään vähemmällä, Juntti kysyy.",
+      "link": "https://yle.fi/a/74-20257949?origin=rss",
+      "outlet": "Yle",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "Pekka Juntti"
+      ],
+      "why_care": "Herättää keskustelua datakeskusten ympäristövaikutuksista ja energiatarpeesta Suomessa."
+    },
+    {
+      "title": "Datakeskusten maakaupat | Vanhan tehdaspläntin omistaja voi nyt tehdä hurjat kaupat",
+      "lead": "Datakeskukset muuttavat tonttikaupan perusteita. Suomalaisen raakamaan jopa miljooniin kohoava arvo ei kuitenkaan ole kaikille selvää, paljastaa HS:n selvitys.",
+      "link": "https://www.hs.fi/visio/art-2000012376013.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Datakeskusten vaikutus tonttikauppaan voi muuttaa kiinteistösijoittamisen dynamiikkaa Suomessa."
+    },
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin Suomessa."
+    },
+    {
+      "title": "Keskijohdolta loppuvat työt, uskoo Risto Siilasmaa",
+      "lead": "Yritykset on rakennettava kokonaan uusiksi tekoälyn ympärille, sanoo Risto Siilasmaa. Hän testaa uutta johtamismalliaan perustamassaan startupissa.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/a35154de-c190-442f-8dd1-390b288c3acd?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Risto Siilasmaa"
+      ],
+      "why_care": "Korostaa tekoälyn vaikutusta yritysjohtamiseen ja liiketoimintamalleihin."
+    },
+    {
+      "title": "Jopa yli 10 000 euroa kuussa – Tällaisia palkkoja datakeskuksissa maksetaan",
+      "lead": "Datakeskusyhtiöiden kärkipää maksoi viime vuonna jopa yli 10 000 euron keskipalkkoja kuukaudessa. Kauppalehden selvitys palkkasummista paljastaa alan suuret erot.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/1ef09c12-40b0-4d28-bb05-dbbf9a1db4a0?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "datakeskusyhtiöt",
+        "Kauppalehti"
+      ],
+      "why_care": "Paljastaa datakeskusalalla vallitsevat palkkaerot, mikä voi vaikuttaa alan houkuttelevuuteen ja rekrytointiin."
+    },
+    {
+      "title": "Trumpilta datakeskus­uhkaus – Muhoksen kunnanjohtaja ei ole huolissaan",
+      "lead": "Muhoksen kunnanjohtaja uskoo datakeskus­hankkeeseen Trumpin uhkauksesta huolimatta.",
+      "link": "https://www.is.fi/taloussanomat/art-2000012428572.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "crisis",
+      "tone": "neutral",
+      "stakeholders": [
+        "Trump",
+        "Muhoksen kunnanjohtaja"
+      ],
+      "why_care": "Trumpin uhkaus datakeskushankkeelle voi vaikuttaa julkiseen keskusteluun ja investointeihin Suomessa."
+    },
+    {
+      "title": "Professori arvioi: Näin Trumpin Suomi-älähdys vaikuttaa Google-hankkeeseen",
+      "lead": "Yhdysvaltain presidentti Donald Trump ärähti Suomen jättidatakeskus­hankkeesta. Professori arvioi, miksi Trump nosti Suomen esille ja mitä siitä voi seurata.",
+      "link": "https://www.is.fi/taloussanomat/art-2000012428573.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Donald Trump",
+        "Suomi",
+        "Google"
+      ],
+      "why_care": "Trumpin kommentit voivat vaikuttaa kansainvälisiin investointeihin ja sääntelyyn datakeskushankkeissa Suomessa."
+    },
+    {
+      "title": "Matematiikka | Matemaatikko väittää ratkaisseensa vuosi­satoja vanhan pulman tekoälyllä",
+      "lead": "Tekoäly-yhtiö Anthropicin tutkija Levent Alpöge kertoo löytäneensä Claude-tekoälyn avulla todistuksen Riemannin hypoteesille.",
+      "link": "https://www.hs.fi/maailma/art-2000012428288.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "Levent Alpöge",
+        "Anthropic"
+      ],
+      "why_care": "Tämä tutkimus voi avata uusia mahdollisuuksia tekoälyn soveltamiselle matemaattisissa ongelmissa."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Tulevaisuususko | 28-vuotiasta Sonja Sorria tympii: Poliitikkojen puhe tekoälystä on käsittämätöntä",
+      "lead": "OAJ:n pääekonomisti Elina Pylkkänen pitää röyhkeinä väitteitä, joiden mukaan tekoäly ei vaikuttaisi työllisyyteen.",
+      "link": "https://www.hs.fi/politiikka/art-2000012388840.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "Sonja Sorria",
+        "Elina Pylkkänen"
+      ],
+      "why_care": "Kohdistaa huomiota poliittiseen keskusteluun tekoälyn vaikutuksista työllisyyteen."
+    },
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikin tuotannossa ja sen mahdolliset vaikutukset instrumenttien käyttöön."
+    },
+    {
+      "title": "Jälkipörssi: Kamux on kuskinsa varassa − Nvidian Nokia-strategia paljastui",
+      "lead": "Jälkipörssissä käsitellään tällä viikolla Kamuxia, Nokiaa ja F-Securea.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/95c57cca-7da1-451d-9e67-ec573b264506?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Kamux",
+        "Nokia",
+        "F-Secure"
+      ],
+      "why_care": "Tuo esiin tekoälyyn liittyvien yritysten, kuten Nvidian, strategioiden vaikutuksia suomalaisiin toimijoihin."
+    },
+    {
+      "title": "Suomalainen Heikki sai 6 vuotta sitten puhelun Piilaaksosta: Nyt hän ilmestyi yllättäen verotilastojen kärkeen miljoonatuloilla",
+      "lead": "Suurituloisimpien suomalaisten joukossa on vieras nimi: Heikki Linnakangas. Taustalla on huima tarina, jossa yhteydenotto Piilaaksosta johti miljardiyrityksen luomiseen. Korona-aikana perustettu yhtiö luottaa etätyöhön, ja tuotteen käyttäjinä ovat tekoälyagentit.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/e7eb8538-6b5c-4728-8571-bb171e115bf9?utm_source=rss",
+      "outlet": "Tekniikka&Talous",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Heikki Linnakangas"
+      ],
+      "why_care": "Kuvastaa etätyön ja tekoälyn kasvavaa roolia suomalaisessa liiketoiminnassa."
+    },
+    {
+      "title": "Kaikkoselta tylyt terveiset Lindtmanille: Sdp:llä liikaa veronkiristyksiä",
+      "lead": "Keskusta tavoittelee ensi vaalikaudella tekoälyn avulla 1,5 miljardin euron säästöjä ja peruisi 860 miljoonan euron yhteisöveron alennuksen.",
+      "link": "https://www.is.fi/politiikka/art-2000012428831.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Keskusta",
+        "Lindtman",
+        "Sdp"
+      ],
+      "why_care": "Keskustan suunnitelmat tekoälyn hyödyntämisestä taloudellisissa säästöissä voivat vaikuttaa tuleviin poliittisiin päätöksiin ja keskusteluun verotuksesta."
+    },
+    {
+      "title": "Liki 170 vuotta vanha pulma ratkesi tekoälyn avulla – matemaatikko: Tulkittava vielä ihmisille ymmärrettävästi",
+      "lead": "Riemannin hypoteesia on jo kauan sovellettu käytännössä, mutta sen todistaminen on ollut matematiikan suurimpia ongelmia.",
+      "link": "https://yle.fi/a/74-20258338?origin=rss",
+      "outlet": "Yle",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn mahdollisuudet tieteellisessä tutkimuksessa ja ongelmanratkaisussa."
+    },
+    {
+      "title": "Vakoiluskandaali | Nvidian johtajan kohtalo on klassinen tarina miehisestä uhosta ja ylimielisyydestä",
+      "lead": "Maailman mahtavimmatkin tarvitsevat vastavoiman. Sääntöperusteisen järjestyksen tulisi ulottua myös teknojätteihin.",
+      "link": "https://www.hs.fi/nakemys/art-2000012423185.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Käsittelee tekoälyn ja teknologian suuryritysten vastuuta ja sääntelytarvetta."
+    },
+    {
+      "title": "Sähköpostissa ongelmia maailmanlaajuisesti",
+      "lead": "Häiriöt ovat vaikuttaneet muun muassa Teamsiin, Outlookiin ja Copilot-tekoälyohjelmistoon.",
+      "link": "https://www.is.fi/digitoday/art-2000012409168.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Ongelmien esiintyminen tekoälyohjelmistossa voi herättää huolta käyttäjien keskuudessa ja vaikuttaa tekoälyn luotettavuuteen."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 511,
+    "signals": 16,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
