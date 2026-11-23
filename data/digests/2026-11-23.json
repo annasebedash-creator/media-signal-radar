@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-23",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Atnorthin 7 miljardin euron datakeskusinvestointi Kouvolaan korostaa datainfrastruktuurin merkitystä Suomen taloudelle ja energiakysymyksille.",
+    "Helsingin yliopiston suosittu tekoälykurssi pyrkii opettamaan tekoälyn perusteet prosentille maailman väestöstä, mikä voi vaikuttaa laajasti työmarkkinoihin.",
+    "Tutkijat kehittivät tekoälyn, joka matkii kitaran säröääniä, mikä osoittaa tekoälyn potentiaalin musiikin tuotannossa ja instrumenttien käytössä."
+  ],
+  "top_signals": [
+    {
+      "title": "Datakeskusten maakaupat | Vanhan tehdas­pläntin omistaja voi nyt tehdä hurjat kaupat",
+      "lead": "Datakeskukset muuttavat tonttikaupan perusteita. Suomalaisen raakamaan jopa miljooniin kohoava arvo ei kuitenkaan ole kaikille selvää, paljastaa HS:n selvitys.",
+      "link": "https://www.hs.fi/visio/art-2000012376013.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Datakeskusten vaikutus tonttikauppaan voi muuttaa kiinteistösijoittamisen dynamiikkaa Suomessa."
+    },
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    },
+    {
+      "title": "Yhdeltä yhtiöltä jopa 7 miljardin potti Suomeen – ”Yksikään ei investoi niin kuin me”",
+      "lead": "Datakeskusoperaattori Atnorth kasvaa Suomessa hurjaa vauhtia ja rakentaa jättikampusta Kouvolaan. Jos Suomi pelaa korttinsa oikein, datakeskukset eivät nosta sähkön hintaa Suomessa, toimitusjohtaja sanoo.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/e428cdee-20ca-4356-be6c-d592f6a1746e?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Atnorth"
+      ],
+      "why_care": "Datakeskusten rakentaminen Kouvolaan voi vaikuttaa merkittävästi Suomen datainfrastruktuuriin ja energiakysymyksiin."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Tulevaisuususko | 28-vuotiasta Sonja Sorria tympii: Poliitikkojen puhe teko­älystä on käsittämätöntä",
+      "lead": "OAJ:n pääekonomisti Elina Pylkkänen pitää röyhkeinä väitteitä, joiden mukaan tekoäly ei vaikuttaisi työllisyyteen.",
+      "link": "https://www.hs.fi/politiikka/art-2000012388840.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "Sonja Sorria",
+        "Elina Pylkkänen"
+      ],
+      "why_care": "Kohdistaa huomiota poliittiseen keskusteluun tekoälyn vaikutuksista työllisyyteen."
+    },
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "tutkijat",
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikin tuotannossa ja sen mahdolliset vaikutukset instrumenttien käyttöön."
+    },
+    {
+      "title": "Björn Wahlroos kertoo KL:n haastattelussa, milloin pörssit romahtavat",
+      "lead": "Tekoälyhuuma haihtui osakemarkkinoilla, ja sijoittajien hermot ovat kireällä. Mitä markkinatilanteesta tuumaa talousvaikuttaja Björn Wahlroos? Entä mitä Wahlroosin omasta sijoitussalkusta löytyy?",
+      "link": "https://www.kauppalehti.fi/uutiset/a/70a957a5-1858-47a9-93f1-82c3e02d8fa9?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Björn Wahlroos"
+      ],
+      "why_care": "Tuo esiin sijoittajien huolia tekoälyn vaikutuksesta osakemarkkinoihin."
+    },
+    {
+      "title": "Pörssit avautuivat nousuun Euroopassa",
+      "lead": "Yhdysvaltain osakefutuurit nousivat varhain maanantaina, kun sijoittajien kiinnostus tekoälyosakkeisiin palasi.",
+      "link": "https://yle.fi/a/74-20258433?origin=rss",
+      "outlet": "Yle",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tuo esiin sijoittajien kiinnostuksen tekoälyyn liittyviin osakkeisiin, mikä voi vaikuttaa markkinakehitykseen."
+    },
+    {
+      "title": "Sähköpostissa ongelmia maailmanlaajuisesti",
+      "lead": "Häiriöt ovat vaikuttaneet muun muassa Teamsiin, Outlookiin ja Copilot-tekoälyohjelmistoon.",
+      "link": "https://www.is.fi/digitoday/art-2000012409168.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Ongelmien esiintyminen tekoälyohjelmistossa voi herättää huolta käyttäjien keskuudessa ja vaikuttaa luottamukseen teknologian toimivuuteen."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 513,
+    "signals": 8,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
