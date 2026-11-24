@@ -1,0 +1,343 @@
+{
+  "date": "2026-11-24",
+  "fetched_at": "2026-11-24T15:30:12+02:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 13
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 99
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 512,
+    "items_matched": 22,
+    "signals": 19
+  },
+  "signals": [
+    {
+      "outlet": "Yle",
+      "feed": "Pääuutiset",
+      "title": "Analyysi: Jensen Huangin paluu pelasti pörssikurssit, mutta tekoälyn korttitalo huojuu yhä",
+      "lead": "Jensen Huangin paluu Nvidian johtoon ei ratkaise tekoälybuumin ongelmia, kirjoittaa teknologiatoimittaja Teemu Hallamaa.",
+      "link": "https://yle.fi/a/74-20258705?origin=rss",
+      "published": "2026-11-24T13:02:32Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "duplicates": [
+        {
+          "outlet": "Yle",
+          "title": "Analyysi: Jensen Huangin paluu pelasti pörssikurssit, mutta tekoälyn korttitalo huojuu yhä",
+          "link": "https://yle.fi/a/74-20258705?origin=rss"
+        }
+      ]
+    },
+    {
+      "outlet": "Yle",
+      "feed": "Pääuutiset",
+      "title": "Googlen Muhoksen datakeskusalueen töitä saa jatkaa vesistöhaittojen välttämiseksi",
+      "lead": "Valvontaviranomainen on antanut luvan töille, joilla jotka ovat välttämättömiä vesien hallinnan kannalta.",
+      "link": "https://yle.fi/a/74-20258724?origin=rss",
+      "published": "2026-11-24T12:59:47Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "duplicates": [
+        {
+          "outlet": "Yle",
+          "title": "Googlen Muhoksen datakeskusalueen töitä saa jatkaa vesistöhaittojen välttämiseksi",
+          "link": "https://yle.fi/a/74-20258724?origin=rss"
+        }
+      ]
+    },
+    {
+      "outlet": "MTV Uutiset",
+      "feed": "Uusimmat",
+      "title": "Aasiassa vinha pörssipäivä Nvidia-uutisten jälkeen",
+      "lead": "Erityisesti teknologiaosakkeiden markkinatunnelmia ovat kohentaneet uutiset Jensen Huangin paluusta Nvidian toimitusjohtajaksi.",
+      "link": "https://www.mtvuutiset.fi/artikkeli/aasiassa-vinha-porssipaiva-nvidia-uutisten-jalkeen/9425468",
+      "published": "2026-11-24T11:48:36Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "MTV Uutiset",
+        "Yle"
+      ],
+      "outlet_count": 2,
+      "duplicates": [
+        {
+          "outlet": "Yle",
+          "title": "Aasiassa kova pörssipäivä Nvidia-uutisen jälkeen",
+          "link": "https://yle.fi/a/74-20258689?origin=rss"
+        }
+      ]
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Vakoiluskandaali | Asiantuntija: Jensen Huang saattoi palata Nvidian johtoon vain, koska hän on mies",
+      "lead": "Apulaisprofessori Kabrina Chang uskoo, että salasuhteen pitäminen on tavallaan etuoikeus, johon naisjohtajilla on miehiä harvemmin mahdollisuuksia.",
+      "link": "https://www.hs.fi/maailma/art-2000012432779.html",
+      "published": "2026-11-24T05:40:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Katso podcast | Ihmiskunnan nopein kasvaja meni pörssiin ryminällä",
+      "lead": "Anthropicin listautumisen myötä kysymys kuuluu, onko tekoälyn kultakausi ohi vai vasta alkamassa?",
+      "link": "https://www.hs.fi/kuuntele/art-2000012422053.html",
+      "published": "2026-11-24T04:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Teknologia | Jensen Huang palaa Nvidian johtoon, osakkeet kallistuvat tuntuvasti Yhdysvalloissa",
+      "lead": "Jensen Huang palaa Nvidian toimitusjohtajaksi alle kaksi viikkoa eroilmoituksensa jälkeen.",
+      "link": "https://www.hs.fi/visio/art-2000012432260.html",
+      "published": "2026-11-24T03:43:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "HS-analyysi | Kiinan uhka ei kiinnostakaan Trumpia, kun kyse on teknologia­johtajan suhteesta",
+      "lead": "Trump perusteli Grönlanti-haluaan Kiinan uhalla. Nvidian vakoiluskandaalin merkitystä hän on vähätellyt, kirjoittaa HS:n ulkomaantoimittaja Pekka Mykkänen.",
+      "link": "https://www.hs.fi/maailma/art-2000012432486.html",
+      "published": "2026-11-23T18:46:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Anthropic syöksyi listautumishinnan alle",
+      "lead": "Kauppalehti seuraa markkinatapahtumia tässä artikkelissa.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/ec31623c-5528-4753-8f28-f71a44d19970?utm_source=rss",
+      "published": "2026-11-24T12:20:00Z",
+      "keyword": "anthropic",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "”Aivan jäätävän kova” – Lippo Suominen kertoo, mitä Jensen Huangin paluu paljasti",
+      "lead": "OP Pohjolan päästrategi Lippo Suominen arvelee, että kriittinen keskustelu tekoäly-yhtiöihin liittyvistä riskeistä voi nyt lisääntyä.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/e4a4cfbd-b4c4-4b02-af4b-1bffe36ea5b8?utm_source=rss",
+      "published": "2026-11-24T10:29:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "Jensen Huang takaisin Nvidian johtoon – Vain tunteja paluun jälkeen Yhdysvalloilta tiukka päätös",
+      "lead": "Kauppaministeriö asetti Megaspeedin pakotelistalle hetki sen jälkeen, kun Jensen Huang palautettiin Nvidian toimitusjohtajaksi.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/82b97888-d205-4bc7-9f48-3460c7433d14?utm_source=rss",
+      "published": "2026-11-24T08:40:11Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Forbes: Näin Jensen Huang rikastui palattuaan Nvidian johtoon",
+      "lead": "Huangin paluu sai osakkeet nousuun.",
+      "link": "https://www.is.fi/taloussanomat/art-2000012433182.html",
+      "published": "2026-11-24T12:30:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Trump puski Huangia takaisin Nvidian johtoon – näin hän hyötyi osakerallista",
+      "lead": "Trump on käynyt kauppaa Nvidian osakkeilla useiden vuosien ajan.",
+      "link": "https://www.is.fi/taloussanomat/art-2000012432896.html",
+      "published": "2026-11-24T08:53:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Asiantuntija: Jensen Huang ei olisi palannut Nvidian johtoon, jos hän olisi nainen",
+      "lead": "Apulaisprofessori Kabrina Chang uskoo, ettei naisjohtaja olisi selvinnyt yhtä vähällä.",
+      "link": "https://www.is.fi/taloussanomat/art-2000012432815.html",
+      "published": "2026-11-24T05:42:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Nvidian hallitus pyörsi päätöksensä ja Jensen Huang palasi – mitä ihmettä kulisseissa oikein tapahtui?",
+      "lead": "Nvidian hallitus pyörsi päätöksensä.",
+      "link": "https://www.is.fi/taloussanomat/art-2000012432520.html",
+      "published": "2026-11-23T19:44:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Nyt tuli jäätävä ennuste siitä, mihin tekoäly pystyy jo ensi vuonna",
+      "lead": "Ensi vuonna voi rytistä.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012431064.html",
+      "published": "2026-11-23T18:45:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Internet repesi liitoksistaan Nvidia-pomon sala­suhde­sekoilusta – irvi­leukoja ei pidättele nyt mikään",
+      "lead": "Netissä otettiin ilo irti Jensen Huangin pettämiskohusta.",
+      "link": "https://www.is.fi/digitoday/art-2000012409171.html",
+      "published": "2026-11-14T17:07:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Sähköpostissa ongelmia maailmanlaajuisesti",
+      "lead": "Häiriöt ovat vaikuttaneet muun muassa Teamsiin, Outlookiin ja Copilot-tekoälyohjelmistoon.",
+      "link": "https://www.is.fi/digitoday/art-2000012409168.html",
+      "published": "2026-11-13T03:25:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    }
+  ]
+}

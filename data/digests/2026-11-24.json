@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-24",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Googlen Muhoksen datakeskusalueen kehitystä jatketaan valvontaviranomaisen päätöksellä, mikä tukee tekoälyn infrastruktuurin kasvua Suomessa.",
+    "Helsingin yliopiston suosittu tekoälykurssi laajenee, tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä.",
+    "Jensen Huangin paluu Nvidian johtoon nosti osakekurssia, mutta tekoälymarkkinoiden haasteet ja epävarmuudet säilyvät sijoittajien mielessä."
+  ],
+  "top_signals": [
+    {
+      "title": "Googlen Muhoksen datakeskusalueen töitä saa jatkaa vesistöhaittojen välttämiseksi",
+      "lead": "Valvontaviranomainen on antanut luvan töille, joilla jotka ovat välttämättömiä vesien hallinnan kannalta.",
+      "link": "https://yle.fi/a/74-20258724?origin=rss",
+      "outlet": "Yle",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "regulation",
+      "tone": "neutral",
+      "stakeholders": [
+        "Googlen",
+        "valvontaviranomainen"
+      ],
+      "why_care": "Valvontaviranomaisen päätös mahdollistaa Googlen datakeskusalueen kehittämisen, mikä on tärkeää tekoälyn infrastruktuurin kasvun kannalta Suomessa."
+    },
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Analyysi: Jensen Huangin paluu pelasti pörssikurssit, mutta tekoälyn korttitalo huojuu yhä",
+      "lead": "Jensen Huangin paluu Nvidian johtoon ei ratkaise tekoälybuumin ongelmia, kirjoittaa teknologiatoimittaja Teemu Hallamaa.",
+      "link": "https://yle.fi/a/74-20258705?origin=rss",
+      "outlet": "Yle",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [
+        "Jensen Huang",
+        "Nvidia",
+        "Teemu Hallamaa"
+      ],
+      "why_care": "Korostaa tekoälybuumin haasteita ja epävarmuuksia sijoittajien näkökulmasta."
+    },
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "tutkijat",
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikin tuotannossa ja sen mahdolliset vaikutukset instrumenttien käyttöön."
+    },
+    {
+      "title": "”Aivan jäätävän kova” – Lippo Suominen kertoo, mitä Jensen Huangin paluu paljasti",
+      "lead": "OP Pohjolan päästrategi Lippo Suominen arvelee, että kriittinen keskustelu tekoäly-yhtiöihin liittyvistä riskeistä voi nyt lisääntyä.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/e4a4cfbd-b4c4-4b02-af4b-1bffe36ea5b8?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Lippo Suominen",
+        "OP Pohjola"
+      ],
+      "why_care": "Keskustelu tekoäly-yhtiöiden riskeistä voi vaikuttaa sijoittajien ja kuluttajien luottamukseen alaa kohtaan."
+    },
+    {
+      "title": "Aasiassa vinha pörssipäivä Nvidia-uutisten jälkeen",
+      "lead": "Erityisesti teknologiaosakkeiden markkinatunnelmia ovat kohentaneet uutiset Jensen Huangin paluusta Nvidian toimitusjohtajaksi.",
+      "link": "https://www.mtvuutiset.fi/artikkeli/aasiassa-vinha-porssipaiva-nvidia-uutisten-jalkeen/9425468",
+      "outlet": "MTV Uutiset",
+      "outlets": [
+        "MTV Uutiset",
+        "Yle"
+      ],
+      "outlet_count": 2,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Nvidia on keskeinen toimija tekoälymarkkinoilla, ja sen uutiset voivat vaikuttaa laajemmin alan kehitykseen."
+    },
+    {
+      "title": "Katso podcast | Ihmiskunnan nopein kasvaja meni pörssiin ryminällä",
+      "lead": "Anthropicin listautumisen myötä kysymys kuuluu, onko tekoälyn kultakausi ohi vai vasta alkamassa?",
+      "link": "https://www.hs.fi/kuuntele/art-2000012422053.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Anthropic"
+      ],
+      "why_care": "Herättää kysymyksiä tekoälyn tulevaisuudesta ja sen markkinakehityksestä."
+    },
+    {
+      "title": "Teknologia | Jensen Huang palaa Nvidian johtoon, osakkeet kallistuvat tuntuvasti Yhdysvalloissa",
+      "lead": "Jensen Huang palaa Nvidian toimitusjohtajaksi alle kaksi viikkoa eroilmoituksensa jälkeen.",
+      "link": "https://www.hs.fi/visio/art-2000012432260.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Jensen Huang",
+        "Nvidia"
+      ],
+      "why_care": "Jutussa käsitellään Nvidian johtohenkilön muutosta, mikä voi vaikuttaa tekoälyteollisuuden markkinakehitykseen."
+    },
+    {
+      "title": "Anthropic syöksyi listautumishinnan alle",
+      "lead": "Kauppalehti seuraa markkinatapahtumia tässä artikkelissa.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/ec31623c-5528-4753-8f28-f71a44d19970?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tämä voi vaikuttaa tekoälyalan sijoittajamarkkinoihin ja nostaa esiin alan taloudellisia haasteita."
+    },
+    {
+      "title": "Jensen Huang takaisin Nvidian johtoon – Vain tunteja paluun jälkeen Yhdysvalloilta tiukka päätös",
+      "lead": "Kauppaministeriö asetti Megaspeedin pakotelistalle hetki sen jälkeen, kun Jensen Huang palautettiin Nvidian toimitusjohtajaksi.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/82b97888-d205-4bc7-9f48-3460c7433d14?utm_source=rss",
+      "outlet": "Tekniikka&Talous",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "regulation",
+      "tone": "neutral",
+      "stakeholders": [
+        "Jensen Huang",
+        "Nvidia",
+        "Kauppaministeriö",
+        "Megaspeed"
+      ],
+      "why_care": "Kauppaministeriön päätös nostaa esiin kansainväliset sääntelyhaasteet, jotka voivat vaikuttaa tekoälyteollisuuden toimintaan."
+    },
+    {
+      "title": "Nvidian hallitus pyörsi päätöksensä ja Jensen Huang palasi – mitä ihmettä kulisseissa oikein tapahtui?",
+      "lead": "Nvidian hallitus pyörsi päätöksensä.",
+      "link": "https://www.is.fi/taloussanomat/art-2000012432520.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Nvidian hallituksen päätöksen muutokset voivat vaikuttaa tekoälymarkkinoiden kehitykseen ja investointeihin."
+    },
+    {
+      "title": "Nyt tuli jäätävä ennuste siitä, mihin tekoäly pystyy jo ensi vuonna",
+      "lead": "Ensi vuonna voi rytistä.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012431064.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn kehityksen nopeuden ja sen mahdolliset vaikutukset tulevaisuudessa."
+    },
+    {
+      "title": "Sähköpostissa ongelmia maailmanlaajuisesti",
+      "lead": "Häiriöt ovat vaikuttaneet muun muassa Teamsiin, Outlookiin ja Copilot-tekoälyohjelmistoon.",
+      "link": "https://www.is.fi/digitoday/art-2000012409168.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Ongelmien esiintyminen tekoälyohjelmistossa voi herättää huolta käyttäjien keskuudessa ja vaikuttaa tekoälyn luotettavuuteen."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 512,
+    "signals": 13,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
