@@ -1,0 +1,294 @@
+{
+  "date": "2026-11-25",
+  "fetched_at": "2026-11-25T14:31:28+02:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 11
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 511,
+    "items_matched": 10,
+    "signals": 10
+  },
+  "signals": [
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Nvidia-skandaali | Tekno­johtaja Jensen Huang pyysi anteeksi sala­suhteitaan ja kertoi menneensä terapiaan",
+      "lead": "The Wall Street Journal kertoo Huangin myöntäneen Nvidian hallitukselle myös muita salasuhteita, joista ei ole aiemmin uutisoitu.",
+      "link": "https://www.hs.fi/maailma/art-2000012435136.html",
+      "published": "2026-11-24T20:23:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 0,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Nvidian toimitusjohtajan skandaali voi vaikuttaa yrityksen maineeseen ja luottamukseen tekoälymarkkinoilla."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Nvidia-kohu | Piilaakson jättien riippumattomuus murenee, sanoo yritys­johtaja Mårten Mickos",
+      "lead": "Trumpin puuttuminen Nvidian johtajavalintaan horjutti markkinatalouden pelisääntöjä. Keskuskauppakamarin Juho Romakkaniemi uskoo poikkeusajan päättyvän parin vuoden päästä.",
+      "link": "https://www.hs.fi/visio/art-2000012433681.html",
+      "published": "2026-11-24T17:00:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [
+          "Nvidia",
+          "Mårten Mickos",
+          "Juho Romakkaniemi"
+        ],
+        "why_care": "Keskustelu Nvidian johtajavalinnasta ja sen vaikutuksista markkinatalouteen voi vaikuttaa tekoälyalan investointeihin ja kehitykseen."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Teknomiljardöörit puolustavat omiaan normaalimaailman säännöiltä",
+      "lead": "Nvidian johtajan Jensen Huangin ero oli tervetullut muistutus teknorälssille. Paluu ja eron saama reaktio olivat muistutus muulle maailmalle siitä, että teknomaailma etääntyy normaalimaailman logiikasta.",
+      "link": "https://www.hs.fi/paakirjoitukset/art-2000012430676.html",
+      "published": "2026-11-24T16:00:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [
+          "Nvidia",
+          "Jensen Huang"
+        ],
+        "why_care": "Korostaa teknologiateollisuuden ja tekoälyn eriytymistä perinteisistä liiketoimintakäytännöistä."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "launch",
+        "tone": "positive",
+        "stakeholders": [
+          "Helsingin yliopisto"
+        ],
+        "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "research",
+        "tone": "neutral",
+        "stakeholders": [
+          "tutkijat",
+          "Helsingin Sanomat"
+        ],
+        "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikin tuotannossa ja sen mahdolliset vaikutukset instrumenttien käyttöön."
+      }
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Talouden kuumemittarista tuli tekoälyn ilmapuntari: Kuparin hinta kääntyi syöksyyn",
+      "lead": "Sähköistyminen ja datakeskukset ovat luoneet kuparille viime vuosina kaksi selvää rakenteellista kysyntäpiikkiä, ja markkinan uskotaan kääntyvän alitarjonnan puolelle jo lähivuosina. Viimeisin jyrkkä rojahdus ei kuitenkaan vaikuta rakenteelliselta.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/d4c4ec74-3d8e-467d-a253-b5092c16fef2?utm_source=rss",
+      "published": "2026-11-25T12:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Tuo esiin datakeskusten ja sähköistymisen vaikutuksen raaka-aineiden kysyntään, mikä voi vaikuttaa tekoälyn infrastruktuurin kehitykseen."
+      }
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "Näin Lippo Suominen sijoittaisi nyt 50 000 euroa",
+      "lead": "Markkinoita kannatelleeseen tekoälyteemaan on tullut säröjä, sanoo Lippo Suominen Talousaamussa.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/9319092c-11ef-407c-acdb-a336db5d0e2a?utm_source=rss",
+      "published": "2026-11-25T10:29:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "opinion",
+        "tone": "neutral",
+        "stakeholders": [
+          "Lippo Suominen"
+        ],
+        "why_care": "Tuo esiin tekoälyn markkinakehityksen haasteita ja mahdollisia riskejä sijoittajille."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Nyt tuli jäätävä ennuste siitä, mihin tekoäly pystyy jo ensi vuonna",
+      "lead": "Ensi vuonna voi rytistä.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012431064.html",
+      "published": "2026-11-23T18:45:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Tuo esiin tekoälyn kehityksen mahdollisuudet ja haasteet tulevaisuudessa."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Internet repesi liitoksistaan Nvidia-pomon sala­suhde­sekoilusta – irvi­leukoja ei pidättele nyt mikään",
+      "lead": "Netissä otettiin ilo irti Jensen Huangin pettämiskohusta.",
+      "link": "https://www.is.fi/digitoday/art-2000012409171.html",
+      "published": "2026-11-14T17:07:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 0,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Tämä uutinen nostaa esiin tekoälyjohtajien henkilökohtaiset skandaalit, jotka voivat vaikuttaa alan maineeseen."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Sähköpostissa ongelmia maailmanlaajuisesti",
+      "lead": "Häiriöt ovat vaikuttaneet muun muassa Teamsiin, Outlookiin ja Copilot-tekoälyohjelmistoon.",
+      "link": "https://www.is.fi/digitoday/art-2000012409168.html",
+      "published": "2026-11-13T03:25:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Ongelmien esiintyminen Copilot-tekoälyohjelmistossa voi herättää huolta tekoälyn luotettavuudesta ja käytettävyydestä."
+      }
+    }
+  ],
+  "classified_at": "2026-11-25T14:31:49+02:00",
+  "model": "gpt-4o-mini"
+}
