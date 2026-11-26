@@ -1,0 +1,364 @@
+{
+  "date": "2026-11-26",
+  "fetched_at": "2026-11-26T14:10:33+02:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 14
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 514,
+    "items_matched": 13,
+    "signals": 13
+  },
+  "signals": [
+    {
+      "outlet": "Yle",
+      "feed": "Pääuutiset",
+      "title": "Herttoniemi-seuralle ilmoitettiin pihamyymälästä, mutta ei neljän miljardin datakeskuksesta",
+      "lead": "Datakeskus tuottaisi noin yhdeksän prosenttia Helsingin kaukolämmöstä.",
+      "link": "https://yle.fi/a/74-20259039?origin=rss",
+      "published": "2026-11-26T09:38:49Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [
+          "Herttoniemi-seura",
+          "Helsingin kaupunki"
+        ],
+        "why_care": "Tuo esiin datakeskusten merkityksen paikallisessa energiantuotannossa ja keskustelussa."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Black Friday | Tekoälystä on tullut tarjous­haukan tukipilari",
+      "lead": "Tekoäly etsii jo Black Friday -tarjoukset, mutta ostopäätöksen kuluttaja haluaa yhä tehdä itse.",
+      "link": "https://www.hs.fi/visio/art-2000012430855.html",
+      "published": "2026-11-26T10:34:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Kuvastaa tekoälyn kasvavaa roolia kuluttajakäyttäytymisessä ja markkinoinnissa."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "HS-analyysi | Tekoälybuumin taustalla pyörii outo ja riskialtis raha­kone: mitä tapahtuu, jos se pysähtyy?",
+      "lead": "Tekoälybuumi rakentuu osin rengasmaisen rahoituskuvion varaan. Sen romahtaminen tekisi rumaa jälkeä, kirjoittaa HS Vision toimittaja Anni Lassila.",
+      "link": "https://www.hs.fi/visio/art-2000012433530.html",
+      "published": "2026-11-26T07:02:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [
+          "Helsingin Sanomat",
+          "Anni Lassila"
+        ],
+        "why_care": "Tuo esiin tekoälybuumin taloudelliset riskit ja mahdolliset seuraukset rahoitusmarkkinoille."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Katso podcast | Jos tyydymme tekoäly­tuotoksiin, miten käy musiikille?",
+      "lead": "Musabisnes on isossa murroskohdassa, kun toimijat painivat tekoälyn kanssa.",
+      "link": "https://www.hs.fi/kuuntele/art-2000012422071.html",
+      "published": "2026-11-26T04:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [
+          "musabisnes",
+          "Helsingin Sanomat"
+        ],
+        "why_care": "Keskustelu tekoälyn vaikutuksesta musiikkiteollisuuteen voi muuttaa alan toimintatapoja ja luovuutta."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Sijoittaminen | Yhdys­valloissa pörssit sulkeutuivat laskussa, myös Nvidialla pudotusta",
+      "lead": "Jensen Huangin paluu oli vain hetkellinen helpotus markkinoille.",
+      "link": "https://www.hs.fi/visio/art-2000012436328.html",
+      "published": "2026-11-25T21:52:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [
+          "Yhdysvallat",
+          "Nvidia"
+        ],
+        "why_care": "Tuo esiin tekoälyyn liittyvien yritysten, kuten Nvidian, markkinakehityksen vaikutukset sijoittajapsykologiaan."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Nvidia-kohu | WSJ: Kiina ei sittenkään näytä olevan Jensen Huangin salasuhteen taustalla",
+      "lead": "Nvidian toimitusjohtajan epäiltiin olleen salasuhteessa Kiinan vakoojaksi epäillyn naisen kanssa. Kiinan osuudesta ei ole todisteita, sanoo Yhdysvallat nyt.",
+      "link": "https://www.hs.fi/visio/art-2000012437654.html",
+      "published": "2026-11-25T19:01:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 0,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Kohun taustalla on kansainvälisiä suhteita ja tietoturvakysymyksiä, jotka voivat vaikuttaa teknologiateollisuuden luottamukseen."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Elokuva-arvio | Vanhemmat hankkivat kuolleen lapsensa tilalle tekoäly­robotin japanilais­ohjaajan elokuvassa",
+      "lead": "Hirokazu Kore-edan tieteisdraama kuvaa tekoälyn tulevaisuutta poikkeuksellisen lempeästi. Liikuttava elokuva jää kuitenkin turhan pintapuoliseksi.",
+      "link": "https://www.hs.fi/popkulttuuri/art-2000012430535.html",
+      "published": "2026-11-25T14:30:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Elokuvan arviointi tuo esiin tekoälyn roolin kulttuurissa ja sen vaikutukset ihmisten tunteisiin."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "launch",
+        "tone": "positive",
+        "stakeholders": [
+          "Helsingin yliopisto"
+        ],
+        "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+      }
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": true,
+        "signal_type": "research",
+        "tone": "neutral",
+        "stakeholders": [
+          "Helsingin Sanomat"
+        ],
+        "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikin tuotannossa ja sen mahdolliset vaikutukset instrumenttien käyttöön."
+      }
+    },
+    {
+      "outlet": "Iltalehti",
+      "feed": "Uutiset",
+      "title": "Yle: Asukkaat eivät tienneet, että naapuriin on tulossa 4 miljardin datakeskus",
+      "lead": "",
+      "link": "https://www.iltalehti.fi/kotimaa/a/b1ccdec2-ae0b-4340-9738-cb99903b5103?utm_source=rss",
+      "published": "2026-11-26T11:34:11Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Iltalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 2,
+        "finland_link": true,
+        "signal_type": "launch",
+        "tone": "neutral",
+        "stakeholders": [
+          "Yle"
+        ],
+        "why_care": "Herättää huolta datakeskusten vaikutuksista paikallisyhteisöihin ja ympäristöön."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Nyt tuli jäätävä ennuste siitä, mihin tekoäly pystyy jo ensi vuonna",
+      "lead": "Ensi vuonna voi rytistä.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012431064.html",
+      "published": "2026-11-23T18:45:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "trend",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Tuo esiin tekoälyn kehityksen mahdollisuuksia ja haasteita tulevaisuudessa."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Internet repesi liitoksistaan Nvidia-pomon sala­suhde­sekoilusta – irvi­leukoja ei pidättele nyt mikään",
+      "lead": "Netissä otettiin ilo irti Jensen Huangin pettämiskohusta.",
+      "link": "https://www.is.fi/digitoday/art-2000012409171.html",
+      "published": "2026-11-14T17:07:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 0,
+        "finland_link": false,
+        "signal_type": "opinion",
+        "tone": "critical",
+        "stakeholders": [],
+        "why_care": "Tämä uutinen ei liity tekoälyyn tai sen infrastruktuuriin, vaan keskittyy henkilökohtaiseen skandaaliin."
+      }
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Sähköpostissa ongelmia maailmanlaajuisesti",
+      "lead": "Häiriöt ovat vaikuttaneet muun muassa Teamsiin, Outlookiin ja Copilot-tekoälyohjelmistoon.",
+      "link": "https://www.is.fi/digitoday/art-2000012409168.html",
+      "published": "2026-11-13T03:25:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": [],
+      "classification": {
+        "relevance": 1,
+        "finland_link": false,
+        "signal_type": "crisis",
+        "tone": "neutral",
+        "stakeholders": [],
+        "why_care": "Ongelmien esiintyminen tekoälyohjelmistossa voi herättää huolta käyttäjien keskuudessa ja vaikuttaa tekoälyn luotettavuuteen."
+      }
+    }
+  ],
+  "classified_at": "2026-11-26T14:11:00+02:00",
+  "model": "gpt-4o-mini"
+}
