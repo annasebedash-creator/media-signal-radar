@@ -1,0 +1,260 @@
+{
+  "date": "2026-11-27",
+  "fetched_at": "2026-11-27T13:58:41+02:00",
+  "topic": "Tekoäly Suomessa",
+  "feeds": {
+    "Yle / Pääuutiset": {
+      "ok": true,
+      "items": 13
+    },
+    "Yle / Tuoreimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Helsingin Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 99
+    },
+    "Helsingin Sanomat / Teknologia": {
+      "ok": true,
+      "items": 100
+    },
+    "Kauppalehti / Pääuutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "Tekniikka&Talous / Uutiset": {
+      "ok": true,
+      "items": 10
+    },
+    "MTV Uutiset / Uusimmat": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Uutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Iltalehti / Digiuutiset": {
+      "ok": true,
+      "items": 20
+    },
+    "Ilta-Sanomat / Tuoreimmat": {
+      "ok": true,
+      "items": 100
+    },
+    "Ilta-Sanomat / Digitoday": {
+      "ok": true,
+      "items": 100
+    }
+  },
+  "totals": {
+    "items_fetched": 512,
+    "items_matched": 15,
+    "signals": 14
+  },
+  "signals": [
+    {
+      "outlet": "Yle",
+      "feed": "Pääuutiset",
+      "title": "Neljän miljardin datakeskushanke löi Helsingin päättäjät ällikällä: pormestarit eivät olleet kuulleetkaan",
+      "lead": "Yle uutisoi eilen torstaina neljän miljardin euron datakeskuksesta, josta asukkaat eivät olleet kuulletkaan. Hankkeesta eivät tienneet myöskään poliitikot.",
+      "link": "https://yle.fi/a/74-20259369?origin=rss",
+      "published": "2026-11-27T10:16:32Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "duplicates": [
+        {
+          "outlet": "Yle",
+          "title": "Neljän miljardin datakeskushanke löi Helsingin päättäjät ällikällä: pormestarit eivät olleet kuulleetkaan",
+          "link": "https://yle.fi/a/74-20259369?origin=rss"
+        }
+      ]
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Helsinki | Keskelle Hertto­niemeä suunnitellaan neljän miljardin euron data­keskusta",
+      "lead": "Helsinkiin suunnitellaan tekoälykeskusta, jonka luvataan lämmittävän jopa 70 000 kotia. Ylen mukaan lähialueen asukkaita huolestuttaa erityisesti laitteiden mahdollinen melu.",
+      "link": "https://www.hs.fi/helsinki/art-2000012439622.html",
+      "published": "2026-11-27T05:11:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Nvidia | FT: Nvidia keskeyttää sirujensa myynnin Kaakkois-Aasiaan",
+      "lead": "Tekoälysirujen myynnin keskeytyksellä voi olla valtavia vaikutuksia Nvidian ja koko tekoälyteollisuuden kehitykseen.",
+      "link": "https://www.hs.fi/visio/art-2000012438805.html",
+      "published": "2026-11-26T19:06:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Perustuslaki | Uusi linjaus: Tekoäly saa korvata ihmisen, kun potilaan hoitoa arvioidaan",
+      "lead": "Nykyisin hoidon tarpeen arvion tekee ihminen.",
+      "link": "https://www.hs.fi/politiikka/art-2000012440105.html",
+      "published": "2026-11-26T18:17:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Tuoreimmat",
+      "title": "Työttömyys | Nuorten työpaikat vähentyneet, tiedot ”pysäyttäviä”",
+      "lead": "Yhdysvalloissa on havaittu, että tekoälyn takia aloitustason työpaikkoja on vähennetty. Suomessa on tähän mennessä toppuuteltu huolia, mutta nyt kehitys näkyy täälläkin.",
+      "link": "https://www.hs.fi/politiikka/art-2000012433815.html",
+      "published": "2026-11-26T13:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "published": "2020-10-21T05:00:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Helsingin Sanomat",
+      "feed": "Teknologia",
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "published": "2020-02-14T10:16:28Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Kauppalehti",
+      "feed": "Pääuutiset",
+      "title": "USA:n datakeskusrahaa valuu jo Laihialle – Selvitimme, kannattaako uuden pörssitulokkaan antiin osallistua",
+      "lead": "Yhdysvaltain datakeskusbuumi on niin voimakas, että vaikutukset valuvat jo metalliputkien työstämiseen. Laihialta ponnistaa hurjan kasvu- ja tulosloikan tehnyt putkentyöstöyritys. Perkasimme T-Drillin listautumisannin, luvut ja arvostuksen.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/29f0c813-b3c2-46fa-a830-21b267c74b13?utm_source=rss",
+      "published": "2026-11-27T10:45:00Z",
+      "keyword": "datakeskus",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Tekniikka&Talous",
+      "feed": "Uutiset",
+      "title": "Suomeen halutaan Nokian johdolla jättimäinen \"tekoälyn gigatehdas\" – Tältä se näyttäisi meren rannalla",
+      "lead": "Suomesta käsin johdetaan jättimäistä projektia, kun EU haluaa varmistaa, että sillä on tarpeeksi datakeskuksia myös omissa käsissä. Kasvava tekoälyn käyttö vaatii datan louhintaa. Suomesta löytyi sopiva paikka uudelle gigatehtaalle.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/5c490dbb-889a-4500-a1cb-48863cd2219f?utm_source=rss",
+      "published": "2026-11-27T11:46:06Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "MTV Uutiset",
+      "feed": "Uusimmat",
+      "title": "Trump: Nvidian toimitusjohtaja Huang ei turvallisuusuhka",
+      "lead": "Trumpin mukaan hän on saanut paljon tietoa, johon hän perustaa arvionsa.",
+      "link": "https://www.mtvuutiset.fi/artikkeli/trump-nvidian-toimitusjohtaja-huang-ei-turvallisuusuhka/9426844",
+      "published": "2026-11-27T03:35:04Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "MTV Uutiset"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Tekoäly­jättien työntekijöiltä hätä­huuto",
+      "lead": "Uusimmat mallit kammottavat monia niiden parissa työskenteleviä, Axios kertoo.",
+      "link": "https://www.is.fi/digitoday/art-2000012436622.html",
+      "published": "2026-11-26T16:28:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Nyt tuli jäätävä ennuste siitä, mihin tekoäly pystyy jo ensi vuonna",
+      "lead": "Ensi vuonna voi rytistä.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012431064.html",
+      "published": "2026-11-23T18:45:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Internet repesi liitoksistaan Nvidia-pomon sala­suhde­sekoilusta – irvi­leukoja ei pidättele nyt mikään",
+      "lead": "Netissä otettiin ilo irti Jensen Huangin pettämiskohusta.",
+      "link": "https://www.is.fi/digitoday/art-2000012409171.html",
+      "published": "2026-11-14T17:07:00Z",
+      "keyword": "nvidia",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    },
+    {
+      "outlet": "Ilta-Sanomat",
+      "feed": "Digitoday",
+      "title": "Sähköpostissa ongelmia maailmanlaajuisesti",
+      "lead": "Häiriöt ovat vaikuttaneet muun muassa Teamsiin, Outlookiin ja Copilot-tekoälyohjelmistoon.",
+      "link": "https://www.is.fi/digitoday/art-2000012409168.html",
+      "published": "2026-11-13T03:25:00Z",
+      "keyword": "tekoäly",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "duplicates": []
+    }
+  ]
+}

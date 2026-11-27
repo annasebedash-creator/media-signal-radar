@@ -1,0 +1,257 @@
+{
+  "date": "2026-11-27",
+  "topic": "Tekoäly Suomessa",
+  "summary": [
+    "Helsingin päättäjät yllättyivät neljän miljardin euron datakeskushankkeesta, mikä herättää kysymyksiä päätöksenteon läpinäkyvyydestä ja asukkaiden osallistumisesta.",
+    "Perustuslain uusi linjaus sallii tekoälyn käytön potilaan hoidon arvioinnissa, mikä voi muuttaa merkittävästi tekoälyn roolia terveydenhuollossa.",
+    "Nokian johdolla suunniteltu tekoälyn gigatehdas voi vahvistaa Suomen asemaa tekoälyn infrastruktuurin kehittäjänä Euroopassa."
+  ],
+  "top_signals": [
+    {
+      "title": "Neljän miljardin datakeskushanke löi Helsingin päättäjät ällikällä: pormestarit eivät olleet kuulleetkaan",
+      "lead": "Yle uutisoi eilen torstaina neljän miljardin euron datakeskuksesta, josta asukkaat eivät olleet kuulletkaan. Hankkeesta eivät tienneet myöskään poliitikot.",
+      "link": "https://yle.fi/a/74-20259369?origin=rss",
+      "outlet": "Yle",
+      "outlets": [
+        "Yle"
+      ],
+      "outlet_count": 1,
+      "relevance": 3,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "neutral",
+      "stakeholders": [
+        "Helsingin päättäjät",
+        "pormestarit",
+        "Yle"
+      ],
+      "why_care": "Hanke herättää huolta päätöksenteon läpinäkyvyydestä ja asukkaiden osallistumisesta merkittäviin infrastruktuurihankkeisiin."
+    },
+    {
+      "title": "Perustuslaki | Uusi linjaus: Tekoäly saa korvata ihmisen, kun potilaan hoitoa arvioidaan",
+      "lead": "Nykyisin hoidon tarpeen arvion tekee ihminen.",
+      "link": "https://www.hs.fi/politiikka/art-2000012440105.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 3,
+      "finland_link": true,
+      "signal_type": "regulation",
+      "tone": "neutral",
+      "stakeholders": [
+        "Perustuslaki",
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Tämä linjaus voi muuttaa merkittävästi tekoälyn roolia terveydenhuollossa ja herättää keskustelua sen eettisistä ja käytännön vaikutuksista."
+    },
+    {
+      "title": "Suomeen halutaan Nokian johdolla jättimäinen \"tekoälyn gigatehdas\" – Tältä se näyttäisi meren rannalla",
+      "lead": "Suomesta käsin johdetaan jättimäistä projektia, kun EU haluaa varmistaa, että sillä on tarpeeksi datakeskuksia myös omissa käsissä. Kasvava tekoälyn käyttö vaatii datan louhintaa. Suomesta löytyi sopiva paikka uudelle gigatehtaalle.",
+      "link": "https://www.tekniikkatalous.fi/uutiset/a/5c490dbb-889a-4500-a1cb-48863cd2219f?utm_source=rss",
+      "outlet": "Tekniikka&Talous",
+      "outlets": [
+        "Tekniikka&Talous"
+      ],
+      "outlet_count": 1,
+      "relevance": 3,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Nokia",
+        "EU"
+      ],
+      "why_care": "Tämä hanke voi merkittävästi vahvistaa Suomen asemaa tekoälyn infrastruktuurin kehittäjänä Euroopassa."
+    },
+    {
+      "title": "Helsinki | Keskelle Hertto­niemeä suunnitellaan neljän miljardin euron data­keskusta",
+      "lead": "Helsinkiin suunnitellaan tekoälykeskusta, jonka luvataan lämmittävän jopa 70 000 kotia. Ylen mukaan lähialueen asukkaita huolestuttaa erityisesti laitteiden mahdollinen melu.",
+      "link": "https://www.hs.fi/helsinki/art-2000012439622.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "neutral",
+      "stakeholders": [
+        "Helsinki",
+        "Yle"
+      ],
+      "why_care": "Tuo esiin merkittävän investoinnin tekoälyinfrastruktuuriin Helsingissä."
+    },
+    {
+      "title": "Koulu | Helsingin yliopiston kaikkien aikojen suosituin kurssi saa jatkoa – järjestäjien tavoitteena opettaa tekoälyn perusteet prosentille maailman väestöstä",
+      "lead": "Building AI on maksuton ja kaikille avoin verkkokurssi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006676205.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "launch",
+      "tone": "positive",
+      "stakeholders": [
+        "Helsingin yliopisto"
+      ],
+      "why_care": "Kurssi edistää tekoälyn osaamista laajasti ja voi vaikuttaa tulevaisuuden työmarkkinoihin."
+    },
+    {
+      "title": "USA:n datakeskusrahaa valuu jo Laihialle – Selvitimme, kannattaako uuden pörssitulokkaan antiin osallistua",
+      "lead": "Yhdysvaltain datakeskusbuumi on niin voimakas, että vaikutukset valuvat jo metalliputkien työstämiseen. Laihialta ponnistaa hurjan kasvu- ja tulosloikan tehnyt putkentyöstöyritys. Perkasimme T-Drillin listautumisannin, luvut ja arvostuksen.",
+      "link": "https://www.kauppalehti.fi/uutiset/a/29f0c813-b3c2-46fa-a830-21b267c74b13?utm_source=rss",
+      "outlet": "Kauppalehti",
+      "outlets": [
+        "Kauppalehti"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "USA",
+        "T-Drill"
+      ],
+      "why_care": "Datakeskusinvestoinnit Yhdysvalloista vaikuttavat suoraan suomalaisiin yrityksiin ja markkinoihin."
+    },
+    {
+      "title": "Nvidia | FT: Nvidia keskeyttää sirujensa myynnin Kaakkois-Aasiaan",
+      "lead": "Tekoälysirujen myynnin keskeytyksellä voi olla valtavia vaikutuksia Nvidian ja koko tekoälyteollisuuden kehitykseen.",
+      "link": "https://www.hs.fi/visio/art-2000012438805.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "neutral",
+      "stakeholders": [
+        "Nvidia"
+      ],
+      "why_care": "Keskeytys voi vaikuttaa merkittävästi tekoälyteollisuuden kehitykseen ja markkinoihin."
+    },
+    {
+      "title": "Tekoäly­jättien työntekijöiltä hätä­huuto",
+      "lead": "Uusimmat mallit kammottavat monia niiden parissa työskenteleviä, Axios kertoo.",
+      "link": "https://www.is.fi/digitoday/art-2000012436622.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 2,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "critical",
+      "stakeholders": [],
+      "why_care": "Tuo esiin työntekijöiden huolen tekoälyn kehityksen eettisyydestä ja turvallisuudesta."
+    }
+  ],
+  "other_signals": [
+    {
+      "title": "Työttömyys | Nuorten työpaikat vähentyneet, tiedot ”pysäyttäviä”",
+      "lead": "Yhdysvalloissa on havaittu, että tekoälyn takia aloitustason työpaikkoja on vähennetty. Suomessa on tähän mennessä toppuuteltu huolia, mutta nyt kehitys näkyy täälläkin.",
+      "link": "https://www.hs.fi/politiikka/art-2000012433815.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [
+        "Yhdysvallat",
+        "Suomi"
+      ],
+      "why_care": "Tuo esiin tekoälyn vaikutukset työmarkkinoihin ja nuorten työllisyyteen Suomessa."
+    },
+    {
+      "title": "Tutkijat opettivat tekoälyn matkimaan kitaran säröääniä lähes täydellisesti, mutta HS:n musiikkitoimittaja kuuli silti eron – Testaa, tunnistatko aidon äänen",
+      "lead": "Isot ja painavat kitaravahvistimet voivat jäädä pian tarpeettomiksi.",
+      "link": "https://www.hs.fi/teknologia/art-2000006407303.html",
+      "outlet": "Helsingin Sanomat",
+      "outlets": [
+        "Helsingin Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": true,
+      "signal_type": "research",
+      "tone": "neutral",
+      "stakeholders": [
+        "Helsingin Sanomat"
+      ],
+      "why_care": "Tutkimus tuo esiin tekoälyn kyvyt musiikkiteollisuudessa ja sen mahdolliset vaikutukset perinteisiin instrumentteihin."
+    },
+    {
+      "title": "Trump: Nvidian toimitusjohtaja Huang ei turvallisuusuhka",
+      "lead": "Trumpin mukaan hän on saanut paljon tietoa, johon hän perustaa arvionsa.",
+      "link": "https://www.mtvuutiset.fi/artikkeli/trump-nvidian-toimitusjohtaja-huang-ei-turvallisuusuhka/9426844",
+      "outlet": "MTV Uutiset",
+      "outlets": [
+        "MTV Uutiset"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "opinion",
+      "tone": "neutral",
+      "stakeholders": [
+        "Trump",
+        "Nvidia",
+        "Huang"
+      ],
+      "why_care": "Keskustelu Nvidian toimitusjohtajan turvallisuusarvioista voi vaikuttaa tekoälyteollisuuden maineeseen ja sääntelyyn."
+    },
+    {
+      "title": "Nyt tuli jäätävä ennuste siitä, mihin tekoäly pystyy jo ensi vuonna",
+      "lead": "Ensi vuonna voi rytistä.",
+      "link": "https://www.is.fi/digitoday/tietoturva/art-2000012431064.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "trend",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Tuo esiin tekoälyn kehityksen nopeuden ja sen mahdolliset vaikutukset tulevaisuudessa."
+    },
+    {
+      "title": "Sähköpostissa ongelmia maailmanlaajuisesti",
+      "lead": "Häiriöt ovat vaikuttaneet muun muassa Teamsiin, Outlookiin ja Copilot-tekoälyohjelmistoon.",
+      "link": "https://www.is.fi/digitoday/art-2000012409168.html",
+      "outlet": "Ilta-Sanomat",
+      "outlets": [
+        "Ilta-Sanomat"
+      ],
+      "outlet_count": 1,
+      "relevance": 1,
+      "finland_link": false,
+      "signal_type": "crisis",
+      "tone": "neutral",
+      "stakeholders": [],
+      "why_care": "Ongelmien esiintyminen Copilot-tekoälyohjelmistossa voi herättää huolta tekoälyn luotettavuudesta ja käytettävyydestä."
+    }
+  ],
+  "stats": {
+    "feeds": 11,
+    "items_fetched": 512,
+    "signals": 13,
+    "classifier_model": "gpt-4o-mini",
+    "summary_model": "gpt-4o"
+  }
+}
